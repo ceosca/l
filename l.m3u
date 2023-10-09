@@ -9,3 +9,7 @@ http://170.82.37.21:8000/play/a02r/index.m3u8
 http://170.82.37.21:8000/play/a02t/index.m3u8
 #EXTINF:-1,Telemundo Novelas
 https://i.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/Telemundo_HD.json
+https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_2A/Telemundo_HD.mpd
