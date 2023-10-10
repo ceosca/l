@@ -7,6 +7,8 @@ http://190.216.162.155:8001/play/a09l
 http://170.82.37.21:8000/play/a02r/index.m3u8
 #EXTINF:-1,Telemundo Miami
 http://170.82.37.21:8000/play/a02t/index.m3u8
+#EXTINF:-1,Telemundo Miami
+http://168.228.193.214:58005/play/a06d
 #EXTINF:-1,Telemundo Novelas
 https://i.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/163X7Gy/telemundo.png" tvg-group="CINE Y SERIES", TELEMUNDO
