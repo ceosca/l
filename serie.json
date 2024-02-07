@@ -2,12 +2,6 @@
   "series": [
     {
       "nombre": "Sofá de Escay Rojo",
-      "genero": "Drama",
-      "año": 2023,
-      "reparto": ["Actor 1", "Actriz 2", "Actor 3"],
-      "pais_origen": "Argentina",
-      "cantidad_temporadas": 1,
-      "cantidad_episodios": 8,
       "enlace": "https://github.com/ceosca/l/raw/main/serie.m4a",
       "capitulos": [
         {"titulo": "Capítulo 1: Sofá de escay rojo", "inicio": 0, "fin": 1694421},
@@ -22,12 +16,6 @@
     },
     {
       "nombre": "Division Palermo",
-      "genero": "Thriller",
-      "anio": 2024,
-      "reparto": ["Actriz A", "Actor B", "Actriz C"],
-      "pais_origen": "Argentina",
-      "cantidad_temporadas": 1,
-      "cantidad_episodios": 8,
       "enlace": "http://github.com/ceosca/l/main/palermo.m4a",
       "capitulos": [
         {"titulo": "Capítulo 1: Guardia urbana", "inicio": 0, "fin": 1760213},
