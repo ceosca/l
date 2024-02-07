@@ -3,7 +3,7 @@
     {
       "nombre": "Sofá de Escay Rojo",
       "genero": "Drama",
-      "año": 2023,
+      "anio": 2023,
       "reparto": ["Actor 1", "Actriz 2", "Actor 3"],
       "pais_origen": "Argentina",
       "cantidad_temporadas": 1,
@@ -19,11 +19,11 @@
         {"titulo": "Capítulo 7: Pensar con la polla", "inicio": 9250517, "fin": 10894933},
         {"titulo": "Capítulo 8: Trampa de osos", "inicio": 10894933, "fin": 12789376}
       ]
-    }
+    },
     {
       "nombre": "Division Palermo",
       "genero": "Thriller",
-      "año": 2024,
+      "anio": 2024,
       "reparto": ["Actriz A", "Actor B", "Actriz C"],
       "pais_origen": "Argentina",
       "cantidad_temporadas": 1,
@@ -40,3 +40,5 @@
         {"titulo": "Capítulo 8: Casi héroes", "inicio": 11081557, "fin": 12619776}
       ]
     }
+  ]
+}
