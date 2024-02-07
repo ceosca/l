@@ -40,6 +40,97 @@
         {"titulo": "Capítulo 8: Casi héroes", "inicio": 11081557, "fin": 12619776}
       ]
     },
+{
+            "nombre": "Alba",
+            "genero": "Drama",
+            "anio": 2021,
+            "reparto": [
+                "Elena Rivera",
+                "Jordi Ballester",
+                "Candela Cruz",
+                "Jason Fernández",
+                "Miquel Fernández",
+                "Antonio Gil",
+                "Pepa Gracia",
+                "Pol Hermoso",
+                "Franky Martín",
+                "Caterina Mengs",
+                "Adriana Ozores",
+                "Álvaro Rico",
+                "Mário Santos"
+            ],
+            "pais_origen": "España",
+            "cantidad_temporadas": 1,
+            "cantidad_episodios": 13,
+            "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/alba.m4a",
+            "capitulos": [
+                {
+                    "titulo": "Capítulo 1: What is Albas crime",
+                    "inicio": 0,
+                    "fin": 4152235
+                },
+                {
+                    "titulo": "Capítulo 2: Capítulo 2",
+                    "inicio": 4152235,
+                    "fin": 7596502
+                },
+                {
+                    "titulo": "Capítulo 3: Capítulo 3",
+                    "inicio": 7596502,
+                    "fin": 10662742
+                },
+                {
+                    "titulo": "Capítulo 4: Capítulo 4",
+                    "inicio": 10662742,
+                    "fin": 14022998
+                },
+                {
+                    "titulo": "Capítulo 5: Capítulo 5",
+                    "inicio": 14022998,
+                    "fin": 17171243
+                },
+                {
+                    "titulo": "Capítulo 6: Capítulo 6",
+                    "inicio": 17171243,
+                    "fin": 20211499
+                },
+                {
+                    "titulo": "Capítulo 7: Capítulo 7",
+                    "inicio": 20211499,
+                    "fin": 23257728
+                },
+                {
+                    "titulo": "Capítulo 8: Capítulo 8",
+                    "inicio": 23257728,
+                    "fin": 26457984
+                },
+                {
+                    "titulo": "Capítulo 9: Capítulo 9",
+                    "inicio": 26457984,
+                    "fin": 29484245
+                },
+                {
+                    "titulo": "Capítulo 10: Capítulo 10",
+                    "inicio": 29484245,
+                    "fin": 32576512
+                },
+                {
+                    "titulo": "Capítulo 11: Capítulo 11",
+                    "inicio": 32576512,
+                    "fin": 35634773
+                },
+                {
+                    "titulo": "Capítulo 12: Capítulo 12",
+                    "inicio": 35634773,
+                    "fin": 38913024
+                },
+                {
+                    "titulo": "Capítulo 13: Capítulo 13",
+                    "inicio": 38913024,
+                    "fin": 42131285
+                }
+            ]
+        },
     {
       "nombre": "45 revoluciones",
       "genero": "Drama",
