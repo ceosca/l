@@ -28,7 +28,7 @@
       "pais_origen": "Argentina",
       "cantidad_temporadas": 1,
       "cantidad_episodios": 8,
-      "enlace": "http://github.com/ceosca/l/main/palermo.m4a",
+      "enlace": "http://github.com/ceosca/l/raw/main/palermo.m4a",
       "capitulos": [
         {"titulo": "Capítulo 1: Guardia urbana", "inicio": 0, "fin": 1760213},
         {"titulo": "Capítulo 2: Bienvenido a la selva", "inicio": 1760213, "fin": 3384448},
