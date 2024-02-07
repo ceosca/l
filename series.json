@@ -42,3 +42,54 @@
     }
   ]
 }
+
+
+
+{
+    "series": [
+        {
+            "nombre": "42 dias",
+            "genero": "drama",
+            "año": 2022,
+            "reparto": [
+                "ni idea"
+            ],
+            "pais_origen": "chile",
+            "cantidad_temporadas": 1,
+            "cantidad_episodios": 6,
+            "enlace": "https://archive.org/download/snaes/42-dias-en-la-oscuridad.zip/",
+            "capitulos": [
+                {
+                    "inicio": 0,
+                    "fin": 2805120,
+                    "titulo": "Capítulo 1: Esas cosas no pasan acá"
+                },
+                {
+                    "inicio": 2805120,
+                    "fin": 5355947,
+                    "titulo": "Capítulo 2: ¿Qué dirían de ti si desapareces?"
+                },
+                {
+                    "inicio": 5355947,
+                    "fin": 7838720,
+                    "titulo": "Capítulo 3: La casa del frente"
+                },
+                {
+                    "inicio": 7838720,
+                    "fin": 10405589,
+                    "titulo": "Capítulo 4: Día 42"
+                },
+                {
+                    "inicio": 10405589,
+                    "fin": 12862336,
+                    "titulo": "Capítulo 5: No creo lo que dicen"
+                },
+                {
+                    "inicio": 12862336,
+                    "fin": 16428203,
+                    "titulo": "Capítulo 6: Cada vez más a oscuras"
+                }
+            ]
+        }
+    ]
+}
