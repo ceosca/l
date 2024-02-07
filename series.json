@@ -39,9 +39,7 @@
         {"titulo": "Capítulo 7: Noche de la electrónica", "inicio": 9511338, "fin": 11081557},
         {"titulo": "Capítulo 8: Casi héroes", "inicio": 11081557, "fin": 12619776}
       ]
-    }
-  ]
-}
+    },
         {
             "nombre": "45 revoluciones",
             "genero": "drama",
@@ -122,4 +120,3 @@
             ]
         }
     ]
-}
