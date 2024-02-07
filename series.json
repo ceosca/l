@@ -42,21 +42,15 @@
     },
         {
             "nombre": "45 revoluciones",
-            "genero": "drama",
+            "genero": "Drama",
             "anio": 2013,
-            "reparto": [
-                "nose"
-            ],
-            "pais_origen": "argentina",
+            "reparto": ["nose"],
+            "pais_origen": "Argentina",
             "cantidad_temporadas": 1,
             "cantidad_episodios": 13,
             "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/45-revoluciones.m4a",
             "capitulos": [
-                {
-                    "titulo": "Capítulo 1: Futura",
-                    "inicio": 0,
-                    "fin": 3482155
-                },
+                {"titulo": "Capítulo 1: Futura", "inicio": 0, "fin": 3482155},
                 {
                     "titulo": "Capítulo 2: El carnet",
                     "inicio": 3482155,
@@ -115,8 +109,6 @@
                 {
                     "titulo": "Capítulo 13: La última canción",
                     "inicio": 38824022,
-                    "fin": 42646187
-                }
+                    "fin": 42646187}
             ],
-        }
-    ]
+        },
