@@ -1,225 +1,393 @@
-[
+{
+  "series": [
     {
-        "nombre": "Cuarenta y dos días en la oscuridad",
-        "género": "Thriller",
-        "año": "2022",
+        "nombre": "la-casona",
+        "genero": "Drama",
+        "anio": 2033,
         "reparto": [
-            "Claudia Di Girolamo",
-            "Aline Küppenheim",
-            "Gloria Münchmeyer"
+            "muchos"
         ],
-        "país_origen": "Chile",
-        "cantidad_episodios": "6",
-        "enlace": "https://ia801304.us.archive.org/24/items/snauapc/42-dias-en-la-oscuridad.m4a",
-        "capítulos": [
+        "pais_origen": "España",
+        "cantidad_episodios": 123,
+        "enlace": "google.com",
+        "capitulos": [
             {
                 "inicio": 0,
-                "fin": 2805120,
-                "título": "Capítulo 1: Esas cosas no pasan acá"
+                "fin": 3654144,
+                "titulo": "Capítulo 1: Episodio 1"
             },
             {
-                "inicio": 2805120,
-                "fin": 5355947,
-                "título": "Capítulo 2: ¿Qué dirían de ti si desapareces?"
+                "inicio": 3654144,
+                "fin": 7052715,
+                "titulo": "Capítulo 2: Episodio 2"
             },
             {
-                "inicio": 5355947,
-                "fin": 7838720,
-                "título": "Capítulo 3: La casa del frente"
+                "inicio": 7052715,
+                "fin": 9954688,
+                "titulo": "Capítulo 3: Episodio 3"
             },
             {
-                "inicio": 7838720,
-                "fin": 10405589,
-                "título": "Capítulo 4: Día 42"
+                "inicio": 9954688,
+                "fin": 12741845,
+                "titulo": "Capítulo 4: Episodio 4"
             },
             {
-                "inicio": 10405589,
-                "fin": 12862336,
-                "título": "Capítulo 5: No creo lo que dicen"
+                "inicio": 12741845,
+                "fin": 15593386,
+                "titulo": "Capítulo 5: Episodio 5"
             },
             {
-                "inicio": 12862336,
-                "fin": 16428203,
-                "título": "Capítulo 6: Cada vez más a oscuras"
+                "inicio": 15593386,
+                "fin": 18401066,
+                "titulo": "Capítulo 6: Episodio 6"
+            },
+            {
+                "inicio": 18401066,
+                "fin": 21186687,
+                "titulo": "Capítulo 7: Episodio 7"
+            },
+            {
+                "inicio": 21186687,
+                "fin": 24000980,
+                "titulo": "Capítulo 8: Episodio 8"
+            },
+            {
+                "inicio": 24000980,
+                "fin": 26829055,
+                "titulo": "Capítulo 9: Episodio 9"
+            },
+            {
+                "inicio": 26829055,
+                "fin": 29607167,
+                "titulo": "Capítulo 10: Episodio 10"
+            },
+            {
+                "inicio": 29607167,
+                "fin": 32423551,
+                "titulo": "Capítulo 11: Episodio 11"
+            },
+            {
+                "inicio": 32423551,
+                "fin": 35161642,
+                "titulo": "Capítulo 12: Episodio 12"
+            },
+            {
+                "inicio": 35161642,
+                "fin": 37905109,
+                "titulo": "Capítulo 13: Episodio 13"
+            },
+            {
+                "inicio": 37905109,
+                "fin": 40630144,
+                "titulo": "Capítulo 14: Episodio 14"
+            },
+            {
+                "inicio": 40630144,
+                "fin": 43344512,
+                "titulo": "Capítulo 15: Episodio 15"
+            },
+            {
+                "inicio": 43344512,
+                "fin": 46089429,
+                "titulo": "Capítulo 16: Episodio 16"
+            },
+            {
+                "inicio": 46089429,
+                "fin": 48816000,
+                "titulo": "Capítulo 17: Episodio 17"
+            },
+            {
+                "inicio": 48816000,
+                "fin": 51535488,
+                "titulo": "Capítulo 18: Episodio 18"
+            },
+            {
+                "inicio": 51535488,
+                "fin": 54307541,
+                "titulo": "Capítulo 19: Episodio 19"
+            },
+            {
+                "inicio": 54307541,
+                "fin": 57083136,
+                "titulo": "Capítulo 20: Episodio 20"
+            },
+            {
+                "inicio": 57083136,
+                "fin": 59778048,
+                "titulo": "Capítulo 21: Episodio 21"
+            },
+            {
+                "inicio": 59778048,
+                "fin": 62568704,
+                "titulo": "Capítulo 22: Episodio 22"
+            },
+            {
+                "inicio": 62568704,
+                "fin": 65281749,
+                "titulo": "Capítulo 23: Episodio 23"
+            },
+            {
+                "inicio": 65281749,
+                "fin": 67968938,
+                "titulo": "Capítulo 24: Episodio 24"
+            },
+            {
+                "inicio": 67968938,
+                "fin": 70971946,
+                "titulo": "Capítulo 25: Episodio 25"
+            },
+            {
+                "inicio": 70971946,
+                "fin": 73637759,
+                "titulo": "Capítulo 26: Episodio 26"
+            },
+            {
+                "inicio": 73637759,
+                "fin": 76384383,
+                "titulo": "Capítulo 27: Episodio 27"
+            },
+            {
+                "inicio": 76384383,
+                "fin": 79039700,
+                "titulo": "Capítulo 28: Episodio 28"
+            },
+            {
+                "inicio": 79039700,
+                "fin": 81798996,
+                "titulo": "Capítulo 29: Episodio 29"
+            },
+            {
+                "inicio": 81798996,
+                "fin": 84463529,
+                "titulo": "Capítulo 30: Episodio 30"
+            },
+            {
+                "inicio": 84463529,
+                "fin": 87206825,
+                "titulo": "Capítulo 31: Episodio 31"
+            },
+            {
+                "inicio": 87206825,
+                "fin": 89989460,
+                "titulo": "Capítulo 32: Episodio 32"
+            },
+            {
+                "inicio": 89989460,
+                "fin": 92730025,
+                "titulo": "Capítulo 33: Episodio 33"
+            },
+            {
+                "inicio": 92730025,
+                "fin": 95467134,
+                "titulo": "Capítulo 34: Episodio 34"
+            },
+            {
+                "inicio": 95467134,
+                "fin": 98252030,
+                "titulo": "Capítulo 35: Episodio 35"
+            },
+            {
+                "inicio": 98252030,
+                "fin": 101057449,
+                "titulo": "Capítulo 36: Episodio 36"
+            },
+            {
+                "inicio": 101057449,
+                "fin": 103795070,
+                "titulo": "Capítulo 37: Episodio 37"
+            },
+            {
+                "inicio": 103795070,
+                "fin": 106533459,
+                "titulo": "Capítulo 38: Episodio 38"
+            },
+            {
+                "inicio": 106533459,
+                "fin": 109259091,
+                "titulo": "Capítulo 39: Episodio 39"
+            },
+            {
+                "inicio": 109259091,
+                "fin": 111973544,
+                "titulo": "Capítulo 40: Episodio 40"
+            },
+            {
+                "inicio": 111973544,
+                "fin": 114667005,
+                "titulo": "Capítulo 41: Episodio 41"
+            },
+            {
+                "inicio": 114667005,
+                "fin": 117371858,
+                "titulo": "Capítulo 42: Episodio 42"
+            },
+            {
+                "inicio": 117371858,
+                "fin": 120086141,
+                "titulo": "Capítulo 43: Episodio 43"
+            },
+            {
+                "inicio": 120086141,
+                "fin": 122849789,
+                "titulo": "Capítulo 44: Episodio 44"
+            },
+            {
+                "inicio": 122849789,
+                "fin": 125582333,
+                "titulo": "Capítulo 45: Episodio 45"
+            },
+            {
+                "inicio": 125582333,
+                "fin": 128460968,
+                "titulo": "Capítulo 46: Episodio 46"
+            },
+            {
+                "inicio": 128460968,
+                "fin": 131230077,
+                "titulo": "Capítulo 47: Episodio 47"
+            },
+            {
+                "inicio": 131230077,
+                "fin": 133946792,
+                "titulo": "Capítulo 48: Episodio 48"
+            },
+            {
+                "inicio": 133946792,
+                "fin": 136707155,
+                "titulo": "Capítulo 49: Episodio 49"
+            },
+            {
+                "inicio": 136707155,
+                "fin": 139421566,
+                "titulo": "Capítulo 50: Episodio 50"
+            },
+            {
+                "inicio": 139421566,
+                "fin": 142163625,
+                "titulo": "Capítulo 51: Episodio 51"
+            },
+            {
+                "inicio": 142163625,
+                "fin": 144925268,
+                "titulo": "Capítulo 52: Episodio 52"
+            },
+            {
+                "inicio": 144925268,
+                "fin": 147686996,
+                "titulo": "Capítulo 53: Episodio 53"
+            },
+            {
+                "inicio": 147686996,
+                "fin": 150409940,
+                "titulo": "Capítulo 54: Episodio 54"
+            },
+            {
+                "inicio": 150409940,
+                "fin": 153189929,
+                "titulo": "Capítulo 55: Episodio 55"
+            },
+            {
+                "inicio": 153189929,
+                "fin": 156009044,
+                "titulo": "Capítulo 56: Episodio 56"
+            },
+            {
+                "inicio": 156009044,
+                "fin": 158742271,
+                "titulo": "Capítulo 57: Episodio 57"
+            },
+            {
+                "inicio": 158742271,
+                "fin": 161445247,
+                "titulo": "Capítulo 58: Episodio 58"
+            },
+            {
+                "inicio": 161445247,
+                "fin": 164181759,
+                "titulo": "Capítulo 59: Episodio 59"
+            },
+            {
+                "inicio": 164181759,
+                "fin": 166914175,
+                "titulo": "Capítulo 60: Episodio 60"
+            },
+            {
+                "inicio": 166914175,
+                "fin": 169673471,
+                "titulo": "Capítulo 61: Episodio 61"
+            },
+            {
+                "inicio": 169673471,
+                "fin": 172523562,
+                "titulo": "Capítulo 62: Episodio 62"
+            },
+            {
+                "inicio": 172523562,
+                "fin": 175248853,
+                "titulo": "Capítulo 63: Episodio 63"
+            },
+            {
+                "inicio": 175248853,
+                "fin": 178056405,
+                "titulo": "Capítulo 64: Episodio 64"
+            },
+            {
+                "inicio": 178056405,
+                "fin": 180738773,
+                "titulo": "Capítulo 65: Episodio 65"
             }
         ]
     },
     {
-        "nombre": "Cuarenta y cinco revoluciones",
-        "género": "Drama",
-        "año": "2019",
+        "nombre": "mil-amores",
+        "genero": "Drama",
+        "anio": 2012,
         "reparto": [
-            "Guiomar Puerta",
-            "Carlos Cuevas",
-            "Iván Marcos",
-            "Israel Elejalde",
-            "Vito Sanz",
-            "Luis Larrodera",
-            "Marina San José",
-            "Carmen Gutiérrez",
-            "Pere Ponce",
-            "Diana Gómez",
-            "Eudald Font",
-            "Silvana Navas"
+            "merendinoflores"
         ],
-        "país_origen": "España",
-        "cantidad_episodios": "13",
-        "enlace": "https://ia801304.us.archive.org/24/items/snauapc/45-revoluciones.m4a",
-        "capítulos": [
+        "pais_origen": "Colombia",
+        "cantidad_episodios": 12,
+        "enlace": "faceook.com",
+        "capitulos": [
             {
                 "inicio": 0,
-                "fin": 3482155,
-                "título": "Capítulo 1: Futura"
+                "fin": 2949205,
+                "titulo": "Capítulo 1: Al garete"
             },
             {
-                "inicio": 3482155,
-                "fin": 6628310,
-                "título": "Capítulo 2: El carnet"
+                "inicio": 2949205,
+                "fin": 5299797,
+                "titulo": "Capítulo 2: El barrio"
             },
             {
-                "inicio": 6628310,
-                "fin": 10000470,
-                "título": "Capítulo 3: El sencillo"
+                "inicio": 5299797,
+                "fin": 7366101,
+                "titulo": "Capítulo 3: El Royal"
             },
             {
-                "inicio": 10000470,
-                "fin": 13090646,
-                "título": "Capítulo 4: La promoción"
+                "inicio": 7366101,
+                "fin": 9570560,
+                "titulo": "Capítulo 4: Intrusos"
             },
             {
-                "inicio": 13090646,
-                "fin": 16114817,
-                "título": "Capítulo 5: El álbum"
+                "inicio": 9570560,
+                "fin": 11238485,
+                "titulo": "Capítulo 5: La elegida"
             },
             {
-                "inicio": 16114817,
-                "fin": 19488982,
-                "título": "Capítulo 6: El concierto"
+                "inicio": 11238485,
+                "fin": 13527040,
+                "titulo": "Capítulo 6: La despedida"
             },
             {
-                "inicio": 19488982,
-                "fin": 22821163,
-                "título": "Capítulo 7: La película"
+                "inicio": 13527040,
+                "fin": 15805568,
+                "titulo": "Capítulo 7: La traición"
             },
             {
-                "inicio": 22821163,
-                "fin": 25973334,
-                "título": "Capítulo 8: La gira"
-            },
-            {
-                "inicio": 25973334,
-                "fin": 29271510,
-                "título": "Capítulo 9: El estreno"
-            },
-            {
-                "inicio": 29271510,
-                "fin": 32519681,
-                "título": "Capítulo 10: La puesta de largo"
-            },
-            {
-                "inicio": 32519681,
-                "fin": 35731841,
-                "título": "Capítulo 11: La oferta"
-            },
-            {
-                "inicio": 35731841,
-                "fin": 38824022,
-                "título": "Capítulo 12: El concurso"
-            },
-            {
-                "inicio": 38824022,
-                "fin": 42646187,
-                "título": "Capítulo 13: La última canción"
-            }
-        ]
-    },
-    {
-        "nombre": "Alba",
-        "género": "Drama",
-        "año": "2021",
-        "reparto": [
-            "Elena Rivera",
-            "Jordi Ballester",
-            "Candela Cruz",
-            "Jason Fernández",
-            "Miquel Fernández",
-            "Antonio Gil",
-            "Pepa Gracia",
-            "Pol Hermoso",
-            "Franky Martín",
-            "Caterina Mengs",
-            "Adriana Ozores",
-            "Álvaro Rico",
-            "Mário Santos"
-        ],
-        "país_origen": "España",
-        "cantidad_episodios": "13",
-        "enlace": "https://ia801304.us.archive.org/24/items/snauapc/alba.m4a",
-        "capítulos": [
-            {
-                "inicio": 0,
-                "fin": 4152235,
-                "título": "Capítulo 1: What is Albas crime"
-            },
-            {
-                "inicio": 4152235,
-                "fin": 7596502,
-                "título": "Capítulo 2: Capítulo 2"
-            },
-            {
-                "inicio": 7596502,
-                "fin": 10662742,
-                "título": "Capítulo 3: Capítulo 3"
-            },
-            {
-                "inicio": 10662742,
-                "fin": 14022998,
-                "título": "Capítulo 4: Capítulo 4"
-            },
-            {
-                "inicio": 14022998,
-                "fin": 17171243,
-                "título": "Capítulo 5: Capítulo 5"
-            },
-            {
-                "inicio": 17171243,
-                "fin": 20211499,
-                "título": "Capítulo 6: Capítulo 6"
-            },
-            {
-                "inicio": 20211499,
-                "fin": 23257728,
-                "título": "Capítulo 7: Capítulo 7"
-            },
-            {
-                "inicio": 23257728,
-                "fin": 26457984,
-                "título": "Capítulo 8: Capítulo 8"
-            },
-            {
-                "inicio": 26457984,
-                "fin": 29484245,
-                "título": "Capítulo 9: Capítulo 9"
-            },
-            {
-                "inicio": 29484245,
-                "fin": 32576512,
-                "título": "Capítulo 10: Capítulo 10"
-            },
-            {
-                "inicio": 32576512,
-                "fin": 35634773,
-                "título": "Capítulo 11: Capítulo 11"
-            },
-            {
-                "inicio": 35634773,
-                "fin": 38913024,
-                "título": "Capítulo 12: Capítulo 12"
-            },
-            {
-                "inicio": 38913024,
-                "fin": 42131285,
-                "título": "Capítulo 13: Capítulo 13"
+                "inicio": 15805568,
+                "fin": 18342357,
+                "titulo": "Capítulo 8: Sabotaje"
             }
         ]
     }
