@@ -19,6 +19,45 @@
         {"titulo": "Capítulo 8: Trampa de osos", "inicio": 10894933, "fin": 12789376}
       ]
     },
+[
+    {
+        "nombre": "Cuatro estaciones en la Habana",
+        "genero": "Thriller",
+        "anio": 2017,
+        "reparto": [
+            "Jorge Perugorría",
+            "Juana Acosta",
+            "Carlos Enrique Almirante",
+            "Mario Guerra",
+            "Reymond Miranda",
+            "Jazz Vilá"
+        ],
+        "pais_origen": "Rspaña",
+        "cantidad_episodios": 4,
+        "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/cuatro-estaciones-en-la-habana.m4a",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 5770069,
+                "titulo": "Capítulo 1: Vientos de Cuaresma"
+            },
+            {
+                "inicio": 5770069,
+                "fin": 10964138,
+                "titulo": "Capítulo 2: Pasado perfecto"
+            },
+            {
+                "inicio": 10964138,
+                "fin": 16159231,
+                "titulo": "Capítulo 3: Máscaras"
+            },
+            {
+                "inicio": 16159231,
+                "fin": 21390335,
+                "titulo": "Capítulo 4: Paisajes de otoño"
+            }
+        ]
+    },
     {
       "nombre": "Division Palermo",
       "genero": "Thriller",
