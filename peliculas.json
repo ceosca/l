@@ -1,0 +1,42 @@
+{
+    "peliculas": [
+        {
+            "titulo": "1917",
+            "director": "Sam Mendes",
+            "genero": "Acción",
+            "calificacion": "No recomendada a menores de 12 años",
+            "anio": 2019,
+            "pais": "Reino Unido",
+            "duracion": "119 minutos (1 h. 59 min.)",
+            "reparto": [
+                "George MacKay",
+                "Dean-Charles Chapman",
+                "Mark Strong",
+                "Richard Madden",
+                "Benedict Cumberbatch",
+                "Colin Firth",
+                "Andrew Scott",
+                "Daniel Mays."
+            ],
+            "sinopsis": "En lo más crudo de la Primera Guerra Mundial, dos jóvenes soldados británicos, Schofield y Blake reciben una misión aparentemente imposible. En una carrera contrarreloj, deberán atravesar el territorio enemigo para entregar un mensaje que evitará un mortífero ataque contra cientos de soldados, entre ellos el propio hermano de Blake.",
+            "enlace": "https://ia601304.us.archive.org/24/items/snauapc/42-dias-en-la-oscuridad.m4a"
+        },
+        {
+            "titulo": "2001: UNA ODISEA DEL ESPACIO",
+            "director": "Stanley Kubrick",
+            "genero": "Acción",
+            "calificacion": "Todos los públicos",
+            "anio": 1968,
+            "pais": "Reino Unido",
+            "duracion": "140 minutos (2 h. 20 min.) Color",
+            "reparto": [
+                "Keir Dullea",
+                "Garry Lockwood",
+                "William Sylvester",
+                "Daniel Richter."
+            ],
+            "sinopsis": "La historia de la humanidad, en diversos estadios del pasado y del futuro, es narrada en la película de ciencia-ficción de culto por excelencia de la historia del cine. En los albores del nacimiento del homo sapiens, unos simios descubren un monolito que les lleva a un estadio de inteligencia superior. Otro monolito vuelve a aparecer, millones de años después, enterrado en una luna, lo que provoca el interés de los científicos humanos. La aparición de HAL 9000, una máquina de inteligencia artificial encargada de todos los sistemas de una nave espacial tripulada durante una misión de la NASA, es todo un hallazgo y el personaje mejor construido, el más humano y, a la vez, el más abstracto. Ganadora de un Oscar por sus efectos especiales, supone el punto de partida de éstos para otras películas del género que la sucedieron.",
+            "enlace": "https://ia601304.us.archive.org/24/items/snauapc/45-revoluciones.m4a"
+        }
+    ]
+}
