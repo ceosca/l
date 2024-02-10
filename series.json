@@ -1,1273 +1,360 @@
 {
   "series": [
     {
-        "nombre": "Apache: la vida de Carlos Tévez",
-        "genero": "Drama",
-        "anio": 2019,
-        "reparto": [
-            "Balthazar Murillo",
-            "Sofia Gala",
-            "Patricio Contreras",
-            "Vanesa González",
-            "Alberto Ajaka",
-            "Diego Pérez"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 8,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/apache.m4a",
-        "sinopsis": "Narra la vida del jugador de fútbol Carlos Tévez, desde su infancia hasta alcanzar la fama con Boca Jrs.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2808235,
-                "titulo": "Capítulo 1: 1984"
-            },
-            {
-                "inicio": 2808235,
-                "fin": 5566464,
-                "titulo": "Capítulo 2: Entre el plomo y la desilusión"
-            },
-            {
-                "inicio": 5566464,
-                "fin": 8566699,
-                "titulo": "Capítulo 3: El legado"
-            },
-            {
-                "inicio": 8566699,
-                "fin": 11356928,
-                "titulo": "Capítulo 4: Un mundo nuevo, el origen"
-            },
-            {
-                "inicio": 11356928,
-                "fin": 14403157,
-                "titulo": "Capítulo 5: El valor de la identidad"
-            },
-            {
-                "inicio": 14403157,
-                "fin": 17253376,
-                "titulo": "Capítulo 6: Dos madres, un acto de amor"
-            },
-            {
-                "inicio": 17253376,
-                "fin": 19983616,
-                "titulo": "Capítulo 7: Las dos caras de una moneda"
-            },
-            {
-                "inicio": 19983616,
-                "fin": 22585856,
-                "titulo": "Capítulo 8: El gran día"
-            }
-        ]
+      "nombre": "Sofá de Escay Rojo",
+      "genero": "Drama",
+      "anio": 2023,
+      "reparto": ["Actor 1", "Actriz 2", "Actor 3"],
+      "pais_origen": "Argentina",
+      "cantidad_episodios": 8,
+      "sinopsis": "Una serie de drama argentina que sigue la vida de varios personajes cuyas historias se entrelazan en torno a un misterioso sofá rojo.",
+      "enlace": "https://github.com/ceosca/l/raw/main/serie.m4a",
+      "capitulos": [
+        {"titulo": "Capítulo 1: Sofá de escay rojo", "inicio": 0, "fin": 1694421},
+        {"titulo": "Capítulo 2: La realidad paralela", "inicio": 1694421, "fin": 3258837},
+        {"titulo": "Capítulo 3: El amor de las putas", "inicio": 3258837, "fin": 4861269},
+        {"titulo": "Capítulo 4: Polvo y sangre", "inicio": 4861269, "fin": 6383701},
+        {"titulo": "Capítulo 5: La evasión", "inicio": 6383701, "fin": 7754112},
+        {"titulo": "Capítulo 6: Liebres o zorras", "inicio": 7754112, "fin": 9250517},
+        {"titulo": "Capítulo 7: Pensar con la polla", "inicio": 9250517, "fin": 10894933},
+        {"titulo": "Capítulo 8: Trampa de osos", "inicio": 10894933, "fin": 12789376}
+      ]
     },
     {
-        "nombre": "Casi feliz, temporada 1",
-        "genero": "Comedia",
-        "anio": 2020,
-        "reparto": [
-            "Sebastián Wainraich",
-            "Natalie Pérez",
-            "Hugo Arana",
-            "Adriana Aizemberg",
-            "Santiago Korovsky",
-            "Juan Minujín",
-            "Carla Peterson",
-            "Julieta Díaz",
-            "Peto Menahem",
-            "Pilar Gamboa",
-            "Adrián Suar",
-            "Wos",
-            "Dalia Gutmann",
-            "Gustavo Garzon"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 10,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/casi-feliz-1.m4a",
-        "sinopsis": "Sebastián es un locutor de radio de discreta fama que intenta orientarse en el mundo al tiempo que se ocupa de su ex esposa Pilar, de quien sigue enamorado, y sus dos hijos.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 1452160,
-                "titulo": "Capítulo 1: Episodio 1"
-            },
-            {
-                "inicio": 1452160,
-                "fin": 2884309,
-                "titulo": "Capítulo 2: Episodio 2"
-            },
-            {
-                "inicio": 2884309,
-                "fin": 4564480,
-                "titulo": "Capítulo 3: Episodio 3"
-            },
-            {
-                "inicio": 4564480,
-                "fin": 6156629,
-                "titulo": "Capítulo 4: Episodio 4"
-            },
-            {
-                "inicio": 6156629,
-                "fin": 7538816,
-                "titulo": "Capítulo 5: Episodio 5"
-            },
-            {
-                "inicio": 7538816,
-                "fin": 8814976,
-                "titulo": "Capítulo 6: Episodio 6"
-            },
-            {
-                "inicio": 8814976,
-                "fin": 10149163,
-                "titulo": "Capítulo 7: Episodio 7"
-            },
-            {
-                "inicio": 10149163,
-                "fin": 11645312,
-                "titulo": "Capítulo 8: Episodio 8"
-            },
-            {
-                "inicio": 11645312,
-                "fin": 13031467,
-                "titulo": "Capítulo 9: Episodio 9"
-            },
-            {
-                "inicio": 13031467,
-                "fin": 14707627,
-                "titulo": "Capítulo 10: Episodio 10"
-            }
-        ]
-    },
-    {
-        "nombre": "Casi feliz, temporada 2",
-        "genero": "Comedia",
-        "anio": 2022,
-        "reparto": [
-            "Sebastián Wainraich",
-            "Natalie Pérez",
-            "Hugo Arana",
-            "Adriana Aizemberg",
-            "Santiago Korovsky",
-            "Juan Minujín",
-            "Carla Peterson",
-            "Julieta Díaz",
-            "Peto Menahem",
-            "Pilar Gamboa",
-            "Adrián Suar",
-            "Wos",
-            "Dalia Gutmann",
-            "Gustavo Garzon"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 8,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/casi-feliz-2.m4a",
-        "sinopsis": "En esta nueva temporada, Sebastián profundiza los conflictos con todos sus vínculos: con su ex mujer, embarazada de otro hombre; con sus hijos, que crecen y lo enfrentan; con sus compañeros de trabajo, que cada vez lo respetan menos; con su hermano, que le cuestiona cada paso que da en la vida y, por sobre todas las cosas, consigo mismo.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 1709867,
-                "titulo": "Capítulo 1: Permiso para volver"
-            },
-            {
-                "inicio": 1709867,
-                "fin": 3599915,
-                "titulo": "Capítulo 2: Dios mío"
-            },
-            {
-                "inicio": 3599915,
-                "fin": 5133611,
-                "titulo": "Capítulo 3: Actuar para vivir"
-            },
-            {
-                "inicio": 5133611,
-                "fin": 6783446,
-                "titulo": "Capítulo 4: Beso"
-            },
-            {
-                "inicio": 6783446,
-                "fin": 8637483,
-                "titulo": "Capítulo 5: Happy Happy"
-            },
-            {
-                "inicio": 8637483,
-                "fin": 10381398,
-                "titulo": "Capítulo 6: Línea de 3"
-            },
-            {
-                "inicio": 10381398,
-                "fin": 12501675,
-                "titulo": "Capítulo 7: Un río nos separa"
-            },
-            {
-                "inicio": 12501675,
-                "fin": 14451798,
-                "titulo": "Capítulo 8: Mamá"
-            }
-        ]
-    },
-    {
-        "nombre": "Cielo grande, temporada 1",
-        "genero": "Musical",
-        "anio": 2022,
-        "reparto": [
-            "Pilar Pascual",
-            "Abril di Yorio",
-            "Víctor Varona",
-            "Thaís Rippel",
-            "Guido Messina",
-            "Luan Brum",
-            "Axel Madrazo",
-            "Francisco Bass",
-            "Agustín Pardella",
-            "Fer Monzo",
-            "Juan Monzo",
-            "Mariel Percossi",
-            "Giulia Guerrini",
-            "Débora Nishimoto"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 11,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/cielo-grande-1.m4a",
-        "sinopsis": "Un remoto resort de Argentina reinstaura una competición de wakeboarding que atrae la atención de Steffi, deportista mexicana decidida a descubrir un secreto familiar.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2090453,
-                "titulo": "Capítulo 1: Un nuevo verano"
-            },
-            {
-                "inicio": 2090453,
-                "fin": 3962922,
-                "titulo": "Capítulo 2: Recuerdos de Sky Vibes"
-            },
-            {
-                "inicio": 3962922,
-                "fin": 5863381,
-                "titulo": "Capítulo 3: Friendzone"
-            },
-            {
-                "inicio": 5863381,
-                "fin": 7569834,
-                "titulo": "Capítulo 4: Una nueva competidora"
-            },
-            {
-                "inicio": 7569834,
-                "fin": 9840298,
-                "titulo": "Capítulo 5: ¿Quién es esa chica?"
-            },
-            {
-                "inicio": 9840298,
-                "fin": 11702741,
-                "titulo": "Capítulo 6: Noche de citas"
-            },
-            {
-                "inicio": 11702741,
-                "fin": 13431210,
-                "titulo": "Capítulo 7: Problemas inesperados"
-            },
-            {
-                "inicio": 13431210,
-                "fin": 15187669,
-                "titulo": "Capítulo 8: Pájaro deja el nido"
-            },
-            {
-                "inicio": 15187669,
-                "fin": 17030101,
-                "titulo": "Capítulo 9: ¿Verdad o consecuencia?"
-            },
-            {
-                "inicio": 17030101,
-                "fin": 18546560,
-                "titulo": "Capítulo 10: ¡Summer Crush!"
-            },
-            {
-                "inicio": 18546560,
-                "fin": 20006997,
-                "titulo": "Capítulo 11: Save Cielo"
-            }
-        ]
-    },
-    {
-        "nombre": "Cielo grande, temporada 2",
-        "genero": "Drama",
-        "anio": 2022,
-        "reparto": [
-            "Pilar Pascual",
-            "Abril di Yorio",
-            "Víctor Varona",
-            "Thaís Rippel",
-            "Guido Messina",
-            "Luan Brum",
-            "Axel Madrazo",
-            "Francisco Bass",
-            "Agustín Pardella",
-            "Fer Monzo",
-            "Juan Monzo",
-            "Mariel Percossi",
-            "Giulia Guerrini",
-            "Débora Nishimoto"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 8,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/cielo-grande-2.m4a",
-        "sinopsis": "la llegada de nuevos dueños a Cielo Grande viene acompañada por una amenaza que pronto sale a la luz. Los jóvenes que trabajan en el hotel fueron echados del lugar y no encuentran manera de recuperar el hotel.\nPero lo que resulta todavía más preocupante es que los flamantes propietarios planean talar los bosques de la propiedad para transformarlo en un resort internacional. Sólo el ‘Girls Jam’, una competencia de wakeboard femenino, podrá ayudarlos a revertir la destrucción.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 1726464,
-                "titulo": "Capítulo 1: Nueva administración"
-            },
-            {
-                "inicio": 1726464,
-                "fin": 3844907,
-                "titulo": "Capítulo 2: El desafío"
-            },
-            {
-                "inicio": 3844907,
-                "fin": 6023339,
-                "titulo": "Capítulo 3: Cambio de roles"
-            },
-            {
-                "inicio": 6023339,
-                "fin": 8039808,
-                "titulo": "Capítulo 4: Cielo abierto"
-            },
-            {
-                "inicio": 8039808,
-                "fin": 9906261,
-                "titulo": "Capítulo 5: ¡Se va!"
-            },
-            {
-                "inicio": 9906261,
-                "fin": 11704704,
-                "titulo": "Capítulo 6: A todo o nada"
-            },
-            {
-                "inicio": 11704704,
-                "fin": 13605163,
-                "titulo": "Capítulo 7: ¡Girls Jam!"
-            },
-            {
-                "inicio": 13605163,
-                "fin": 16041600,
-                "titulo": "Capítulo 8: Ahora o nunca"
-            }
-        ]
-    },
-    {
-        "nombre": "División Palermo",
-        "genero": "Comedia",
-        "anio": 2023,
-        "reparto": [
-            "Santiago Korovsky",
-            "Daniel Hendler",
-            "Pilar Gamboa",
-            "Martín Garabal",
-            "Charo López",
-            "Marcelo Subiotto",
-            "Carlos Belloso",
-            "Agustín Rittano",
-            "Sergio Prina",
-            "Alan Sabbagh"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 8,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/division-palermo.m4a",
-        "sinopsis": "Una Guardia Urbana inclusiva, ideada como operación de marketing para mejorar la imagen de las fuerzas de seguridad, descubrirá algo que no debía y se enfrentará con unos extraños narcos.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 1760213,
-                "titulo": "Capítulo 1: Guardia urbana"
-            },
-            {
-                "inicio": 1760213,
-                "fin": 3384448,
-                "titulo": "Capítulo 2: Bienvenido a la selva"
-            },
-            {
-                "inicio": 3384448,
-                "fin": 4782677,
-                "titulo": "Capítulo 3: Fin de semana verde"
-            },
-            {
-                "inicio": 4782677,
-                "fin": 6238890,
-                "titulo": "Capítulo 4: Un match"
-            },
-            {
-                "inicio": 6238890,
-                "fin": 7943125,
-                "titulo": "Capítulo 5: Los escalones están en tu mente"
-            },
-            {
-                "inicio": 7943125,
-                "fin": 9511338,
-                "titulo": "Capítulo 6: Amistades peligrosas"
-            },
-            {
-                "inicio": 9511338,
-                "fin": 11081557,
-                "titulo": "Capítulo 7: Noche de la electrónica"
-            },
-            {
-                "inicio": 11081557,
-                "fin": 12619776,
-                "titulo": "Capítulo 8: Casi héroes"
-            }
-        ]
-    },
-    {
-        "nombre": "Edha",
-        "genero": "Drama",
-        "anio": 2018,
-        "reparto": [
-            "Juana Viale",
-            "Antonio Birabent",
-            "Pablo Echarri",
-            "Sofia Gala",
-            "Ana Celentano",
-            "Delfina Chaves",
-            "Inés Estévez",
-            "Juan Pablo Geretto",
-            "Daniel Hendler",
-            "Flavio Mendoza",
-            "Osmar Nuñez",
-            "Daniel Pacheco",
-            "Dennis Smith",
-            "Andrés Velencoso",
-            "Julieta Zylberberg",
-            "Heinz K. Krattiger",
-            "Brian Beacock",
-            "Louis-Philippe Lécuyer",
-            "Luisina Quarleri",
-            "Malena Villa",
-            "Sophia Castiglione"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 10,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/edha.m4a",
-        "sinopsis": "Edha es una exitosa diseñadora de moda y madre soltera que se encuentra en una encrucijada que cambiará su vida para siempre. Mientras intenta tomar la decisión que la llevará a otro nivel en el mundo de la moda, conoce a un atractivo inmigrante convertido en modelo. Su pasión desenfrenada se mezclará con el profundo deseo de venganza de él.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2426496,
-                "titulo": "Capítulo 1: La marca de la venganza"
-            },
-            {
-                "inicio": 2426496,
-                "fin": 4812757,
-                "titulo": "Capítulo 2: Las costuras del pasado"
-            },
-            {
-                "inicio": 4812757,
-                "fin": 7411626,
-                "titulo": "Capítulo 3: El modelo perfecto"
-            },
-            {
-                "inicio": 7411626,
-                "fin": 9703253,
-                "titulo": "Capítulo 4: El cuerpo revelado"
-            },
-            {
-                "inicio": 9703253,
-                "fin": 12075477,
-                "titulo": "Capítulo 5: La segunda piel"
-            },
-            {
-                "inicio": 12075477,
-                "fin": 14319274,
-                "titulo": "Capítulo 6: La memoria del padre"
-            },
-            {
-                "inicio": 14319274,
-                "fin": 16643114,
-                "titulo": "Capítulo 7: La ruta de la verdad"
-            },
-            {
-                "inicio": 16643114,
-                "fin": 19094271,
-                "titulo": "Capítulo 8: El precio del silencio"
-            },
-            {
-                "inicio": 19094271,
-                "fin": 21373268,
-                "titulo": "Capítulo 9: La coartada"
-            },
-            {
-                "inicio": 21373268,
-                "fin": 23628713,
-                "titulo": "Capítulo 10: Alta costura"
-            }
-        ]
-    },
-    {
-        "nombre": "El amor después del amor",
-        "genero": "Drama",
-        "anio": 2023,
-        "reparto": [
-            "Iván Hochman",
-            "Micaela Riera",
-            "Daryna Butryk",
-            "Martín Campilongo",
-            "Andy Chango",
-            "Jean Pierre Noher",
-            "Mirella Pascual",
-            "Gaspar Offenhenden",
-            "Julian Kartun",
-            "Luis Ziembrowski"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 8,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-amor-despues-del-amor.m4a",
-        "sinopsis": "Serie biográfica que se sumerge en el universo y la historia de Fito Páez, una de las más grandes estrellas de la música en español, y así recorre 40 años de su vida que cambiaron la historia de lamúsica popular.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2454059,
-                "titulo": "Capítulo 1: Cuando yo me vaya de aquí"
-            },
-            {
-                "inicio": 2454059,
-                "fin": 4870998,
-                "titulo": "Capítulo 2: Una luna en el corazón"
-            },
-            {
-                "inicio": 4870998,
-                "fin": 7046187,
-                "titulo": "Capítulo 3: Canción sobre canción"
-            },
-            {
-                "inicio": 7046187,
-                "fin": 9835392,
-                "titulo": "Capítulo 4: Un cielo y un estado de coma"
-            },
-            {
-                "inicio": 9835392,
-                "fin": 12354389,
-                "titulo": "Capítulo 5: Parte del aire"
-            },
-            {
-                "inicio": 12354389,
-                "fin": 14557866,
-                "titulo": "Capítulo 6: En esta puta ciudad"
-            },
-            {
-                "inicio": 14557866,
-                "fin": 16832255,
-                "titulo": "Capítulo 7: Las sombras que aquí estuvieron"
-            },
-            {
-                "inicio": 16832255,
-                "fin": 19578154,
-                "titulo": "Capítulo 8: El amor después del amor"
-            }
-        ]
-    },
-    {
-        "nombre": "El reino, temporada 1",
+        "nombre": "Cuatro estaciones en la Habana",
         "genero": "Thriller",
-        "anio": 2021,
+        "anio": 2017,
         "reparto": [
-            "Diego Peretti",
-            "Chino Darín",
-            "Mercedes Morán",
-            "Nancy Dupláa",
-            "Joaquín Furriel",
-            "Peter Lanzani",
-            "Vera Spinetta",
-            "Nicolás García",
-            "Victoria Almeida",
-            "Alfonso Tort",
-            "Patricio Aramburu",
-            "Sofía Gala Castiglione",
-            "Santiago Korovsky"
+            "Jorge Perugorría",
+            "Juana Acosta",
+            "Carlos Enrique Almirante",
+            "Mario Guerra",
+            "Reymond Miranda",
+            "Jazz Vilá"
         ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 8,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-reyno-1.m4a",
-        "sinopsis": "Cuenta la historia del pastor Emilio Vázquez Pena (Peretti), candidato a Vicepresidente de la República, cuyo compañero de fórmula es asesinado súbitamente durante el acto de cierre de campaña. Luego del horror viene la oportunidad: Vásquez Pena podría convertirse ahora en el próximo presidente de la Nación. Entre intrigas Emilio intentará descifrar quién es el asesino y cuáles fueron sus causas, mientras se prepara para ser el nuevo líder del país.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2802304,
-                "titulo": "Capítulo 1: Control de daños"
-            },
-            {
-                "inicio": 2802304,
-                "fin": 4884608,
-                "titulo": "Capítulo 2: Un hombre de Dios"
-            },
-            {
-                "inicio": 4884608,
-                "fin": 7848917,
-                "titulo": "Capítulo 3: Expiación"
-            },
-            {
-                "inicio": 7848917,
-                "fin": 10541226,
-                "titulo": "Capítulo 4: El círculo de baba"
-            },
-            {
-                "inicio": 10541226,
-                "fin": 13557503,
-                "titulo": "Capítulo 5: Bastardos"
-            },
-            {
-                "inicio": 13557503,
-                "fin": 15809791,
-                "titulo": "Capítulo 6: El archivo Osorio"
-            },
-            {
-                "inicio": 15809791,
-                "fin": 18968106,
-                "titulo": "Capítulo 7: La marca del demonio"
-            },
-            {
-                "inicio": 18968106,
-                "fin": 21706410,
-                "titulo": "Capítulo 8: Por el bien de la república"
-            }
-        ]
-    },
-    {
-        "nombre": "El reino, temporada 2",
-        "genero": "Thriller",
-        "anio": 2023,
-        "reparto": [
-            "Diego Peretti",
-            "Chino Darín",
-            "Mercedes Morán",
-            "Nancy Dupláa",
-            "Joaquín Furriel",
-            "Peter Lanzani",
-            "Vera Spinetta",
-            "Nicolás García",
-            "Victoria Almeida",
-            "Alfonso Tort",
-            "Patricio Aramburu",
-            "Sofía Gala Castiglione",
-            "Santiago Korovsky"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 6,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-reyno-2.m4a",
-        "sinopsis": "El pastor Emilio es finalmente el presidente de la Argentina pero las cosas no marchan bien. Lejos de replegarse, Emilio va por más, sumando nuevos aliados y hasta un ejército propio, con quienes implementará un régimen de terror para recuperar el control del país y su popularidad. En una lucha sin cuartel entre el bien y el mal, su antagonista será Tadeo, quien sin buscarlo se convierte en un líder popular y no le escapará a la misión que tiene asignada.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 3176277,
-                "titulo": "Capítulo 1: Entre Dioses y Monstruos"
-            },
-            {
-                "inicio": 3176277,
-                "fin": 5790592,
-                "titulo": "Capítulo 2: Los Peones del Rey"
-            },
-            {
-                "inicio": 5790592,
-                "fin": 8378880,
-                "titulo": "Capítulo 3: Un Plan"
-            },
-            {
-                "inicio": 8378880,
-                "fin": 11079125,
-                "titulo": "Capítulo 4: Violencia Divina"
-            },
-            {
-                "inicio": 11079125,
-                "fin": 13277440,
-                "titulo": "Capítulo 5: La Suma del Poder"
-            },
-            {
-                "inicio": 13277440,
-                "fin": 16829739,
-                "titulo": "Capítulo 6: La Hora Novena"
-            }
-        ]
-    },
-    {
-        "nombre": "Estocolmo, identidad perdida",
-        "genero": "Thriller",
-        "anio": 2016,
-        "reparto": [
-            "Juana Viale",
-            "Luciano Cáceres",
-            "Esteban Lamothe",
-            "Leonor Benedetto",
-            "Jorge Marrale",
-            "Adriana Barraza"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 13,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/estocolmo.m4a",
-        "sinopsis": "Un agente encubierto, un fiscal y una periodista intentan desmantelar una red de trata de personas, pero nada es lo que parece.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2644139,
-                "titulo": "Capítulo 1: La chica perdida"
-            },
-            {
-                "inicio": 2644139,
-                "fin": 5209259,
-                "titulo": "Capítulo 2: ¿Quién es Roque Carbone?"
-            },
-            {
-                "inicio": 5209259,
-                "fin": 8075264,
-                "titulo": "Capítulo 3: Rosario en peligro"
-            },
-            {
-                "inicio": 8075264,
-                "fin": 10591403,
-                "titulo": "Capítulo 4: Las reglas están cambiando"
-            },
-            {
-                "inicio": 10591403,
-                "fin": 13549568,
-                "titulo": "Capítulo 5: La masacre de Jeremías"
-            },
-            {
-                "inicio": 13549568,
-                "fin": 16335701,
-                "titulo": "Capítulo 6: Fuego en la sangre"
-            },
-            {
-                "inicio": 16335701,
-                "fin": 19141802,
-                "titulo": "Capítulo 7: Sin retorno"
-            },
-            {
-                "inicio": 19141802,
-                "fin": 21903871,
-                "titulo": "Capítulo 8: Tiempo de revancha"
-            },
-            {
-                "inicio": 21903871,
-                "fin": 24873983,
-                "titulo": "Capítulo 9: Raíces"
-            },
-            {
-                "inicio": 24873983,
-                "fin": 27455146,
-                "titulo": "Capítulo 10: Prófugos"
-            },
-            {
-                "inicio": 27455146,
-                "fin": 29837311,
-                "titulo": "Capítulo 11: Purgatorio"
-            },
-            {
-                "inicio": 29837311,
-                "fin": 32084479,
-                "titulo": "Capítulo 12: Todo perdido"
-            },
-            {
-                "inicio": 32084479,
-                "fin": 34296490,
-                "titulo": "Capítulo 13: Todo vuelve"
-            }
-        ]
-    },
-    {
-        "nombre": "Go! Vive a tu manera, temporada 1",
-        "genero": "Comedia",
-        "anio": 2019,
-        "reparto": [
-            "Pilar Pascual",
-            "Renata Toscano",
-            "Jose Gimenez Zapiola",
-            "Santiago Sáez",
-            "Gastón Ricaud",
-            "Laura Azcurra",
-            "Axel Muñiz",
-            "Carmela Barsamián",
-            "Paulo Sánchez Lima",
-            "Majo Cardozo",
-            "Majo Chicar",
-            "Bautista Lena",
-            "Manuel Ramos",
-            "Daniel Rosado",
-            "Simón Hempe",
-            "Carolina Domenech",
-            "Antonella Carabelli",
-            "Ana Paula",
-            "Agustina Mindlin",
-            "Daniel Campomenosi"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 15,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/go-1.m4a",
-        "sinopsis": "Mía es una adolescente con talento para la música que vive con su madrina adoptiva y que consigue una beca para estudiar en la Academia Saint Mary, una elitista escuela reconocida por su prestigioso departamento de arte y sus estudiantes de privilegiada posición económica. Una vez que Mia asista al Saint Mary, buscará adaptarse a ella, sin embargo, deberá enfrentar a Lupe la hija del dueño del colegio, que a su vez es la estudiante más talentosa y popular de la academia. Por ello, junto con sus dos nuevos amigos, Mia buscará establecerse como uno de los mejores talentos del Saint Mary, incluso se enamorará de Álvaro, uno de los jugadores estrellas del equipo de basket de la academia, y además es el hermano de Lupe, quien se convertirá en su rival.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2396672,
-                "titulo": "Capítulo 1: Episodio 1"
-            },
-            {
-                "inicio": 2396672,
-                "fin": 4579328,
-                "titulo": "Capítulo 2: Episodio 2"
-            },
-            {
-                "inicio": 4579328,
-                "fin": 6893995,
-                "titulo": "Capítulo 3: Episodio 3"
-            },
-            {
-                "inicio": 6893995,
-                "fin": 9274667,
-                "titulo": "Capítulo 4: Episodio 4"
-            },
-            {
-                "inicio": 9274667,
-                "fin": 11547350,
-                "titulo": "Capítulo 5: Episodio 5"
-            },
-            {
-                "inicio": 11547350,
-                "fin": 14042027,
-                "titulo": "Capítulo 6: Episodio 6"
-            },
-            {
-                "inicio": 14042027,
-                "fin": 16498688,
-                "titulo": "Capítulo 7: Episodio 7"
-            },
-            {
-                "inicio": 16498688,
-                "fin": 18797355,
-                "titulo": "Capítulo 8: Episodio 8"
-            },
-            {
-                "inicio": 18797355,
-                "fin": 21204011,
-                "titulo": "Capítulo 9: Episodio 9"
-            },
-            {
-                "inicio": 21204011,
-                "fin": 23654699,
-                "titulo": "Capítulo 10: Episodio 10"
-            },
-            {
-                "inicio": 23654699,
-                "fin": 25967360,
-                "titulo": "Capítulo 11: Episodio 11"
-            },
-            {
-                "inicio": 25967360,
-                "fin": 28462037,
-                "titulo": "Capítulo 12: Episodio 12"
-            },
-            {
-                "inicio": 28462037,
-                "fin": 30882688,
-                "titulo": "Capítulo 13: Episodio 13"
-            },
-            {
-                "inicio": 30882688,
-                "fin": 33357355,
-                "titulo": "Capítulo 14: Episodio 14"
-            },
-            {
-                "inicio": 33357355,
-                "fin": 35734016,
-                "titulo": "Capítulo 15: Episodio 15"
-            }
-        ]
-    },
-    {
-        "nombre": "Go! Vive a tu manera, temporada 2",
-        "genero": "Comedia",
-        "anio": 2019,
-        "reparto": [
-            "Pilar Pascual",
-            "Renata Toscano",
-            "Jose Gimenez Zapiola",
-            "Santiago Sáez",
-            "Gastón Ricaud",
-            "Laura Azcurra",
-            "Axel Muñiz",
-            "Carmela Barsamián",
-            "Paulo Sánchez Lima",
-            "Majo Cardozo",
-            "Majo Chicar",
-            "Bautista Lena",
-            "Manuel Ramos",
-            "Daniel Rosado",
-            "Simón Hempe",
-            "Carolina Domenech",
-            "Antonella Carabelli",
-            "Ana Paula",
-            "Agustina Mindlin",
-            "Daniel Campomenosi"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 15,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/go-2.m4a",
-        "sinopsis": "Después de dejar de lado sus diferencias, Mía y Lupe decide participar juntas en el concurso final. Gracias a su gran interpretación, el equipo logra convertirse en los representantes de la Academia para el certamen nacional de baile y canto. Ramiro amenaza a Isabel de contarle toda la verdad sobre Mariana a Mía, lo que no esperaban, es que la joven logra escuchar la conversación. Álvaro entra en pánico cuando descubre que debe cambiar de escuela.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2338688,
-                "titulo": "Capítulo 1: Episodio 1"
-            },
-            {
-                "inicio": 2338688,
-                "fin": 4619349,
-                "titulo": "Capítulo 2: Episodio 2"
-            },
-            {
-                "inicio": 4619349,
-                "fin": 6966016,
-                "titulo": "Capítulo 3: Episodio 3"
-            },
-            {
-                "inicio": 6966016,
-                "fin": 9352704,
-                "titulo": "Capítulo 4: Episodio 4"
-            },
-            {
-                "inicio": 9352704,
-                "fin": 11781376,
-                "titulo": "Capítulo 5: Episodio 5"
-            },
-            {
-                "inicio": 11781376,
-                "fin": 14398037,
-                "titulo": "Capítulo 6: Episodio 6"
-            },
-            {
-                "inicio": 14398037,
-                "fin": 16672725,
-                "titulo": "Capítulo 7: Episodio 7"
-            },
-            {
-                "inicio": 16672725,
-                "fin": 19007402,
-                "titulo": "Capítulo 8: Episodio 8"
-            },
-            {
-                "inicio": 19007402,
-                "fin": 21554090,
-                "titulo": "Capítulo 9: Episodio 9"
-            },
-            {
-                "inicio": 21554090,
-                "fin": 23862741,
-                "titulo": "Capítulo 10: Episodio 10"
-            },
-            {
-                "inicio": 23862741,
-                "fin": 26343424,
-                "titulo": "Capítulo 11: Episodio 11"
-            },
-            {
-                "inicio": 26343424,
-                "fin": 28860075,
-                "titulo": "Capítulo 12: Episodio 12"
-            },
-            {
-                "inicio": 28860075,
-                "fin": 31258752,
-                "titulo": "Capítulo 13: Episodio 13"
-            },
-            {
-                "inicio": 31258752,
-                "fin": 33805440,
-                "titulo": "Capítulo 14: Episodio 14"
-            },
-            {
-                "inicio": 33805440,
-                "fin": 36396117,
-                "titulo": "Capítulo 15: Episodio 15"
-            }
-        ]
-    },
-    {
-        "nombre": "Historia de un clan",
-        "genero": "Drama",
-        "anio": 2015,
-        "reparto": [
-            "Alejandro Awada",
-            "Chino Darín",
-            "Cecilia Roth",
-            "Nazareno Casero",
-            "Rita Pauls",
-            "Tristán",
-            "María Soldi",
-            "Justina Bustos",
-            "Gustavo Garzón",
-            "Pablo Cedrón"
-        ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 11,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/historia-de-un-clan.m4a",
-        "sinopsis": "Historia de un clan se basa en los hechos reales de “el clan” Puccio, una familia tradicional de San Isidro que a comienzos de los ’80 se dedicó al secuestro y asesinato de empresarios allegados. Durante los 11 capítulos de la miniserie se podrá conocer más sobre la psicología de cada uno de los miembros de la familia liderada por su padre, Arquímedes. Los Puccio escondían a sus víctimas, pedían rescates millonarios, los cobraban y después las mataban porque eran empresarios de su círculo y amigos de sus hijos. Los Puccio secuestraron, de a uno, a cuatro empresarios y mataron a tres. La cuarta víctima se salvó porque entró la policía. Papá Arquímedes cayó cuando estaba a punto de cobrar el rescate. La Justicia lo condenó a reclusión perpetua. También terminaron en la cárcel su hijo Alejandro con prisión perpetua y Daniel, que está prófugo. Alejandro era un rugbier del CASI y, en 2008, a los 49 años murió por una infección. Había intentado suicidarse cuatro veces.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2945536,
-                "titulo": "Capítulo 1: Capítulo 1"
-            },
-            {
-                "inicio": 2945536,
-                "fin": 5741227,
-                "titulo": "Capítulo 2: Capítulo 2"
-            },
-            {
-                "inicio": 5741227,
-                "fin": 8687787,
-                "titulo": "Capítulo 3: Capítulo 3"
-            },
-            {
-                "inicio": 8687787,
-                "fin": 11857408,
-                "titulo": "Capítulo 4: Capítulo 4"
-            },
-            {
-                "inicio": 11857408,
-                "fin": 14619307,
-                "titulo": "Capítulo 5: Capítulo 5"
-            },
-            {
-                "inicio": 14619307,
-                "fin": 17539755,
-                "titulo": "Capítulo 6: Capítulo 6"
-            },
-            {
-                "inicio": 17539755,
-                "fin": 20603734,
-                "titulo": "Capítulo 7: Capítulo 7"
-            },
-            {
-                "inicio": 20603734,
-                "fin": 23362561,
-                "titulo": "Capítulo 8: Capítulo 8"
-            },
-            {
-                "inicio": 23362561,
-                "fin": 26221398,
-                "titulo": "Capítulo 9: Capítulo 9"
-            },
-            {
-                "inicio": 26221398,
-                "fin": 28900523,
-                "titulo": "Capítulo 10: Capítulo 10"
-            },
-            {
-                "inicio": 28900523,
-                "fin": 31749974,
-                "titulo": "Capítulo 11: Capítulo 11"
-            }
-        ]
-    },
-    {
-        "nombre": "Llamadme Francisco",
-        "genero": "Drama",
-        "anio": 2015,
-        "reparto": [
-            "Rodrigo De la Serna",
-            "Sergio Hernández",
-            "Muriel Santa Ana",
-            "José Ángel Egido",
-            "Pompeyo Audivert",
-            "Paula Baldini",
-            "Àlex Brendemühl",
-            "Mercedes Morán"
-        ],
-        "pais_origen": "Argentina",
+        "pais_origen": "Rspaña",
         "cantidad_episodios": 4,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/llamame-francisco.m4a",
-        "sinopsis": "Cuenta la historia de la vida del papa Francisco (antes Jorge Mario Bergoglio), desde su juventud en Buenos Aires y sus experiencias bajo la dictadura de Jorge Rafael Videla hasta su nombramiento como papa en 2013.",
+        "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/cuatro-estaciones-en-la-habana.m4a",
         "capitulos": [
             {
                 "inicio": 0,
-                "fin": 2984107,
-                "titulo": "Capítulo 1: El jesuita"
+                "fin": 5770069,
+                "titulo": "Capítulo 1: Vientos de Cuaresma"
             },
             {
-                "inicio": 2984107,
-                "fin": 6024192,
-                "titulo": "Capítulo 2: Ni muerto, ni vivo"
+                "inicio": 5770069,
+                "fin": 10964138,
+                "titulo": "Capítulo 2: Pasado perfecto"
             },
             {
-                "inicio": 6024192,
-                "fin": 8966315,
-                "titulo": "Capítulo 3: Nudos"
+                "inicio": 10964138,
+                "fin": 16159231,
+                "titulo": "Capítulo 3: Máscaras"
             },
             {
-                "inicio": 8966315,
-                "fin": 12004523,
-                "titulo": "Capítulo 4: El corazón que escucha"
+                "inicio": 16159231,
+                "fin": 21390335,
+                "titulo": "Capítulo 4: Paisajes de otoño"
             }
         ]
     },
     {
-        "nombre": "Monzón",
+      "nombre": "Division Palermo",
+      "genero": "Thriller",
+      "anio": 2024,
+      "reparto": ["Actriz A", "Actor B", "Actriz C"],
+      "pais_origen": "Argentina",
+      "cantidad_episodios": 8,
+      "enlace": "http://github.com/ceosca/l/raw/main/palermo.m4a",
+      "capitulos": [
+        {"titulo": "Capítulo 1: Guardia urbana", "inicio": 0, "fin": 1760213},
+        {"titulo": "Capítulo 2: Bienvenido a la selva", "inicio": 1760213, "fin": 3384448},
+        {"titulo": "Capítulo 3: Fin de semana verde", "inicio": 3384448, "fin": 4782677},
+        {"titulo": "Capítulo 4: Un match", "inicio": 4782677, "fin": 6238890},
+        {"titulo": "Capítulo 5: Los escalones están en tu mente", "inicio": 6238890, "fin": 7943125},
+        {"titulo": "Capítulo 6: Amistades peligrosas", "inicio": 7943125, "fin": 9511338},
+        {"titulo": "Capítulo 7: Noche de la electrónica", "inicio": 9511338, "fin": 11081557},
+        {"titulo": "Capítulo 8: Casi héroes", "inicio": 11081557, "fin": 12619776}
+      ]
+    },
+{
+    "nombre": "la casa de papel (temporada 5)",
+    "genero": "Drama",
+    "anio": 2021,
+    "reparto": [
+        "son muchos"
+    ],
+    "pais_origen": "España",
+    "cantidad_episodios": 10,
+    "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/la-casa-de-papel-5.m4a",
+    "capitulos": [
+        {
+            "titulo": "Capítulo 1: El final del camino",
+            "inicio": 0,
+            "fin": 2964736
+        },
+        {
+            "titulo": "Capítulo 2: ¿Crees en la reencarnación",
+            "inicio": 2964736,
+            "fin": 6097493
+        },
+        {
+            "titulo": "Capítulo 3: El espectáculo de la vida",
+            "inicio": 6097493,
+            "fin": 9070293
+        },
+        {
+            "titulo": "Capítulo 4: Tu sitio en el cielo",
+            "inicio": 9070293,
+            "fin": 12165034
+        },
+        {
+            "titulo": "Capítulo 5: Vivir muchas vidas",
+            "inicio": 12165034,
+            "fin": 15491839
+        },
+        {
+            "titulo": "Capítulo 6: Válvulas de escape",
+            "inicio": 15491839,
+            "fin": 18732628
+        },
+        {
+            "titulo": "Capítulo 7: Ciencia ilusionada",
+            "inicio": 18732628,
+            "fin": 21981396
+        },
+        {
+            "titulo": "Capítulo 8: La teoría de la elegancia",
+            "inicio": 21981396,
+            "fin": 24980180
+        },
+        {
+            "titulo": "Capítulo 9: Lo que se habla en la cama",
+            "inicio": 24980180,
+            "fin": 28112980
+        },
+        {
+            "titulo": "Capítulo 10: Una tradición familiar",
+            "inicio": 28112980,
+            "fin": 32687785
+        }
+    ]
+},
+    {
+      "nombre": "Alba",
+      "genero": "Drama",
+      "anio": 2021,
+      "reparto": [
+        "Elena Rivera",
+        "Jordi Ballester",
+        "Candela Cruz",
+        "Jason Fernández",
+        "Miquel Fernández",
+        "Antonio Gil",
+        "Pepa Gracia",
+        "Pol Hermoso",
+        "Franky Martín",
+        "Caterina Mengs",
+        "Adriana Ozores",
+        "Álvaro Rico",
+        "Mário Santos"
+      ],
+      "pais_origen": "España",
+      "cantidad_episodios": 13,
+      "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/alba.m4a",
+      "capitulos": [
+        {"titulo": "Capítulo 1: What is Albas crime", "inicio": 0, "fin": 4152235},
+        {"titulo": "Capítulo 2: Capítulo 2", "inicio": 4152235, "fin": 7596502},
+        {"titulo": "Capítulo 3: Capítulo 3", "inicio": 7596502, "fin": 10662742},
+        {"titulo": "Capítulo 4: Capítulo 4", "inicio": 10662742, "fin": 14022998},
+        {"titulo": "Capítulo 5: Capítulo 5", "inicio": 14022998, "fin": 17171243},
+        {"titulo": "Capítulo 6: Capítulo 6", "inicio": 17171243, "fin": 20211499},
+        {"titulo": "Capítulo 7: Capítulo 7", "inicio": 20211499, "fin": 23257728},
+        {"titulo": "Capítulo 8: Capítulo 8", "inicio": 23257728, "fin": 26457984},
+        {"titulo": "Capítulo 9: Capítulo 9", "inicio": 26457984, "fin": 29484245},
+        {"titulo": "Capítulo 10: Capítulo 10", "inicio": 29484245, "fin": 32576512},
+        {"titulo": "Capítulo 11: Capítulo 11", "inicio": 32576512, "fin": 35634773},
+        {"titulo": "Capítulo 12: Capítulo 12", "inicio": 35634773, "fin": 38913024},
+        {"titulo": "Capítulo 13: Capítulo 13", "inicio": 38913024, "fin": 42131285}
+      ]
+    },
+    {
+      "nombre": "45 revoluciones",
+      "genero": "Drama",
+      "anio": 2013,
+      "reparto": ["nose"],
+      "pais_origen": "Argentina",
+      "cantidad_episodios": 13,
+      "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/45-revoluciones.m4a",
+      "capitulos": [
+        {"titulo": "Capítulo 1: Futura", "inicio": 0, "fin": 3482155},
+        {"titulo": "Capítulo 2: El carnet", "inicio": 3482155, "fin": 6628310},
+        {"titulo": "Capítulo 3: El sencillo", "inicio": 6628310, "fin": 10000470},
+        {"titulo": "Capítulo 4: La promoción", "inicio": 10000470, "fin": 13090646},
+        {"titulo": "Capítulo 5: El álbum", "inicio": 13090646, "fin": 16114817},
+        {"titulo": "Capítulo 6: El concierto", "inicio": 16114817, "fin": 19488982},
+        {"titulo": "Capítulo 7: La película", "inicio": 19488982, "fin": 22821163},
+        {"titulo": "Capítulo 8: La gira", "inicio": 22821163, "fin": 25973334},
+        {"titulo": "Capítulo 9: El estreno", "inicio": 25973334, "fin": 29271510},
+        {"titulo": "Capítulo 10: La puesta de largo", "inicio": 29271510, "fin": 32519681},
+        {"titulo": "Capítulo 11: La oferta", "inicio": 32519681, "fin": 35731841},
+        {"titulo": "Capítulo 12: El concurso", "inicio": 35731841, "fin": 38824022},
+        {"titulo": "Capítulo 13: La última canción", "inicio": 38824022, "fin": 42646187}
+      ]
+    },
+    {
+        "nombre": "la casa de papel, temporada 1",
+        "genero": "Drama",
+        "anio": 2017,
+        "reparto": [
+            "nada"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 9,
+        "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/la-casa-de-papel-1.m4a",
+        "capitulos": [
+            {
+                "titulo": "Capítulo 1: Episodio 1",
+                "inicio": 0,
+                "fin": 4810368
+            },
+            {
+                "titulo": "Capítulo 2: Episodio 2",
+                "inicio": 4810368,
+                "fin": 8812032
+            },
+            {
+                "titulo": "Capítulo 3: Episodio 3",
+                "inicio": 8812032,
+                "fin": 12607317
+            },
+            {
+                "titulo": "Capítulo 4: Episodio 4",
+                "inicio": 12607317,
+                "fin": 16450730
+            },
+            {
+                "titulo": "Capítulo 5: Episodio 5",
+                "inicio": 16450730,
+                "fin": 20588501
+            },
+            {
+                "titulo": "Capítulo 6: Episodio 6",
+                "inicio": 20588501,
+                "fin": 25040512
+            },
+            {
+                "titulo": "Capítulo 7: Episodio 7",
+                "inicio": 25040512,
+                "fin": 29055701
+            },
+            {
+                "titulo": "Capítulo 8: Episodio 8",
+                "inicio": 29055701,
+                "fin": 33143893
+            },
+            {
+                "titulo": "Capítulo 9: Episodio 9",
+                "inicio": 33143893,
+                "fin": 37442560
+            }
+        ]
+    },
+    {
+        "nombre": "la casa de papel temporada 2",
+        "genero": "Drama",
+        "anio": 2017,
+        "reparto": [
+            "nada"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 6,
+        "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/la-casa-de-papel-2.m4a",
+        "capitulos": [
+            {
+                "titulo": "Capítulo 1: Episode 10",
+                "inicio": 0,
+                "fin": 3803605
+            },
+            {
+                "titulo": "Capítulo 2: Episode 11",
+                "inicio": 3803605,
+                "fin": 7553450
+            },
+            {
+                "titulo": "Capítulo 3: Episode 12",
+                "inicio": 7553450,
+                "fin": 11389781
+            },
+            {
+                "titulo": "Capítulo 4: Episode 13",
+                "inicio": 11389781,
+                "fin": 15627520
+            },
+            {
+                "titulo": "Capítulo 5: Episodio 5",
+                "inicio": 15627520,
+                "fin": 19477547
+            },
+            {
+                "titulo": "Capítulo 6: Episode 15",
+                "inicio": 19477547,
+                "fin": 23608747
+            }
+        ]
+    },
+    {
+        "nombre": "la casa de papel temporada 3",
         "genero": "Drama",
         "anio": 2019,
         "reparto": [
-            "Jorge Román",
-            "Mauricio Paniagua",
-            "Carla Quevedo",
-            "Fabián Arenillas",
-            "Celeste Cid",
-            "Paloma Ker",
-            "Diego Cremonesi",
-            "Belén Chavanne",
-            "Soledad Silveyra",
-            "Atilio Veronelli",
-            "Florencia Raggi",
-            "Lautaro Delgado",
-            "Yayo Guridi",
-            "Rodrigo Pedreira",
-            "Gustavo Garzon",
-            "Cumelen Sanz",
-            "Ignacio Gadano",
-            "Mariano Chiesa",
-            "Juanma Muniagurria",
-            "Andrés Gil",
-            "Fabian Wolfrom",
-            "Jean Pierre Noher",
-            "Alexia Moyano",
-            "Pablo Sorensen",
-            "Pedro Merlo",
-            "Diego Starosta",
-            "Lucas Pose",
-            "Mex Urtizberea",
-            "Pablo Ini",
-            "Guadalupe Docampo"
+            "nada"
         ],
-        "pais_origen": "Argentina",
-        "cantidad_episodios": 13,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/monzon.m4a",
-        "sinopsis": "Relata la vida del gran campeón argentino que no supo escaparle a la violencia. La serie recorre la investigación del asesinato de Alicia Muñiz, su última mujer y madre de su hijo menor, del cual Monzón es el principal acusado. También cuenta hitos de la biografía de Carlos Monzón (1942-1995), describiendo una vida tan fascinante como controversial, en una época en que la violencia era atribuida a la hombría y a la pasión.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2686464,
-                "titulo": "Capítulo 1: Episodio 1"
-            },
-            {
-                "inicio": 2686464,
-                "fin": 5365077,
-                "titulo": "Capítulo 2: Episodio 2"
-            },
-            {
-                "inicio": 5365077,
-                "fin": 8193024,
-                "titulo": "Capítulo 3: Episodio 3"
-            },
-            {
-                "inicio": 8193024,
-                "fin": 10820779,
-                "titulo": "Capítulo 4: Episodio 4"
-            },
-            {
-                "inicio": 10820779,
-                "fin": 13449600,
-                "titulo": "Capítulo 5: Episodio 5"
-            },
-            {
-                "inicio": 13449600,
-                "fin": 16183424,
-                "titulo": "Capítulo 6: Episodio 6"
-            },
-            {
-                "inicio": 16183424,
-                "fin": 18822869,
-                "titulo": "Capítulo 7: Episodio 7"
-            },
-            {
-                "inicio": 18822869,
-                "fin": 21564586,
-                "titulo": "Capítulo 8: Episodio 8"
-            },
-            {
-                "inicio": 21564586,
-                "fin": 24154154,
-                "titulo": "Capítulo 9: Episodio 9"
-            },
-            {
-                "inicio": 24154154,
-                "fin": 26752682,
-                "titulo": "Capítulo 10: Episodio 10"
-            },
-            {
-                "inicio": 26752682,
-                "fin": 29419477,
-                "titulo": "Capítulo 11: Episodio 11"
-            },
-            {
-                "inicio": 29419477,
-                "fin": 32198741,
-                "titulo": "Capítulo 12: Episodio 12"
-            },
-            {
-                "inicio": 32198741,
-                "fin": 35078016,
-                "titulo": "Capítulo 13: Episodio 13"
-            }
-        ]
-    },
-    {
-        "nombre": "Puerta 7",
-        "genero": "Thriller",
-        "anio": 2020,
-        "reparto": [
-            "Dolores Fonzi",
-            "Esteban Lamothe",
-            "Carlos Belloso",
-            "Juan Gil Navarro",
-            "Daniel Aráoz",
-            "Antonio Grimau"
-        ],
-        "pais_origen": "Argentina",
+        "pais_origen": "España",
         "cantidad_episodios": 8,
-        "enlace": "https://ia601304.us.archive.org/24/items/snauapc/puerta-7.m4a",
-        "sinopsis": "Es una exploración inquebrantable de las infames (y mundialmente famosas) barras bravas argentinas, un colectivo que se encuentra en el nexo del fútbol, la política y el crimen organizado. La serie sigue a una mujer en su intento de atravesar este mundo dominado por los hombres y de limpiar a un club de fútbol de su elemento criminal, el descenso de un joven a una barra brava para sacar a su familia de la pobreza, así como la guerra que se fomenta dentro de la hinchada del mismo club, mientras diferentes facciones se pelean por el alma de la barra brava y los millones que ilegalmente se toman de cada ingreso del club.",
+        "enlace": "https://ia601301.us.archive.org/2/items/saua_20240123/la-casa-de-papel-3.m4a",
         "capitulos": [
             {
+                "titulo": "Capítulo 1: Hemos vuelto",
                 "inicio": 0,
-                "fin": 2706901,
-                "titulo": "Capítulo 1: Episodio 1"
+                "fin": 3058816
             },
             {
-                "inicio": 2706901,
-                "fin": 5245653,
-                "titulo": "Capítulo 2: Episodio 2"
+                "titulo": "Capítulo 2: Aikido",
+                "inicio": 3058816,
+                "fin": 5601621
             },
             {
-                "inicio": 5245653,
-                "fin": 7564202,
-                "titulo": "Capítulo 3: Episodio 3"
+                "titulo": "Capítulo 3: 48 metros bajo el suelo",
+                "inicio": 5601621,
+                "fin": 8590421
             },
             {
-                "inicio": 7564202,
-                "fin": 10261119,
-                "titulo": "Capítulo 4: Episodio 4"
+                "titulo": "Capítulo 4: La hora del delfín",
+                "inicio": 8590421,
+                "fin": 11231189
             },
             {
-                "inicio": 10261119,
-                "fin": 12683732,
-                "titulo": "Capítulo 5: Episodio 5"
+                "titulo": "Capítulo 5: Bum, bum, ciao",
+                "inicio": 11231189,
+                "fin": 14249984
             },
             {
-                "inicio": 12683732,
-                "fin": 15100372,
-                "titulo": "Capítulo 6: Episodio 6"
+                "titulo": "Capítulo 6: Todo pareció insignificante",
+                "inicio": 14249984,
+                "fin": 17118507
             },
             {
-                "inicio": 15100372,
-                "fin": 17422889,
-                "titulo": "Capítulo 7: Episodio 7"
+                "titulo": "Capítulo 7: Pequeñas vacaciones",
+                "inicio": 17118507,
+                "fin": 19849259
             },
             {
-                "inicio": 17422889,
-                "fin": 19541204,
-                "titulo": "Capítulo 8: Episodio 8"
+                "titulo": "Capítulo 8: La deriva",
+                "inicio": 19849259,
+                "fin": 23431766
             }
-        ]
+      ]
     }
-]
+  ]
+}
