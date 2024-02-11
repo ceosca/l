@@ -1,7 +1,253 @@
 #EXTM3U
+#EXTINF:-1,A24
+https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+#EXTINF:-1,C5N
+https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1,Canal 26
+https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
+#EXTINF:-1,CrónicaTV
+https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
+#EXTINF:-1,LN+
+https://delivery.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+#EXTINF:-1,Investigación Periodística
+https://delivery.cdn.rcs.net.ar/mnp/ip/output.mpd
+#EXTINF:-1,TV Pública
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_DASH/Tv_Publica.mpd
+#EXTINF:-1,telefe cordoba
+https://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
+#EXTINF:-1,El Nueve
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1,el diez cordoba
+https://router.cdn.rcs.net.ar/iptelva/ch10cba/output.mpd
+#EXTINF:-1,telefe
+https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1,El Doce cordoba
+https://router.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
+#EXTINF:-1,El Trece
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-1,Net Tv
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1,América TV
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-1,TN Todo Noticias
+https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
+#EXTINF:-1,Canal rural
+https://delivery.cdn.rcs.net.ar/mnp/rural/output.mpd
+#EXTINF:-1,Encuentro
+https://delivery.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:-1,Construir TV
+https://delivery.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+#EXTINF:-1,aunar tv
+https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,ESPN HD
+http://190.90.154.73:8080/play/a012/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.90.154.73:8080/play/a00y/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.90.154.73:8080/play/a01x/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+http://190.90.154.73:8080/play/a03f/index.m3u8
+#EXTINF:-1,ESPN 5 HD
+http://190.90.154.73:8080/play/a02s/index.m3u8
+#EXTINF:-1,ESPN 6 HD
+http://190.90.154.73:8080/play/a01y/index.m3u8
+#EXTINF:-1,ESPN 7 HD
+http://190.90.154.73:8080/play/a02t/index.m3u8
+#EXTINF:-1,ESPN Premium
+https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1,TNT Sports
+https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:-1,Fox Sports
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1,Fox Sports 2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1,Fox Sports 3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-1,TyC Sports 
+https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
+#EXTINF:-1,TyC Sports internacional
+http://168.227.22.18:1936/live/mobile-005/playlist.m3u8
+#EXTINF:-1,depor tv
+https://delivery.cdn.rcs.net.ar/mnp/dxtv/output.mpd
+#EXTINF:-1,Garage TV
+https://delivery.cdn.rcs.net.ar/mnp/garage/output.mpd
+#EXTINF:-1,Golf Channel
+https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd
+
+
+#EXTINF:-1,Baby TV
+https://delivery.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1,CARTOON Network
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
+#EXTINF:-1,Cartoonito
+https://delivery.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1,Discovery Kids
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_DASH/Discovery_Kids.mpd
+#EXTINF:-1,Disney Chanel
+https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1,Disney Junior
+https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1,Nickelodeon
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:-1,Nickelodeon Junior
+https://delivery.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1,Paka Paka
+https://delivery.cdn.rcs.net.ar/mnp/pkpk/output.mpd
+#EXTINF:-1,Tooncast
+https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+
+
+
+#EXTINF:-1,A&E Mundo
+https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1,AMC
+https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:-1,AXN
+https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1,CineAr
+https://delivery.cdn.rcs.net.ar/mnp/cinear/output.mpd
+#EXTINF:-1,Cinecanal
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1,CineMax
+https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1,Comedy Central
+https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd
+#EXTINF:-1,Europa Europa
+https://delivery.cdn.rcs.net.ar/mnp/europa/output.mpd
+#EXTINF:-1,FX
+https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1,HBO
+https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1,HBO 2
+https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1,HBO Extreme
+https://delivery.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+#EXTINF:-1,HBO Family
+https://delivery.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+#EXTINF:-1,HBO Mundi
+https://delivery.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1,HBO Plus
+https://delivery.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1,HBO Pop
+https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1,HBO Signature
+https://delivery.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+#EXTINF:-1,I-Sat
+https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1,Paramount
+https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1,Sony Channel
+https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1,Space
+https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1,Star Channel
+https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+#EXTINF:-1,Studio Universal
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_DASH/Studio_Universal.mpd
+#EXTINF:-1,SyFy
+https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1,TBS
+https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1,TCM
+https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1,Telemundo Internacional
+https://delivery.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+#EXTINF:-1,TNT
+https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1,TNT Series
+https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:-1,TRU TV
+https://delivery.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1,Universal Channel
+https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1,Warner Channel
+https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+
+
+
+
+
+#EXTINF:-1,CM
+https://delivery.cdn.rcs.net.ar/mnp/cm/output.mpd
+#EXTINF:-1,HTV
+https://delivery.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1,MTV
+https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1,Much Music
+https://delivery.cdn.rcs.net.ar/mnp/much_music/output.mpd
+
+
+
+
+#EXTINF:-1,ANIMAL PLANET
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
+#EXTINF:-1,CNN en Español
+https://delivery.cdn.rcs.net.ar/mnp/cnne/output.mpd
+#EXTINF:-1,CNN Internacional
+https://delivery.cdn.rcs.net.ar/mnp/cnn/output.mpd
+#EXTINF:-1,Discovery Channel
+https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1,Discovery Home and Health
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_DASH/Home_Health.mpd
+#EXTINF:-1,Discovery ID
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
+#EXTINF:-1,Discovery Science
+https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
+#EXTINF:-1,Discovery TLC
+https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+#EXTINF:-1,Discovery Turbo
+https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-1,El Gourmet
+https://delivery.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1,El Trece Internacional
+http://177.222.108.82:2500/play/a0gd/index.m3u8
+#EXTINF:-1,Glitz
+https://delivery.cdn.rcs.net.ar/mnp/glitz/output.mpd
+#EXTINF:-1,HG TV
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_DASH/Discovery_HGTV.mpd
+#EXTINF:-1,HISTORY Channel
+https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1,Mas Chic
+https://delivery.cdn.rcs.net.ar/mnp/maschic/output.mpd
+#EXTINF:-1,NatGeo
+https://delivery.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
+#EXTINF:-1,Unife
+https://delivery.cdn.rcs.net.ar/mnp/cn23/output.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,ES : LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1,ES : LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1,ES : CLAN
+https://ztnr.rtve.es/ztnr/5466990.m3u8
 #EXTINF:-1,star TVE
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_a_131.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:-1,TVE internacional
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_a_128.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main_dvr.m3u8
 #EXTINF:-1,clan internacional:
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_a_119.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main_dvr.m3u8
