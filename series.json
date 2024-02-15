@@ -1,42 +1,6 @@
 {
   "series": [
     {
-      "nombre": "Bronca",
-      "genero": "Drama",
-      "anio": 2023,
-      "reparto": ["ni-idea"],
-      "pais_origen": "Estados Unidos",
-      "cantidad_episodios": 3,
-      "enlaces": [
-        {
-          "idioma": "Español Latino",
-          "enlace": "https://github.com/ceosca/l/raw/main/lat.m4a"
-        },
-        {
-          "idioma": "Español, España",
-          "enlace": "https://github.com/ceosca/l/raw/main/es.m4a"
-        }
-      ],
-      "sinopsis": "La primera serie en formato mkv.",
-      "capitulos": [
-        {
-          "inicio": 0,
-          "fin": 2345045,
-          "titulo": "Capítulo 1: Los pájaros no cantan, sino que gritan de dolor"
-        },
-        {
-          "inicio": 2345045,
-          "fin": 4353749,
-          "titulo": "Capítulo 2: La alegría de estar vivos"
-        },
-        {
-          "inicio": 4353749,
-          "fin": 6464554,
-          "titulo": "Capítulo 3: Estoy habitada por un grito"
-        }
-      ]
-    },
-    {
       "nombre": "Apache: la vida de Carlos Tévez",
         "genero": "Drama",
         "anio": 2019,
