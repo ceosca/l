@@ -1305,6 +1305,2448 @@
                 "titulo": "Capítulo 8: Episodio 8"
             }
         ]
+    },
+    {
+        "nombre": "Cuarenta y dos días en la oscuridad",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "Claudia Di Girolamo",
+            "Aline Küppenheim",
+            "Gloria Münchmeyer"
+        ],
+        "pais_origen": "Chile",
+        "cantidad_episodios": 6,
+      "enlaces": [        {          "idioma": "Español Latino",          "enlace": "-",
+        "sinopsis": "Una mujer busca dar con el paradero de su hermana desaparecida. Ella deberá luchar contra la negligencia de las instituciones, los prejuicios de la soledad y el acoso de los medios de comunicación.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2805120,
+                "titulo": "Capítulo 1: Esas cosas no pasan acá"
+            },
+            {
+                "inicio": 2805120,
+                "fin": 5355947,
+                "titulo": "Capítulo 2: ¿Qué dirían de ti si desapareces?"
+            },
+            {
+                "inicio": 5355947,
+                "fin": 7838720,
+                "titulo": "Capítulo 3: La casa del frente"
+            },
+            {
+                "inicio": 7838720,
+                "fin": 10405589,
+                "titulo": "Capítulo 4: Día 42"
+            },
+            {
+                "inicio": 10405589,
+                "fin": 12862336,
+                "titulo": "Capítulo 5: No creo lo que dicen"
+            },
+            {
+                "inicio": 12862336,
+                "fin": 16428203,
+                "titulo": "Capítulo 6: Cada vez más a oscuras"
+            }
+        ]
+    },
+    {
+        "nombre": "Cuarenta y cinco revoluciones",
+        "genero": "Drama",
+        "anio": 2019,
+        "reparto": [
+            "Guiomar Puerta",
+            "Carlos Cuevas",
+            "Iván Marcos",
+            "Israel Elejalde",
+            "Vito Sanz",
+            "Luis Larrodera",
+            "Marina San José",
+            "Carmen Gutiérrez",
+            "Pere Ponce",
+            "Diana Gómez",
+            "Eudald Font",
+            "Silvana Navas"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 13,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "-",
+        "sinopsis": "Futura es una discográfica de los años 60 que decide abrir una división dedicada al naciente fenómeno de la música pop-rock en plena España franquista. Este nuevo género musical estaba empezando a revolucionar el mundo, y la discográfica pronto vio una oportunidad. Maribel Campoy (Guiomar Puerta), una joven de apenas 20 años formada en el Conservatorio de Música, se verá al frente de un nuevo sello musical que va a cambiar las reglas del juego. Junto a su jefe, Guillermo Rojas (Iván Marcos) y Roberto (Carlos Cuevas), un joven cantante descubierto entre los escenarios de las Matinales del Circo Price, ‘45 Revoluciones’ dará luz a una nueva forma de entender el panorama musical. Tres personajes que se verán envueltos en un triángulo amoroso dentro de una época y un marco social donde la policía cargaba contra todos aquellos que pretendían revolucionar el país.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3482155,
+                "titulo": "Capítulo 1: Futura"
+            },
+            {
+                "inicio": 3482155,
+                "fin": 6628310,
+                "titulo": "Capítulo 2: El carnet"
+            },
+            {
+                "inicio": 6628310,
+                "fin": 10000470,
+                "titulo": "Capítulo 3: El sencillo"
+            },
+            {
+                "inicio": 10000470,
+                "fin": 13090646,
+                "titulo": "Capítulo 4: La promoción"
+            },
+            {
+                "inicio": 13090646,
+                "fin": 16114817,
+                "titulo": "Capítulo 5: El álbum"
+            },
+            {
+                "inicio": 16114817,
+                "fin": 19488982,
+                "titulo": "Capítulo 6: El concierto"
+            },
+            {
+                "inicio": 19488982,
+                "fin": 22821163,
+                "titulo": "Capítulo 7: La película"
+            },
+            {
+                "inicio": 22821163,
+                "fin": 25973334,
+                "titulo": "Capítulo 8: La gira"
+            },
+            {
+                "inicio": 25973334,
+                "fin": 29271510,
+                "titulo": "Capítulo 9: El estreno"
+            },
+            {
+                "inicio": 29271510,
+                "fin": 32519681,
+                "titulo": "Capítulo 10: La puesta de largo"
+            },
+            {
+                "inicio": 32519681,
+                "fin": 35731841,
+                "titulo": "Capítulo 11: La oferta"
+            },
+            {
+                "inicio": 35731841,
+                "fin": 38824022,
+                "titulo": "Capítulo 12: El concurso"
+            },
+            {
+                "inicio": 38824022,
+                "fin": 42646187,
+                "titulo": "Capítulo 13: La última canción"
+            }
+        ]
+    },
+    {
+        "nombre": "Alba",
+        "genero": "Drama",
+        "anio": 2021,
+        "reparto": [
+            "Elena Rivera",
+            "Jordi Ballester",
+            "Candela Cruz",
+            "Jason Fernández",
+            "Miquel Fernández",
+            "Antonio Gil",
+            "Pepa Gracia",
+            "Pol Hermoso",
+            "Franky Martín",
+            "Caterina Mengs",
+            "Adriana Ozores",
+            "Álvaro Rico",
+            "Mário Santos"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 13,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "-",
+        "sinopsis": "Alba es una joven sin miedo. Sin embargo, tras volver a su pueblo por vacaciones, una prometedora noche de fiesta se tiñe de tragedia cuando un grupo de chicos la agrede sexualmente. Al día siguiente, se despierta desnuda en la playa. Un año antes, cuando dejó atrás su previsible vida, no podía imaginar que en la gran capital se reencontraría con Bruno, su vecino de siempre, y por el que jamás se había interesado. Lo que, separados por una simple calle, nunca sucedió, se hace posible en una ciudad de cuatro millones de habitantes.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 4152235,
+                "titulo": "Capítulo 1: What is Albas crime"
+            },
+            {
+                "inicio": 4152235,
+                "fin": 7596502,
+                "titulo": "Capítulo 2: Capítulo 2"
+            },
+            {
+                "inicio": 7596502,
+                "fin": 10662742,
+                "titulo": "Capítulo 3: Capítulo 3"
+            },
+            {
+                "inicio": 10662742,
+                "fin": 14022998,
+                "titulo": "Capítulo 4: Capítulo 4"
+            },
+            {
+                "inicio": 14022998,
+                "fin": 17171243,
+                "titulo": "Capítulo 5: Capítulo 5"
+            },
+            {
+                "inicio": 17171243,
+                "fin": 20211499,
+                "titulo": "Capítulo 6: Capítulo 6"
+            },
+            {
+                "inicio": 20211499,
+                "fin": 23257728,
+                "titulo": "Capítulo 7: Capítulo 7"
+            },
+            {
+                "inicio": 23257728,
+                "fin": 26457984,
+                "titulo": "Capítulo 8: Capítulo 8"
+            },
+            {
+                "inicio": 26457984,
+                "fin": 29484245,
+                "titulo": "Capítulo 9: Capítulo 9"
+            },
+            {
+                "inicio": 29484245,
+                "fin": 32576512,
+                "titulo": "Capítulo 10: Capítulo 10"
+            },
+            {
+                "inicio": 32576512,
+                "fin": 35634773,
+                "titulo": "Capítulo 11: Capítulo 11"
+            },
+            {
+                "inicio": 35634773,
+                "fin": 38913024,
+                "titulo": "Capítulo 12: Capítulo 12"
+            },
+            {
+                "inicio": 38913024,
+                "fin": 42131285,
+                "titulo": "Capítulo 13: Capítulo 13"
+            }
+        ]
+    },
+    {
+        "nombre": "Alguien tiene que morir",
+        "genero": "Thriller",
+        "anio": 2020,
+        "reparto": [
+            "Cecilia Suárez",
+            "Ernesto Alterio",
+            "Carmen Maura",
+            "Ester Expósito",
+            "Alejandro Speitzer",
+            "Carlos Cuevas",
+            "Isaac Hernández",
+            "Pilar Castro",
+            "Mariola Fuentes",
+            "Eduardo Casanova",
+            "Manuel Morón",
+            "Juan Carlos Vellido",
+            "Javier Pereira",
+            "Iván Sánchez",
+            "Eloi Costa",
+            "Bruno Sevilla",
+            "Asier Flores",
+            "Lupe Cartie Roda",
+            "Marcos Mateo Ochoa",
+            "Christian Caner"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 3,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/alguien-tiene-que-morir.m4a",
+        "sinopsis": "La historia comienza con un joven al que sus padres le piden que vuelva de México a españa para que puedan conocer a su prometida. Él regresa acompañado de Lázaro, un misterioso bailarín de ballet.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2974336,
+                "titulo": "Capítulo 1: Soltar la presa"
+            },
+            {
+                "inicio": 2974336,
+                "fin": 5910656,
+                "titulo": "Capítulo 2: Tomar puntería"
+            },
+            {
+                "inicio": 5910656,
+                "fin": 9085013,
+                "titulo": "Capítulo 3: Apretar el gatillo"
+            }
+        ]
+    },
+    {
+        "nombre": "Alma",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "Mireia Oriol",
+            "Álex Villazán",
+            "Pol Monen",
+            "Claudia Roset",
+            "Javier Morgade",
+            "Nil Cardoner",
+            "María Caballero",
+            "Milena Smit",
+            "Elena Irureta",
+            "Marta Belaustegui",
+            "Josean Bengoetxea",
+            "Kandido Uranga",
+            "Katia Borlado"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 9,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/alma.m4a",
+        "sinopsis": "Tras sobrevivir a un accidente de autobús en el que mueren casi todos sus compañeros, Alma se despierta en un hospital sin recordar nada del incidente… ni de su pasado. Su casa está repleta de recuerdos que no son suyos y tanto la amnesia como el trauma hacen que experimente terrores nocturnos y sufra unas visiones que no consigue desentrañar. Con la ayuda de sus padres y amigos, desconocidos para ella, intentará descubrir el misterio que rodea al accidente a la vez que lucha por recuperar su vida y su identidad.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2646357,
+                "titulo": "Capítulo 1: Niebla"
+            },
+            {
+                "inicio": 2646357,
+                "fin": 5212714,
+                "titulo": "Capítulo 2: Secretos"
+            },
+            {
+                "inicio": 5212714,
+                "fin": 7841066,
+                "titulo": "Capítulo 3: Búsqueda"
+            },
+            {
+                "inicio": 7841066,
+                "fin": 10819455,
+                "titulo": "Capítulo 4: Sombras"
+            },
+            {
+                "inicio": 10819455,
+                "fin": 13253844,
+                "titulo": "Capítulo 5: Lara"
+            },
+            {
+                "inicio": 13253844,
+                "fin": 15808212,
+                "titulo": "Capítulo 6: Revelaciones"
+            },
+            {
+                "inicio": 15808212,
+                "fin": 18334591,
+                "titulo": "Capítulo 7: Umbrales"
+            },
+            {
+                "inicio": 18334591,
+                "fin": 21578964,
+                "titulo": "Capítulo 8: Deva"
+            },
+            {
+                "inicio": 21578964,
+                "fin": 25177343,
+                "titulo": "Capítulo 9: Regreso"
+            }
+        ]
+    },
+    {
+        "nombre": "Alta mar, temporada 1",
+        "genero": "Drama",
+        "anio": 2019,
+        "reparto": [
+            "Jon Kortajarena",
+            "Ángela Molina",
+            "Eloy Azorín",
+            "Félix Gómez",
+            "José Sacristán",
+            "Tamar Novas",
+            "Alejandra Onieva",
+            "Ivana Baquero"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/altamar-1.m4a",
+        "sinopsis": "Ambientada en un enorme transatlántico lleno de pasajeros que viajan de Europa a América en busca de un futuro mejor. Entre el pasaje y tripulación están dos hermanas, Carolina (Alejandra Onieva) y Eva (Ivana Baquero), tan distintas como inseparables; un apuesto oficial, Nicolás Salas (Jon Kortajarena), al que el destino ha ubicado en el lugar equivocado; y un misterio por resolver: el asesinato de una pasajera cuyo nombre no aparece en la lista de abordo, y a la que nadie recuerda. Amores, intrigas y muchas mentiras en un barco que esconde, en cada camarote, una historia y, en el fondo, un oscuro secreto. Solo una cosa está clara: estando en alta mar, el asesino no podrá salir del barco.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2970411,
+                "titulo": "Capítulo 1: El albatros"
+            },
+            {
+                "inicio": 2970411,
+                "fin": 5674795,
+                "titulo": "Capítulo 2: Los anillos"
+            },
+            {
+                "inicio": 5674795,
+                "fin": 8161195,
+                "titulo": "Capítulo 3: Sofía"
+            },
+            {
+                "inicio": 8161195,
+                "fin": 10509568,
+                "titulo": "Capítulo 4: Cambio de rumbo"
+            },
+            {
+                "inicio": 10509568,
+                "fin": 12757973,
+                "titulo": "Capítulo 5: La tormenta"
+            },
+            {
+                "inicio": 12757973,
+                "fin": 15348352,
+                "titulo": "Capítulo 6: 527 L."
+            },
+            {
+                "inicio": 15348352,
+                "fin": 18116736,
+                "titulo": "Capítulo 7: Tres horas"
+            },
+            {
+                "inicio": 18116736,
+                "fin": 20503125,
+                "titulo": "Capítulo 8: Caín"
+            }
+        ]
+    },
+    {
+        "nombre": "Alta mar, temporada 2",
+        "genero": "Drama",
+        "anio": 2019,
+        "reparto": [
+            "Jon Kortajarena",
+            "Ángela Molina",
+            "Eloy Azorín",
+            "Félix Gómez",
+            "José Sacristán",
+            "Tamar Novas",
+            "Alejandra Onieva",
+            "Ivana Baquero"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/altamar-2.m4a",
+        "sinopsis": "Tras rescatar a un grupo de náufragos, salen a flote nuevos secretos y misterios en el Bárbara de Braganza. ¿Hay un fantasma a bordo? ¿O Casandra está haciendo de las suyas?",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2306389,
+                "titulo": "Capítulo 1: Casandra"
+            },
+            {
+                "inicio": 2306389,
+                "fin": 5106773,
+                "titulo": "Capítulo 2: De entre los muertos"
+            },
+            {
+                "inicio": 5106773,
+                "fin": 7827157,
+                "titulo": "Capítulo 3: ¿Hay alguien ahí"
+            },
+            {
+                "inicio": 7827157,
+                "fin": 10397568,
+                "titulo": "Capítulo 4: Cambio de manos"
+            },
+            {
+                "inicio": 10397568,
+                "fin": 12989952,
+                "titulo": "Capítulo 5: El número final"
+            },
+            {
+                "inicio": 12989952,
+                "fin": 15488341,
+                "titulo": "Capítulo 6: El otro lado"
+            },
+            {
+                "inicio": 15488341,
+                "fin": 17966720,
+                "titulo": "Capítulo 7: Culpables"
+            },
+            {
+                "inicio": 17966720,
+                "fin": 20537131,
+                "titulo": "Capítulo 8: Amores que matan"
+            }
+        ]
+    },
+    {
+        "nombre": "Alta mar, temporada 3",
+        "genero": "Drama",
+        "anio": 2020,
+        "reparto": [
+            "Jon Kortajarena",
+            "Ángela Molina",
+            "Eloy Azorín",
+            "Félix Gómez",
+            "José Sacristán",
+            "Tamar Novas",
+            "Alejandra Onieva",
+            "Ivana Baquero"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 6,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/altamar-3.m4a",
+        "sinopsis": "Eva se une a una misión para descubrir a la persona que encubre un virus mortal a bordo del Bárbara de Braganza, embarcación que va de Argentina hacia México. Sin embargo, cuando ocurre un delito grave a bordo, Fabio le advierte a Eva que su misión se está volviendo peligrosa.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2518357,
+                "titulo": "Capítulo 1: Nuevo rumbo"
+            },
+            {
+                "inicio": 2518357,
+                "fin": 5016746,
+                "titulo": "Capítulo 2: Máscaras"
+            },
+            {
+                "inicio": 5016746,
+                "fin": 7521109,
+                "titulo": "Capítulo 3: Mar de fondo"
+            },
+            {
+                "inicio": 7521109,
+                "fin": 10147498,
+                "titulo": "Capítulo 4: Persiguiendo sombras"
+            },
+            {
+                "inicio": 10147498,
+                "fin": 12441855,
+                "titulo": "Capítulo 5: Encerrados"
+            },
+            {
+                "inicio": 12441855,
+                "fin": 15026218,
+                "titulo": "Capítulo 6: Mar eterno"
+            }
+        ]
+    },
+    {
+        "nombre": "Bienvenidos a Edén, temporada 1",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "Amaia Aberasturi",
+            "Belinda",
+            "Amaia Salamanca",
+            "Lola Rodríguez",
+            "Sergio Momo",
+            "Begoña Vargas",
+            "Ana Mena",
+            "Berta Vázquez",
+            "Tomy Aguilera",
+            "Guillermo Pfening",
+            "Albert Baró",
+            "Diego Garisa",
+            "Dariam Coco",
+            "Berta Castañé",
+            "Marina Campos"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/bienvenidos-a-eden-1.m4a",
+        "sinopsis": "¿Eres feliz? Con esta pregunta Zoa y otros cuatro atractivos jóvenes, muy activos en las redes sociales, son invitados a la fiesta más exclusiva de la historia en una isla secreta, organizada por la marca de una nueva bebida. Lo que comienza siendo un viaje excitante pronto se transformará por completo en el viaje de sus vidas. Pero el paraíso no es realmente lo que parece… Bienvenidos a Edén.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2490453,
+                "titulo": "Capítulo 1: El viaje de tu vida"
+            },
+            {
+                "inicio": 2490453,
+                "fin": 4778922,
+                "titulo": "Capítulo 2: Evaluación"
+            },
+            {
+                "inicio": 4778922,
+                "fin": 7113386,
+                "titulo": "Capítulo 3: Fiesta de despedida"
+            },
+            {
+                "inicio": 7113386,
+                "fin": 9853823,
+                "titulo": "Capítulo 4: La otra orilla"
+            },
+            {
+                "inicio": 9853823,
+                "fin": 12618282,
+                "titulo": "Capítulo 5: Tormenta"
+            },
+            {
+                "inicio": 12618282,
+                "fin": 14792746,
+                "titulo": "Capítulo 6: Rebelión"
+            },
+            {
+                "inicio": 14792746,
+                "fin": 16971178,
+                "titulo": "Capítulo 7: Lilith"
+            },
+            {
+                "inicio": 16971178,
+                "fin": 19735637,
+                "titulo": "Capítulo 8: El viaje de vuelta"
+            }
+        ]
+    },
+    {
+        "nombre": "Bienvenidos a Edén, temporada 2",
+        "genero": "Thriller",
+        "anio": 2023,
+        "reparto": [
+            "Amaia Aberasturi",
+            "Belinda",
+            "Amaia Salamanca",
+            "Lola Rodríguez",
+            "Sergio Momo",
+            "Begoña Vargas",
+            "Ana Mena",
+            "Berta Vázquez",
+            "Tomy Aguilera",
+            "Guillermo Pfening",
+            "Albert Baró",
+            "Diego Garisa",
+            "Dariam Coco",
+            "Berta Castañé",
+            "Marina Campos"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/bienvenidos-a-eden-2.m4a",
+        "sinopsis": "Con la isla llena de nuevas amenazas y sin posibilidad de escapatoria, la rebelión desata una batalla descarnada por la libertad mientras Astrid sigue con sus planes del Nuevo Edén.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3020459,
+                "titulo": "Capítulo 1: Infierno"
+            },
+            {
+                "inicio": 3020459,
+                "fin": 6172928,
+                "titulo": "Capítulo 2: Azul"
+            },
+            {
+                "inicio": 6172928,
+                "fin": 9033387,
+                "titulo": "Capítulo 3: Comité"
+            },
+            {
+                "inicio": 9033387,
+                "fin": 11609856,
+                "titulo": "Capítulo 4: Segundas oportunidades"
+            },
+            {
+                "inicio": 11609856,
+                "fin": 14268288,
+                "titulo": "Capítulo 5: El Nuevo Edén"
+            },
+            {
+                "inicio": 14268288,
+                "fin": 16920747,
+                "titulo": "Capítulo 6: Sobre las estrellas"
+            },
+            {
+                "inicio": 16920747,
+                "fin": 19447211,
+                "titulo": "Capítulo 7: Serpiente"
+            },
+            {
+                "inicio": 19447211,
+                "fin": 21937664,
+                "titulo": "Capítulo 8: Primer contacto"
+            }
+        ]
+    },
+    {
+        "nombre": "Brigada Costa del Sol",
+        "genero": "Acción; Drama",
+        "anio": 2019,
+        "reparto": [
+            "Hugo Silva",
+            "Sara Sálamo",
+            "Jesús Castro",
+            "Álvaro Cervantes",
+            "Eva Martín",
+            "Jorge Suquet",
+            "Carolina Yuste",
+            "Pepón Nieto",
+            "Miki Esparbé",
+            "Ana Fernández",
+            "Manolo Caro",
+            "Daniel Holguín",
+            "Cayetana Cabezas",
+            "Joaquín Galletero",
+            "Jorge Usón",
+            "Olivia Delcán",
+            "Maarten Dannenberg",
+            "Paco Marín",
+            "Miguel Ángel Luque",
+            "Mauricio Bautista",
+            "Juan Alberto de Burgos",
+            "Younes Bachir",
+            "Aníbal Soto",
+            "Juanma Lara",
+            "Edward Olive",
+            "Camino Fernández Texeira",
+            "Camino Fernández",
+            "Pablo Béjar",
+            "Manuel Tallafé",
+            "Rodrigo Poisón",
+            "Joaquín Núñez",
+            "José Troncoso",
+            "Unax Ugalde",
+            "Julián Villagrán"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 13,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/brigada-costa-del-sol.m4a",
+        "sinopsis": "Ambientada en 1977, un año que iba a culminar con la celebración de las elecciones y la llegada de la democracia a España. Es en estos momentos cuando una brigada especial de la policía es destinada a la localidad malagueña de Torremolinos para formar una unidad especial que permita acabar con el narcotráfico, que aún está en sus inicios.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3904256,
+                "titulo": "Capítulo 1: Mentiras"
+            },
+            {
+                "inicio": 3904256,
+                "fin": 8020523,
+                "titulo": "Capítulo 2: Soy de fiar"
+            },
+            {
+                "inicio": 8020523,
+                "fin": 11920811,
+                "titulo": "Capítulo 3: El diablo en las tripas"
+            },
+            {
+                "inicio": 11920811,
+                "fin": 15867094,
+                "titulo": "Capítulo 4: Morir solo"
+            },
+            {
+                "inicio": 15867094,
+                "fin": 19543382,
+                "titulo": "Capítulo 5: Fuego"
+            },
+            {
+                "inicio": 19543382,
+                "fin": 23419649,
+                "titulo": "Capítulo 6: El infierno de los burlangas"
+            },
+            {
+                "inicio": 23419649,
+                "fin": 27263916,
+                "titulo": "Capítulo 7: Hasta pronto, Torremolinos"
+            },
+            {
+                "inicio": 27263916,
+                "fin": 31080193,
+                "titulo": "Capítulo 8: El ruido de los truenos"
+            },
+            {
+                "inicio": 31080193,
+                "fin": 34928470,
+                "titulo": "Capítulo 9: Espejismo"
+            },
+            {
+                "inicio": 34928470,
+                "fin": 38926721,
+                "titulo": "Capítulo 10: 30 de noviembre"
+            },
+            {
+                "inicio": 38926721,
+                "fin": 42676993,
+                "titulo": "Capítulo 11: 1.º de diciembre"
+            },
+            {
+                "inicio": 42676993,
+                "fin": 46261249,
+                "titulo": "Capítulo 12: Pata negra"
+            },
+            {
+                "inicio": 46261249,
+                "fin": 50121516,
+                "titulo": "Capítulo 13: Los que caminan solos"
+            }
+        ]
+    },
+    {
+        "nombre": "Criminal: España",
+        "genero": "Thriller",
+        "anio": 2019,
+        "reparto": [
+            "Carmen Machi",
+            "Inma Cuesta",
+            "Eduard Fernández",
+            "Emma Suárez",
+            "Álvaro Cervantes",
+            "Jorge Bosch",
+            "José Ángel Egido",
+            "Nuria Mencía",
+            "Daniel Chamorro",
+            "María Morales",
+            "Javi Coll",
+            "Milo Taboada"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 3,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/criminal.m4a",
+        "sinopsis": "Serie ambientada en una sala de interrogatorios, donde se buscan respuestas y se viven dramas personales.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2402432,
+                "titulo": "Capítulo 1: Isabel"
+            },
+            {
+                "inicio": 2402432,
+                "fin": 4742869,
+                "titulo": "Capítulo 2: Carmen"
+            },
+            {
+                "inicio": 4742869,
+                "fin": 7219285,
+                "titulo": "Capítulo 3: Carmelo"
+            }
+        ]
+    },
+    {
+        "nombre": "Cuatro estaciones en la Habana",
+        "genero": "Thriller",
+        "anio": 2017,
+        "reparto": [
+            "Jorge Perugorría",
+            "Juana Acosta",
+            "Carlos Enrique Almirante",
+            "Mario Guerra",
+            "Reymond Miranda",
+            "Jazz Vilá"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 4,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/cuatro-estaciones-en-la-habana.m4a",
+        "sinopsis": "El detective Mario Conde desciende hasta el sofocante corazón de La Habana para investigar crímenes sombríos que podrían ser mortales. Los dos primeros episodios de la serie se componen de la película \"Vientos de La Habana\", dividida en dos partes.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 5770069,
+                "titulo": "Capítulo 1: Vientos de Cuaresma"
+            },
+            {
+                "inicio": 5770069,
+                "fin": 10964138,
+                "titulo": "Capítulo 2: Pasado perfecto"
+            },
+            {
+                "inicio": 10964138,
+                "fin": 16159231,
+                "titulo": "Capítulo 3: Máscaras"
+            },
+            {
+                "inicio": 16159231,
+                "fin": 21390335,
+                "titulo": "Capítulo 4: Paisajes de otoño"
+            }
+        ]
+    },
+    {
+        "nombre": "Días de Navidad",
+        "genero": "Drama",
+        "anio": 2019,
+        "reparto": [
+            "Victoria Abril",
+            "Elena Anaya",
+            "Nerea Barros",
+            "Verónica Echegui",
+            "Verónica Forqué",
+            "Charo López",
+            "Ángela Molina",
+            "Anna Moliner",
+            "Alicia Borrachero",
+            "Susi Sánchez",
+            "Francesc Garrido",
+            "Miquel Fernández",
+            "Nausicaa Bonnín",
+            "Berta Castañé",
+            "Mar Ayala",
+            "Carla Tous",
+            "David Solans",
+            "Iván Morales",
+            "Manel Barceló",
+            "Carles Arquimbau",
+            "Julio Manrique",
+            "Antonio Dechent",
+            "Andreu Benito",
+            "Carme Sansa",
+            "Gonzalo Cunill",
+            "Ettore Colombo"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 3,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/dias-de-navidad.m4a",
+        "sinopsis": "Miniserie de 3 episodios que presenta la celebración navideña de cuatro hermanas en su casa familiar durante tres épocas diferentes que, a su vez, representan tres etapas clave en sus vidas: la adolescencia, la vida adulta y la tercera edad. A través del paso del tiempo y distintas perspectivas se podrán ver dinámicas familiares, secretos y enfrentamientos personales.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3210368,
+                "titulo": "Capítulo 1: Episodio 1"
+            },
+            {
+                "inicio": 3210368,
+                "fin": 7218731,
+                "titulo": "Capítulo 2: Episodio 2"
+            },
+            {
+                "inicio": 7218731,
+                "fin": 10521088,
+                "titulo": "Capítulo 3: Episodio 3"
+            }
+        ]
+    },
+    {
+        "nombre": "El cuerpo en llamas",
+        "genero": "Thriller",
+        "anio": 2023,
+        "reparto": [
+            "Úrsula Corberó",
+            "Quim Gutiérrez",
+            "José Manuel Poga",
+            "Isak Férriz",
+            "Eva Llorach"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-cuerpo-en-llamas.m4a",
+        "sinopsis": "Mayo de 2017. El cadáver de un hombre aparece calcinado en el interior de un coche en el pantano de Foix, en Barcelona. Se trata de Pedro (José Manuel Poga), un agente policial. El suceso despierta rápidamente el interés de la opinión pública, y más a medida que la investigación va revelando una red de relaciones tóxicas, engaños, violencia y escándalos sexuales que involucran a Pedro y dos de sus compañeros policías: su pareja Rosa (Úrsula Corberó) y el exnovio de ésta, Albert (Quim Gutiérrez).",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3012907,
+                "titulo": "Capítulo 1: El pantano"
+            },
+            {
+                "inicio": 3012907,
+                "fin": 5905366,
+                "titulo": "Capítulo 2: Dos Rosas"
+            },
+            {
+                "inicio": 5905366,
+                "fin": 9045590,
+                "titulo": "Capítulo 3: La caída"
+            },
+            {
+                "inicio": 9045590,
+                "fin": 11846486,
+                "titulo": "Capítulo 4: Navidad"
+            },
+            {
+                "inicio": 11846486,
+                "fin": 14823723,
+                "titulo": "Capítulo 5: El amor"
+            },
+            {
+                "inicio": 14823723,
+                "fin": 17561259,
+                "titulo": "Capítulo 6: Lo imposible"
+            },
+            {
+                "inicio": 17561259,
+                "fin": 20576427,
+                "titulo": "Capítulo 7: Frente a frente"
+            },
+            {
+                "inicio": 20576427,
+                "fin": 23640491,
+                "titulo": "Capítulo 8: 1 de mayo, 2017"
+            }
+        ]
+    },
+    {
+        "nombre": "El desorden que dejas",
+        "genero": "Thriller",
+        "anio": 2020,
+        "reparto": [
+            "Bárbara Lennie",
+            "Inma Cuesta",
+            "Tamar Novas",
+            "Arón Piper",
+            "Roberto Enríquez",
+            "Federico Pérez",
+            "Susana Dans",
+            "Alfonso Agra",
+            "Xosé A. Touriñán",
+            "Roque Ruíz",
+            "Isabel Garrido"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-desorden-que-dejas.m4a",
+        "sinopsis": "Con la intención de darle una segunda oportunidad a su matrimonio, Raquel, una joven profesora de literatura, acepta un trabajo en el instituto del pueblo donde creció su marido. \"Y tú, ¿cuánto vas a tardar en morir?” Así de contundente es la nota que Raquel encuentra en su bolso el primer día de trabajo. Su ilusión por impartir clases se dará de bruces con unos alumnos que la reciben con esa macabra bienvenida. Pronto descubrirá quién era la profesora a la que sustituye, y cómo ha marcado la vida de todos. Raquel iniciará su propia búsqueda para descubrir la verdad en un lugar en el que todos parecen guardar secretos.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3370368,
+                "titulo": "Capítulo 1: En la boca del lobo"
+            },
+            {
+                "inicio": 3370368,
+                "fin": 6240768,
+                "titulo": "Capítulo 2: Lo saben"
+            },
+            {
+                "inicio": 6240768,
+                "fin": 8717141,
+                "titulo": "Capítulo 3: Cuenta hasta tres"
+            },
+            {
+                "inicio": 8717141,
+                "fin": 11503530,
+                "titulo": "Capítulo 4: Caída en picado"
+            },
+            {
+                "inicio": 11503530,
+                "fin": 14299903,
+                "titulo": "Capítulo 5: El lugar secreto"
+            },
+            {
+                "inicio": 14299903,
+                "fin": 16434303,
+                "titulo": "Capítulo 6: Lo que no quise ver en ti"
+            },
+            {
+                "inicio": 16434303,
+                "fin": 19012692,
+                "titulo": "Capítulo 7: La tercera víctima"
+            },
+            {
+                "inicio": 19012692,
+                "fin": 22035071,
+                "titulo": "Capítulo 8: El desorden que dejas"
+            }
+        ]
+    },
+    {
+        "nombre": "El inocente",
+        "genero": "Thriller",
+        "anio": 2021,
+        "reparto": [
+            "Mario Casas",
+            "Aura Garrido",
+            "Alexandra Jiménez",
+            "José Coronado",
+            "Nico Conde",
+            "Juana Acosta",
+            "Josean Bengoetxea",
+            "Jordi Coll",
+            "Gonzalo de Castro",
+            "Miki Esparbé",
+            "Martina Gusman",
+            "Susi Sánchez",
+            "Ana Wagener"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-inocente.m4a",
+        "sinopsis": "Una noche, hace nueve años, Mateo intercedió inocentemente en una pelea y terminó convirtiéndose en un asesino. Ahora es un ex convicto que no da nada por sentado. Su mujer, Olivia, está embarazada, y los dos están a punto de conseguir la casa de sus sueños. Pero una llamada impactante e inexplicable desde el móvil de Olivia vuelve a destrozar la vida de Mateo por segunda vez.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3064405,
+                "titulo": "Capítulo 1: Episodio 1"
+            },
+            {
+                "inicio": 3064405,
+                "fin": 6056832,
+                "titulo": "Capítulo 2: Episodio 2"
+            },
+            {
+                "inicio": 6056832,
+                "fin": 9549227,
+                "titulo": "Capítulo 3: Episodio 3"
+            },
+            {
+                "inicio": 9549227,
+                "fin": 13033643,
+                "titulo": "Capítulo 4: Episodio 4"
+            },
+            {
+                "inicio": 13033643,
+                "fin": 17024043,
+                "titulo": "Capítulo 5: Episodio 5"
+            },
+            {
+                "inicio": 17024043,
+                "fin": 20478464,
+                "titulo": "Capítulo 6: Episodio 6"
+            },
+            {
+                "inicio": 20478464,
+                "fin": 23722880,
+                "titulo": "Capítulo 7: Episodio 7"
+            },
+            {
+                "inicio": 23722880,
+                "fin": 27993301,
+                "titulo": "Capítulo 8: Episodio 8"
+            }
+        ]
+    },
+    {
+        "nombre": "El silencio",
+        "genero": "Thriller",
+        "anio": 2023,
+        "reparto": [
+            "Arón Piper",
+            "Almudena Amor",
+            "Cristina Kovani",
+            "Aitor Luna",
+            "Manu Ríos"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 6,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-secreto-de-la-familia-greco.png",
+        "sinopsis": "Sergio Ciscar (Arón Piper) es puesto en libertad 6 años después de haber asesinado a sus padres, cuando aún era menor de edad. Durante ese tiempo, Sergio no ha dicho una sola palabra ni ha colaborado con la justicia, por lo que tanto las motivaciones del crimen como sus actuales intenciones son un misterio. Ana Dussuel (Almudena Amor), una joven psiquiatra y su equipo serán los encargados de determinar su potencial peligro para la sociedad observándolo en secreto día y noche, como a un animal.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2864427,
+                "titulo": "Capítulo 1: Episodio 1"
+            },
+            {
+                "inicio": 2864427,
+                "fin": 5682816,
+                "titulo": "Capítulo 2: Episodio 2"
+            },
+            {
+                "inicio": 5682816,
+                "fin": 8539221,
+                "titulo": "Capítulo 3: Episodio 3"
+            },
+            {
+                "inicio": 8539221,
+                "fin": 11229610,
+                "titulo": "Capítulo 4: Episodio 4"
+            },
+            {
+                "inicio": 11229610,
+                "fin": 13986005,
+                "titulo": "Capítulo 5: Episodio 5"
+            },
+            {
+                "inicio": 13986005,
+                "fin": 16808405,
+                "titulo": "Capítulo 6: Episodio 6"
+            }
+        ]
+    },
+    {
+        "nombre": "Élite, temporada 1",
+        "genero": "Thriller",
+        "anio": 2018,
+        "reparto": [
+            "Omar Ayuso",
+            "Miguel Bernardeau",
+            "Mina El Hammani",
+            "Itzan Escamilla",
+            "Ester Expósito",
+            "Miguel Herrán",
+            "Jaime Lorente",
+            "Danna Paola",
+            "María Pedraza",
+            "Lola Marceli",
+            "Arón Piper",
+            "Álvaro Rico",
+            "Jorge Suquet"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/elite-1.m4a",
+        "sinopsis": "Las Encinas es el colegio más exclusivo del país y al que la élite envía a sus hijos a estudiar. Un mundo privilegiado con fiestas de alta sociedad, niños ricos, sexo y drogas. En él acaban de ser admitidos tres chicos de clase obrera después de que un terremoto destruyera el colegio público y sus alumnos tuvieran que ser repartidos por otros institutos de la zona. El choque entre los que lo tienen todo y los que no tienen nada que perder crea una tormenta perfecta que acaba en un asesinato. ¿Quién ha cometido el crimen?",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3396651,
+                "titulo": "Capítulo 1: Bienvenidos"
+            },
+            {
+                "inicio": 3396651,
+                "fin": 6397312,
+                "titulo": "Capítulo 2: Deseo"
+            },
+            {
+                "inicio": 6397312,
+                "fin": 9627947,
+                "titulo": "Capítulo 3: Sábado noche"
+            },
+            {
+                "inicio": 9627947,
+                "fin": 12528598,
+                "titulo": "Capítulo 4: El amor es una droga"
+            },
+            {
+                "inicio": 12528598,
+                "fin": 15485227,
+                "titulo": "Capítulo 5: Todos mienten"
+            },
+            {
+                "inicio": 15485227,
+                "fin": 18457856,
+                "titulo": "Capítulo 6: Todo va a salir bien"
+            },
+            {
+                "inicio": 18457856,
+                "fin": 21300523,
+                "titulo": "Capítulo 7: Todo estalla"
+            },
+            {
+                "inicio": 21300523,
+                "fin": 24403158,
+                "titulo": "Capítulo 8: Assilah"
+            }
+        ]
+    },
+    {
+        "nombre": "Élite, temporada 2",
+        "genero": "Thriller",
+        "anio": 2019,
+        "reparto": [
+            "Omar Ayuso",
+            "Miguel Bernardeau",
+            "Mina El Hammani",
+            "Itzan Escamilla",
+            "Ester Expósito",
+            "Miguel Herrán",
+            "Jaime Lorente",
+            "Danna Paola",
+            "María Pedraza",
+            "Lola Marceli",
+            "Arón Piper",
+            "Álvaro Rico",
+            "Jorge Suquet"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/elite-2.m4a",
+        "sinopsis": "Tras la muerte de una compañera de clase, un estudiante desaparece, cambian las lealtades, nuevos amigos se unen al drama y oscuros secretos salen a la luz.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3158613,
+                "titulo": "Capítulo 1: 20 horas desaparecido"
+            },
+            {
+                "inicio": 3158613,
+                "fin": 6055210,
+                "titulo": "Capítulo 2: 34 horas desaparecido"
+            },
+            {
+                "inicio": 6055210,
+                "fin": 9291818,
+                "titulo": "Capítulo 3: 36 horas desaparecido"
+            },
+            {
+                "inicio": 9291818,
+                "fin": 12262442,
+                "titulo": "Capítulo 4: 59 horas desaparecido"
+            },
+            {
+                "inicio": 12262442,
+                "fin": 15263061,
+                "titulo": "Capítulo 5: 63 horas desaparecido"
+            },
+            {
+                "inicio": 15263061,
+                "fin": 18141653,
+                "titulo": "Capítulo 6: 66 horas desaparecido"
+            },
+            {
+                "inicio": 18141653,
+                "fin": 21326250,
+                "titulo": "Capítulo 7: 84 horas desaparecido"
+            },
+            {
+                "inicio": 21326250,
+                "fin": 24366847,
+                "titulo": "Capítulo 8: 0 horas desaparecido"
+            }
+        ]
+    },
+    {
+        "nombre": "Élite, temporada 3",
+        "genero": "Thriller",
+        "anio": 2020,
+        "reparto": [
+            "Omar Ayuso",
+            "Miguel Bernardeau",
+            "Mina El Hammani",
+            "Itzan Escamilla",
+            "Ester Expósito",
+            "Miguel Herrán",
+            "Jaime Lorente",
+            "Danna Paola",
+            "María Pedraza",
+            "Lola Marceli",
+            "Arón Piper",
+            "Álvaro Rico",
+            "Jorge Suquet"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/elite-3.m4a",
+        "sinopsis": "Se inicia una nueva investigación a raíz del asesinato de otro estudiante. El alumnado piensa en su futuro, pero aún lo persiguen las secuelas del pasado del primer asesinato.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2930603,
+                "titulo": "Capítulo 1: Carla"
+            },
+            {
+                "inicio": 2930603,
+                "fin": 5917227,
+                "titulo": "Capítulo 2: Samuel y Guzmán"
+            },
+            {
+                "inicio": 5917227,
+                "fin": 8803840,
+                "titulo": "Capítulo 3: Cayetana y Valerio"
+            },
+            {
+                "inicio": 8803840,
+                "fin": 11962453,
+                "titulo": "Capítulo 4: Lu"
+            },
+            {
+                "inicio": 11962453,
+                "fin": 15113045,
+                "titulo": "Capítulo 5: Ander"
+            },
+            {
+                "inicio": 15113045,
+                "fin": 18157653,
+                "titulo": "Capítulo 6: Rebeka"
+            },
+            {
+                "inicio": 18157653,
+                "fin": 20962261,
+                "titulo": "Capítulo 7: Nadia y Omar"
+            },
+            {
+                "inicio": 20962261,
+                "fin": 24104874,
+                "titulo": "Capítulo 8: Polo"
+            }
+        ]
+    },
+    {
+        "nombre": "Élite, temporada 4",
+        "genero": "Thriller",
+        "anio": 2021,
+        "reparto": [
+            "Omar Ayuso",
+            "Miguel Bernardeau",
+            "Mina El Hammani",
+            "Itzan Escamilla",
+            "Ester Expósito",
+            "Miguel Herrán",
+            "Jaime Lorente",
+            "Danna Paola",
+            "María Pedraza",
+            "Lola Marceli",
+            "Arón Piper",
+            "Álvaro Rico",
+            "Jorge Suquet"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/elite-4.m4a",
+        "sinopsis": "A Las Encinas llegan un director muy estricto y cuatro nuevos alumnos que embisten con enredos amorosos, rumores graves y un misterio recién salido del horno.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3274624,
+                "titulo": "Capítulo 1: El nuevo orden"
+            },
+            {
+                "inicio": 3274624,
+                "fin": 6479232,
+                "titulo": "Capítulo 2: 5 segundos"
+            },
+            {
+                "inicio": 6479232,
+                "fin": 9733845,
+                "titulo": "Capítulo 3: Cuando bailan las mentiras con las tentaciones"
+            },
+            {
+                "inicio": 9733845,
+                "fin": 12428458,
+                "titulo": "Capítulo 4: Soy una"
+            },
+            {
+                "inicio": 12428458,
+                "fin": 15223082,
+                "titulo": "Capítulo 5: La reinserción"
+            },
+            {
+                "inicio": 15223082,
+                "fin": 17681706,
+                "titulo": "Capítulo 6: Te quiero mal"
+            },
+            {
+                "inicio": 17681706,
+                "fin": 20700330,
+                "titulo": "Capítulo 7: Antes de irme (1ª parte)"
+            },
+            {
+                "inicio": 20700330,
+                "fin": 23512959,
+                "titulo": "Capítulo 8: Antes de irme (2ª parte)"
+            }
+        ]
+    },
+    {
+        "nombre": "Élite, temporada 5",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "Omar Ayuso",
+            "Miguel Bernardeau",
+            "Mina El Hammani",
+            "Itzan Escamilla",
+            "Ester Expósito",
+            "Miguel Herrán",
+            "Jaime Lorente",
+            "Danna Paola",
+            "María Pedraza",
+            "Lola Marceli",
+            "Arón Piper",
+            "Álvaro Rico",
+            "Jorge Suquet"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/elite-5.m4a",
+        "sinopsis": "Comienza otro semestre en Las Encinas que trae nuevos triángulos amorosos, nuevos alumnos, nuevas reglas.... y un nuevo crimen que los deja a todos desconcertados.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2888619,
+                "titulo": "Capítulo 1: Yo lo maté"
+            },
+            {
+                "inicio": 2888619,
+                "fin": 5821227,
+                "titulo": "Capítulo 2: Todo vale"
+            },
+            {
+                "inicio": 5821227,
+                "fin": 8543830,
+                "titulo": "Capítulo 3: Átame"
+            },
+            {
+                "inicio": 8543830,
+                "fin": 11234433,
+                "titulo": "Capítulo 4: El cuerpo"
+            },
+            {
+                "inicio": 11234433,
+                "fin": 14495062,
+                "titulo": "Capítulo 5: Por favor, di la verdad"
+            },
+            {
+                "inicio": 14495062,
+                "fin": 17029675,
+                "titulo": "Capítulo 6: No puedes comprar mi amor"
+            },
+            {
+                "inicio": 17029675,
+                "fin": 19498283,
+                "titulo": "Capítulo 7: Tóxicos"
+            },
+            {
+                "inicio": 19498283,
+                "fin": 22556886,
+                "titulo": "Capítulo 8: Tu lado del mundo y el mío"
+            }
+        ]
+    },
+    {
+        "nombre": "Élite, temporada 6",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "Omar Ayuso",
+            "Miguel Bernardeau",
+            "Mina El Hammani",
+            "Itzan Escamilla",
+            "Ester Expósito",
+            "Miguel Herrán",
+            "Jaime Lorente",
+            "Danna Paola",
+            "María Pedraza",
+            "Lola Marceli",
+            "Arón Piper",
+            "Álvaro Rico",
+            "Jorge Suquet"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/elite-6.m4a",
+        "sinopsis": "Este año, en Las Encinas, no hay nadie que no esté buscando algo: amor, venganza o millones de seguidores. ¿Pero llegarán todos con vida a ver cumplidos sus objetivos?",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3192576,
+                "titulo": "Capítulo 1: Ansiedad"
+            },
+            {
+                "inicio": 3192576,
+                "fin": 5773141,
+                "titulo": "Capítulo 2: Selfis"
+            },
+            {
+                "inicio": 5773141,
+                "fin": 8701696,
+                "titulo": "Capítulo 3: Desnudos"
+            },
+            {
+                "inicio": 8701696,
+                "fin": 12072277,
+                "titulo": "Capítulo 4: Guerra"
+            },
+            {
+                "inicio": 12072277,
+                "fin": 15710848,
+                "titulo": "Capítulo 5: Duelo"
+            },
+            {
+                "inicio": 15710848,
+                "fin": 18651435,
+                "titulo": "Capítulo 6: Tina"
+            },
+            {
+                "inicio": 18651435,
+                "fin": 21385984,
+                "titulo": "Capítulo 7: Máscaras"
+            },
+            {
+                "inicio": 21385984,
+                "fin": 24744533,
+                "titulo": "Capítulo 8: Separación"
+            }
+        ]
+    },
+    {
+        "nombre": "Élite, temporada 7",
+        "genero": "Thriller",
+        "anio": 2023,
+        "reparto": [
+            "Omar Ayuso",
+            "Miguel Bernardeau",
+            "Mina El Hammani",
+            "Itzan Escamilla",
+            "Ester Expósito",
+            "Miguel Herrán",
+            "Jaime Lorente",
+            "Danna Paola",
+            "María Pedraza",
+            "Lola Marceli",
+            "Arón Piper",
+            "Álvaro Rico",
+            "Jorge Suquet"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/elite-7.m4a",
+        "sinopsis": "Omar ha vuelto. Iván sufre por amor. Isadora lidia con su peligrosa familia. ¿Podrán los alumnos de Las Encinas confiar los unos en los otros?.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3154731,
+                "titulo": "Capítulo 1: Las Encinas"
+            },
+            {
+                "inicio": 3154731,
+                "fin": 6161750,
+                "titulo": "Capítulo 2: Protocolo"
+            },
+            {
+                "inicio": 6161750,
+                "fin": 9328214,
+                "titulo": "Capítulo 3: Bling‑Bling"
+            },
+            {
+                "inicio": 9328214,
+                "fin": 12157611,
+                "titulo": "Capítulo 4: Punto y coma"
+            },
+            {
+                "inicio": 12157611,
+                "fin": 14984448,
+                "titulo": "Capítulo 5: La familia"
+            },
+            {
+                "inicio": 14984448,
+                "fin": 18130645,
+                "titulo": "Capítulo 6: Tocar fondo"
+            },
+            {
+                "inicio": 18130645,
+                "fin": 21624064,
+                "titulo": "Capítulo 7: Solo abrázame"
+            },
+            {
+                "inicio": 21624064,
+                "fin": 25297067,
+                "titulo": "Capítulo 8: Voy a acabar con esto para siempre"
+            }
+        ]
+    },
+    {
+        "nombre": "El tiempo que te doy",
+        "genero": "Drama",
+        "anio": 2021,
+        "reparto": [
+            "Nadia de Santiago",
+            "Álvaro Cervantes",
+            "Susana Abaitua",
+            "Cala Zavaleta",
+            "Nico Romero",
+            "Carla Linares",
+            "Moussa Echarif",
+            "Prince Ezeayim",
+            "David Castillo"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 10,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-tiempo-que-te-doy.m4a",
+        "sinopsis": "Cuenta la superación de una ruptura en diez episodios de escasos minutos, en donde una chica se intenta olvidar de un error romántico del pasado. Lina está empezando de nuevo, se muda de casa, busca un nuevo trabajo y prueba nuevas experiencias. Pero lo que Lina intenta hacer en realidad es olvidar un amor del pasado, su primer amor. Cada día, Lina intenta que el tiempo que pasa pensando en Nico sea un minuto menos para así poder avanzar con su vida.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 800256,
+                "titulo": "Capítulo 1: 1 minuto de presente y 10 minutos de recuerdo"
+            },
+            {
+                "inicio": 800256,
+                "fin": 1586517,
+                "titulo": "Capítulo 2: 2 minutos de presente y 9 minutos de recuerdo"
+            },
+            {
+                "inicio": 1586517,
+                "fin": 2362752,
+                "titulo": "Capítulo 3: 3 minutos de presente y 8 minutos de recuerdo"
+            },
+            {
+                "inicio": 2362752,
+                "fin": 3165013,
+                "titulo": "Capítulo 4: 4 minutos de presente y 7 minutos de recuerdo"
+            },
+            {
+                "inicio": 3165013,
+                "fin": 3951274,
+                "titulo": "Capítulo 5: 5 minutos de presente y 6 minutos de recuerdo"
+            },
+            {
+                "inicio": 3951274,
+                "fin": 4731519,
+                "titulo": "Capítulo 6: 6 minutos de presente y 5 minutos de recuerdo"
+            },
+            {
+                "inicio": 4731519,
+                "fin": 5501780,
+                "titulo": "Capítulo 7: 7 minutos de presente y 4 minutos de recuerdo"
+            },
+            {
+                "inicio": 5501780,
+                "fin": 6280020,
+                "titulo": "Capítulo 8: 8 minutos de presente y 3 minutos de recuerdo"
+            },
+            {
+                "inicio": 6280020,
+                "fin": 7066281,
+                "titulo": "Capítulo 9: 9 minutos de presente y 2 minutos de recuerdo"
+            },
+            {
+                "inicio": 7066281,
+                "fin": 7874516,
+                "titulo": "Capítulo 10: 10 minutos de presente y 1 minuto de recuerdo"
+            }
+        ]
+    },
+    {
+        "nombre": "El vecino, temporada 1",
+        "genero": "Comedia",
+        "anio": 2019,
+        "reparto": [
+            "Quim Gutiérrez",
+            "Clara Lago",
+            "Adrián Pino",
+            "Catalina Sopelana",
+            "Jorge Sanz",
+            "Sergio Momo",
+            "Aníbal Gómez",
+            "Denis Gómez",
+            "Nacho Marraco",
+            "Aitziber Garmendia",
+            "Marisa Lahoz",
+            "Paula Malia",
+            "Marisol Rolandi",
+            "Ferran Botifoll",
+            "Andoni Ferreño",
+            "Steve Galache",
+            "Úrsula Gutiérrez",
+            "Eduard Lupo",
+            "Lucía Perlado",
+            "Juan Antequera",
+            "Enrique Asenjo",
+            "Aitor Basterretxea",
+            "Jesús Berenguer",
+            "Pere Brasó",
+            "Almudena Calvo",
+            "Roberto Garrido De la Cruz",
+            "Alex de Nova",
+            "Pol Fernandez",
+            "Regina Fernando",
+            "Manuel Gonzalo",
+            "Lorena López",
+            "Victor Mendoza Jr.",
+            "Juan Carlos Meneses",
+            "Rulo Pardo",
+            "Francisco Paz",
+            "Alicia Rodríguez",
+            "Marcos Triguero",
+            "Carlos Valle",
+            "Mònica Van Campen",
+            "Sonia Villalba",
+            "Juan Vinuesa",
+            "Carlos Wu"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 10,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-vecino-1.m4a",
+        "sinopsis": "A Javier no le van demasiado bien las cosas. Apenas llega a fin de mes con un trabajo precario, y su relación con Lola no va precisamente bien. Lo que menos necesitaba es que un extraterrestre le cayera encima y le pasara sus superpoderes antes de morir. Ahora, Javier es un superhéroe, y no le va ni un poquito mejor que antes. Resulta que los superpoderes no sirven para nada cuando te echan del trabajo o cuando tu novia decide que tenéis que tomaros un tiempo. Menos mal que ahí tiene a José Ramón, su vecino, que va a enseñarle a usar sus poderes para el bien y a ocultar su identidad secreta, especialmente a Lola, que ha decidido darle un giro a su mediocre carrera de periodista investigando a Titán, el misterioso superhéroe.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 1974016,
+                "titulo": "Capítulo 1: Desde el espacio exterior"
+            },
+            {
+                "inicio": 1974016,
+                "fin": 3469824,
+                "titulo": "Capítulo 2: La red social"
+            },
+            {
+                "inicio": 3469824,
+                "fin": 5373525,
+                "titulo": "Capítulo 3: Día de entrenamiento"
+            },
+            {
+                "inicio": 5373525,
+                "fin": 6884906,
+                "titulo": "Capítulo 4: El dilema"
+            },
+            {
+                "inicio": 6884906,
+                "fin": 8623743,
+                "titulo": "Capítulo 5: Secretos y mentiras"
+            },
+            {
+                "inicio": 8623743,
+                "fin": 10267135,
+                "titulo": "Capítulo 6: La tormenta perfecta"
+            },
+            {
+                "inicio": 10267135,
+                "fin": 11912404,
+                "titulo": "Capítulo 7: La entrevista"
+            },
+            {
+                "inicio": 11912404,
+                "fin": 13613225,
+                "titulo": "Capítulo 8: La gran apuesta"
+            },
+            {
+                "inicio": 13613225,
+                "fin": 15321982,
+                "titulo": "Capítulo 9: La fiesta"
+            },
+            {
+                "inicio": 15321982,
+                "fin": 16942206,
+                "titulo": "Capítulo 10: Colosal"
+            }
+        ]
+    },
+    {
+        "nombre": "El vecino, temporada 2",
+        "genero": "Comedia",
+        "anio": 2021,
+        "reparto": [
+            "Quim Gutiérrez",
+            "Clara Lago",
+            "Adrián Pino",
+            "Catalina Sopelana",
+            "Jorge Sanz",
+            "Sergio Momo",
+            "Aníbal Gómez",
+            "Denis Gómez",
+            "Nacho Marraco",
+            "Aitziber Garmendia",
+            "Marisa Lahoz",
+            "Paula Malia",
+            "Marisol Rolandi",
+            "Ferran Botifoll",
+            "Andoni Ferreño",
+            "Steve Galache",
+            "Úrsula Gutiérrez",
+            "Eduard Lupo",
+            "Lucía Perlado",
+            "Juan Antequera",
+            "Enrique Asenjo",
+            "Aitor Basterretxea",
+            "Jesús Berenguer",
+            "Pere Brasó",
+            "Almudena Calvo",
+            "Roberto Garrido De la Cruz",
+            "Alex de Nova",
+            "Pol Fernandez",
+            "Regina Fernando",
+            "Manuel Gonzalo",
+            "Lorena López",
+            "Victor Mendoza Jr.",
+            "Juan Carlos Meneses",
+            "Rulo Pardo",
+            "Francisco Paz",
+            "Alicia Rodríguez",
+            "Marcos Triguero",
+            "Carlos Valle",
+            "Mònica Van Campen",
+            "Sonia Villalba",
+            "Juan Vinuesa",
+            "Carlos Wu"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-vecino-2.m4a",
+        "sinopsis": "",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 1791061,
+                "titulo": "Capítulo 1: Tucker"
+            },
+            {
+                "inicio": 1791061,
+                "fin": 3645781,
+                "titulo": "Capítulo 2: Los Juegos"
+            },
+            {
+                "inicio": 3645781,
+                "fin": 5397674,
+                "titulo": "Capítulo 3: Mindfulness"
+            },
+            {
+                "inicio": 5397674,
+                "fin": 7308074,
+                "titulo": "Capítulo 4: Muñecos"
+            },
+            {
+                "inicio": 7308074,
+                "fin": 9126997,
+                "titulo": "Capítulo 5: La plaza"
+            },
+            {
+                "inicio": 9126997,
+                "fin": 10921728,
+                "titulo": "Capítulo 6: El Ministerio"
+            },
+            {
+                "inicio": 10921728,
+                "fin": 12702549,
+                "titulo": "Capítulo 7: La amenaza"
+            },
+            {
+                "inicio": 12702549,
+                "fin": 14357418,
+                "titulo": "Capítulo 8: Miguelito"
+            }
+        ]
+    },
+    {
+        "nombre": "El ministerio del tiempo, temporada 1",
+        "genero": "Ciencia ficción",
+        "anio": 2015,
+        "reparto": [
+            "Rodolfo Sancho",
+            "Aura Garrido",
+            "Nacho Fresneda",
+            "Hugo Silva",
+            "Cayetana Guillén Cuervo",
+            "Juan Gea",
+            "Francesca Piñón",
+            "Jaime Blanch",
+            "Mar Ulldemolins",
+            "Julián Villagrán",
+            "Natalia Millán",
+            "Mar Saura",
+            "José Ramón Iglesias",
+            "Susana Córdoba",
+            "Rikar Gil",
+            "Víctor Clavijo"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-ministerio-del-tiempo-1.m4a",
+        "sinopsis": "El Ministerio del Tiempo es una institución gubernamental, autónoma y secreta, que depende directamente de Presidencia de Gobierno. Como en los EEUU se guardan los secretos y la llave para un posible ataque nuclear, de presidente a presidente, lo mismo pasa con este ministerio español: sólo reyes, presidentes y un número muy exclusivo de personas saben de él. El paso hacia otras épocas se realiza a través de puertas vigiladas por las Patrullas del Ministerio. Su objetivo es detectar e impedir que cualquier intruso del pasado llegue a nuestro presente -o viceversa- con el fin de utilizar la Historia para su beneficio. Para ello las Patrullas tendrán que viajar al pasado y evitar que lo logren.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 4200107,
+                "titulo": "Capítulo 1: El tiempo es el que es"
+            },
+            {
+                "inicio": 4200107,
+                "fin": 8406187,
+                "titulo": "Capítulo 2: Tiempo de gloria"
+            },
+            {
+                "inicio": 8406187,
+                "fin": 12614315,
+                "titulo": "Capítulo 3: Cómo se reescribe el tiempo"
+            },
+            {
+                "inicio": 12614315,
+                "fin": 16708438,
+                "titulo": "Capítulo 4: Una negociación a tiempo"
+            },
+            {
+                "inicio": 16708438,
+                "fin": 20876630,
+                "titulo": "Capítulo 5: Cualquier tiempo pasado"
+            },
+            {
+                "inicio": 20876630,
+                "fin": 24940715,
+                "titulo": "Capítulo 6: Tiempo de pícaros"
+            },
+            {
+                "inicio": 24940715,
+                "fin": 29210795,
+                "titulo": "Capítulo 7: Tiempo de venganza"
+            },
+            {
+                "inicio": 29210795,
+                "fin": 33532843,
+                "titulo": "Capítulo 8: La leyenda del tiempo"
+            }
+        ]
+    },
+    {
+        "nombre": "El ministerio del tiempo, temporada 2",
+        "genero": "Ciencia ficción",
+        "anio": 2016,
+        "reparto": [
+            "Rodolfo Sancho",
+            "Aura Garrido",
+            "Nacho Fresneda",
+            "Hugo Silva",
+            "Cayetana Guillén Cuervo",
+            "Juan Gea",
+            "Francesca Piñón",
+            "Jaime Blanch",
+            "Mar Ulldemolins",
+            "Julián Villagrán",
+            "Natalia Millán",
+            "Mar Saura",
+            "José Ramón Iglesias",
+            "Susana Córdoba",
+            "Rikar Gil",
+            "Víctor Clavijo"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 13,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-ministerio-del-tiempo-2.m4a",
+        "sinopsis": "Lola Mendieta está en la cárcel. Julián vuelve tras un tiempo de reposo y tratamiento psicológico tras fracasar en su obsesión de salvar a su esposa Maite, fallecida años atrás… Pero un nuevo caso debe de ser resuelto: el hallazgo de unos restos fechados que supuestamente pertenecen a El Cid Campeador.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 4174080,
+                "titulo": "Capítulo 1: Tiempo de leyenda"
+            },
+            {
+                "inicio": 4174080,
+                "fin": 8220160,
+                "titulo": "Capítulo 2: El tiempo en sus manos"
+            },
+            {
+                "inicio": 8220160,
+                "fin": 12308224,
+                "titulo": "Capítulo 3: Tiempo de hidalgos"
+            },
+            {
+                "inicio": 12308224,
+                "fin": 16432256,
+                "titulo": "Capítulo 4: El monasterio del tiempo"
+            },
+            {
+                "inicio": 16432256,
+                "fin": 20592256,
+                "titulo": "Capítulo 5: Un virus de otro tiempo"
+            },
+            {
+                "inicio": 20592256,
+                "fin": 25008256,
+                "titulo": "Capítulo 6: Tiempo de magia"
+            },
+            {
+                "inicio": 25008256,
+                "fin": 29182336,
+                "titulo": "Capítulo 7: Tiempo de valientes (1ª parte)"
+            },
+            {
+                "inicio": 29182336,
+                "fin": 33628416,
+                "titulo": "Capítulo 8: Tiempo de valientes (2ª parte)"
+            },
+            {
+                "inicio": 33628416,
+                "fin": 37678464,
+                "titulo": "Capítulo 9: Óleo sobre tiempo"
+            },
+            {
+                "inicio": 37678464,
+                "fin": 41808512,
+                "titulo": "Capítulo 10: Separadas por el tiempo"
+            },
+            {
+                "inicio": 41808512,
+                "fin": 45730560,
+                "titulo": "Capítulo 11: Tiempo de lo oculto"
+            },
+            {
+                "inicio": 45730560,
+                "fin": 49834624,
+                "titulo": "Capítulo 12: Hasta que el tiempo nos separe"
+            },
+            {
+                "inicio": 49834624,
+                "fin": 54210688,
+                "titulo": "Capítulo 13: Cambio de tiempo"
+            }
+        ]
+    },
+    {
+        "nombre": "El ministerio del tiempo, temporada 3",
+        "genero": "Ciencia ficción",
+        "anio": 2017,
+        "reparto": [
+            "Rodolfo Sancho",
+            "Aura Garrido",
+            "Nacho Fresneda",
+            "Hugo Silva",
+            "Cayetana Guillén Cuervo",
+            "Juan Gea",
+            "Francesca Piñón",
+            "Jaime Blanch",
+            "Mar Ulldemolins",
+            "Julián Villagrán",
+            "Natalia Millán",
+            "Mar Saura",
+            "José Ramón Iglesias",
+            "Susana Córdoba",
+            "Rikar Gil",
+            "Víctor Clavijo"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 13,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-ministerio-del-tiempo-3.m4a",
+        "sinopsis": "En 1958, Alfred Hitchcock se ve envuelto en una intriga mucho mayor que la de sus películas durante el Festival de San Sebastián. Pacino, que todavía trabaja para el Ministerio en ese año, pedirá ayuda en secreto a Alonso y Amelia para evitar que Hitchcock sea secuestrado.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 4028032,
+                "titulo": "Capítulo 1: Con el tiempo en los talones"
+            },
+            {
+                "inicio": 4028032,
+                "fin": 8212096,
+                "titulo": "Capítulo 2: Tiempo de espías"
+            },
+            {
+                "inicio": 8212096,
+                "fin": 12274176,
+                "titulo": "Capítulo 3: Tiempo de hechizos"
+            },
+            {
+                "inicio": 12274176,
+                "fin": 16356224,
+                "titulo": "Capítulo 4: Tiempo de Ilustrados"
+            },
+            {
+                "inicio": 16356224,
+                "fin": 20610304,
+                "titulo": "Capítulo 5: Tiempo de esplendor"
+            },
+            {
+                "inicio": 20610304,
+                "fin": 24540373,
+                "titulo": "Capítulo 6: Tiempo de esclavos"
+            },
+            {
+                "inicio": 24540373,
+                "fin": 28574421,
+                "titulo": "Capítulo 7: Tiempo de censura"
+            },
+            {
+                "inicio": 28574421,
+                "fin": 32594474,
+                "titulo": "Capítulo 8: Tiempo de conquista"
+            },
+            {
+                "inicio": 32594474,
+                "fin": 36646527,
+                "titulo": "Capítulo 9: El cisma del tiempo"
+            },
+            {
+                "inicio": 36646527,
+                "fin": 40794580,
+                "titulo": "Capítulo 10: Refugiados en el tiempo"
+            },
+            {
+                "inicio": 40794580,
+                "fin": 45112660,
+                "titulo": "Capítulo 11: Tiempo de Verbena"
+            },
+            {
+                "inicio": 45112660,
+                "fin": 49032660,
+                "titulo": "Capítulo 12: Contratiempos"
+            },
+            {
+                "inicio": 49032660,
+                "fin": 52900692,
+                "titulo": "Capítulo 13: Entre dos tiempos"
+            }
+        ]
+    },
+    {
+        "nombre": "El ministerio del tiempo, temporada 4",
+        "genero": "Ciencia ficción",
+        "anio": 2019,
+        "reparto": [
+            "Rodolfo Sancho",
+            "Aura Garrido",
+            "Nacho Fresneda",
+            "Hugo Silva",
+            "Cayetana Guillén Cuervo",
+            "Juan Gea",
+            "Francesca Piñón",
+            "Jaime Blanch",
+            "Mar Ulldemolins",
+            "Julián Villagrán",
+            "Natalia Millán",
+            "Mar Saura",
+            "José Ramón Iglesias",
+            "Susana Córdoba",
+            "Rikar Gil",
+            "Víctor Clavijo"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-ministerio-del-tiempo-4.m4a",
+        "sinopsis": "Irene, Salvador, Ernesto y la patrulla vuelven después de calmar un poco las aguas y evitar que el Minsterio se convieta en una agencia de turismo intertemporal llamada 'Carpe Diem'. Sin embargo nadie se esperaba que una mañana deberían enfrentarse a algo para lo que no están preparados: una alarma que falla y hace que sea imposible saber donde tienen que viajar. Esto quiere decir que el mundo tal y como lo conocemos está en peligro y Salvador deberá pedir ayuda. A momentos desesperados, medidas desesperadas.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3413663,
+                "titulo": "Capítulo 1: Perdido en el tiempo"
+            },
+            {
+                "inicio": 3413663,
+                "fin": 6720950,
+                "titulo": "Capítulo 2: El laberinto del tiempo"
+            },
+            {
+                "inicio": 6720950,
+                "fin": 10132558,
+                "titulo": "Capítulo 3: Bloody Mary Hour"
+            },
+            {
+                "inicio": 10132558,
+                "fin": 13523035,
+                "titulo": "Capítulo 4: La memoria del tièmpo"
+            },
+            {
+                "inicio": 13523035,
+                "fin": 16923193,
+                "titulo": "Capítulo 5: Deshaciendo el tiempo"
+            },
+            {
+                "inicio": 16923193,
+                "fin": 20349359,
+                "titulo": "Capítulo 6: El tiempo vuela"
+            },
+            {
+                "inicio": 20349359,
+                "fin": 23770632,
+                "titulo": "Capítulo 7: Pretérito imperfecto"
+            },
+            {
+                "inicio": 23770632,
+                "fin": 27501130,
+                "titulo": "Capítulo 8: Días de futuro pasado"
+            }
+        ]
+    },
+    {
+        "nombre": "Entrevías, temporada 1",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "José Coronado",
+            "Luis Zahera",
+            "Felipe Londoño",
+            "Nona Sobo",
+            "Jordi Sánchez",
+            "Laura Ramos",
+            "Manuel Tallafé",
+            "Manolo Caro",
+            "Itziar Atienza",
+            "Franky Martín",
+            "María de Nati",
+            "Miguel Ángel Jiménez",
+            "Maria Molins"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/entrebias-1.m4a",
+        "sinopsis": "Tirso Abantos (José Coronado) es un ex militar que regenta una ferretería de barrio; solitario y poco dado a mostrar afecto, tras un incidente familiar se ve obligado a encargarse durante un tiempo de su nieta Irene (Nona Sobo), una joven de origen vietnamita, contestataria y rebelde a la que la hija de Tirso es incapaz de controlar. El choque entre abuelo y nieta es total y la convivencia se complica desde el primer momento, no solo por el carácter de ambos, sino por las malas compañías que frecuenta Irene en el barrio y por su decisión de fuga, a cualquier precio, con su adorado novio colombiano. En su intento por enderezarla, Tirso se verá forzado a dejar su rutina y se convertirá en un 'héroe por accidente' que plantará cara a los pandilleros que se están apoderando de las calles, a sabiendas de que este rol solo le traerá problemas.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 4808277,
+                "titulo": "Capítulo 1: Un cabronazo de la vieja escuela"
+            },
+            {
+                "inicio": 4808277,
+                "fin": 8980565,
+                "titulo": "Capítulo 2: Radios estropeadas"
+            },
+            {
+                "inicio": 8980565,
+                "fin": 13240874,
+                "titulo": "Capítulo 3: Morder"
+            },
+            {
+                "inicio": 13240874,
+                "fin": 17573162,
+                "titulo": "Capítulo 4: Lo que se esconde bajo la alfombra"
+            },
+            {
+                "inicio": 17573162,
+                "fin": 21855445,
+                "titulo": "Capítulo 5: Perro viejo no perrea"
+            },
+            {
+                "inicio": 21855445,
+                "fin": 26161749,
+                "titulo": "Capítulo 6: Quien roba a un ladrón"
+            },
+            {
+                "inicio": 26161749,
+                "fin": 30484053,
+                "titulo": "Capítulo 7: Los Robin Hood"
+            },
+            {
+                "inicio": 30484053,
+                "fin": 35000362,
+                "titulo": "Capítulo 8: El último tren"
+            }
+        ]
+    },
+    {
+        "nombre": "Entrevías",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "José Coronado",
+            "Luis Zahera",
+            "Felipe Londoño",
+            "Nona Sobo",
+            "Jordi Sánchez",
+            "Laura Ramos",
+            "Manuel Tallafé",
+            "Manolo Caro",
+            "Itziar Atienza",
+            "Franky Martín",
+            "María de Nati",
+            "Miguel Ángel Jiménez",
+            "Maria Molins"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/entrebias-2.m4a",
+        "sinopsis": "Cansado de ver cómo su barrio no deja de deteriorarse, a Tirso no le queda otra que pasar a la acción. En esta ocasión, su adversario será Guillermo Salgado, un hombre de negocios con don de gentes pero pocos escrúpulos, que dirige un turbio fondo de inversiones. Salgado llega a Entrevías con un ambicioso proyecto: adquirir inmuebles, desalojarlos y levantar nuevas construcciones. El ferretero se verá obligado a tomarse la justicia por su mano cuando descubra que Salgado además está metido en otros asuntos que involucran a los suyos, y querrá entonces hacerle pagar por ello.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 4326272,
+                "titulo": "Capítulo 1: Colgar la casaca"
+            },
+            {
+                "inicio": 4326272,
+                "fin": 8734549,
+                "titulo": "Capítulo 2: Un vagón olvidado"
+            },
+            {
+                "inicio": 8734549,
+                "fin": 12998826,
+                "titulo": "Capítulo 3: Escucha al corazón"
+            },
+            {
+                "inicio": 12998826,
+                "fin": 17377109,
+                "titulo": "Capítulo 4: Padres e hijos"
+            },
+            {
+                "inicio": 17377109,
+                "fin": 21795413,
+                "titulo": "Capítulo 5: La cruda verdad"
+            },
+            {
+                "inicio": 21795413,
+                "fin": 26321706,
+                "titulo": "Capítulo 6: Todo por amor"
+            },
+            {
+                "inicio": 26321706,
+                "fin": 30690005,
+                "titulo": "Capítulo 7: Un polo naranja"
+            },
+            {
+                "inicio": 30690005,
+                "fin": 35006293,
+                "titulo": "Capítulo 8: Si me matan"
+            }
+        ]
+    },
+    {
+        "nombre": "Érase una vez... pero ya no",
+        "genero": "Comedia",
+        "anio": 2022,
+        "reparto": [
+            "Sebastián Yatra",
+            "Mónica Maranillo",
+            "Nía Correia",
+            "Rossy de Palma",
+            "Asier Etxeandia",
+            "Mariola Fuentes",
+            "Itziar Castro",
+            "Mariana Treviño",
+            "Daniela Vega",
+            "Huichi Chiu"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 6,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/erase-una-vez-pero-ya-no.m4a",
+        "sinopsis": "Cuenta la historia de dos amantes que fueron separados trágicamente y que deben encontrarse en otra vida para romper el hechizo que cayó sobre el excéntrico pueblo que habitan. Ahora, en el presente, la llegada de dos turistas pondrá en riesgo la única posibilidad que tienen de romper el hechizo.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 1747371,
+                "titulo": "Capítulo 1: Si tú no vuelves"
+            },
+            {
+                "inicio": 1747371,
+                "fin": 3492480,
+                "titulo": "Capítulo 2: Irresponsables"
+            },
+            {
+                "inicio": 3492480,
+                "fin": 5405269,
+                "titulo": "Capítulo 3: Fuimos amor"
+            },
+            {
+                "inicio": 5405269,
+                "fin": 7184682,
+                "titulo": "Capítulo 4: Sobreviviré"
+            },
+            {
+                "inicio": 7184682,
+                "fin": 8757461,
+                "titulo": "Capítulo 5: Yo no soy esa"
+            },
+            {
+                "inicio": 8757461,
+                "fin": 10845696,
+                "titulo": "Capítulo 6: Vivimos siempre juntos"
+            }
+        ]
+    },
+    {
+        "nombre": "La casa de papel: Berlín",
+        "genero": "Thriller; Acción",
+        "anio": 2023,
+        "reparto": [
+            "Pedro Alonso",
+            "Michelle Jenner",
+            "Tristán Ulloa",
+            "Begoña Vargas",
+            "Julio Peña",
+            "Joel Sánchez",
+            "Samantha Siqueiros",
+            "Najwa Nimri"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español España",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/berlin.m4a",
+        "sinopsis": "Spin-off de 'La casa de papel' centrado en el personaje de Berlín. La historia se ambienta en el pasado, cuando en el mejor momento de su vida. Berlín planea robar una colección de joyas por valor de 44 millones de euros. O más concretamente, hacerlas desaparecer delante de los ojos de los vigilantes. Para conseguir esta hazaña contará con la ayuda de una banda: Keila es una ingeniería electrónica experta en códigos informáticos y ciberseguridad. Tan inteligente y sensible como inadaptada. Damián es ingeniero, físico y químico. El perfecto ejecutor de las ideas imposibles de Berlín y su íntimo amigo. Cameron es una fuerza de la naturaleza que vive al límite y nunca calcula el riesgo. Roi es experto en abrir cerraduras y entrar en la cárcel. Hasta que conoció a Berlín y se convirtió en su alumno aventajado y fiel escudero. Bruce es capaz de manejar cualquier cosa. Desde todo tipo de vehículos a armas o una lanza térmica. Lúdico, encantador y con alma gamberra.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3458773,
+                "titulo": "Capítulo 1: La energía del amor"
+            },
+            {
+                "inicio": 3458773,
+                "fin": 6506197,
+                "titulo": "Capítulo 2: El ancla y el lobo"
+            },
+            {
+                "inicio": 6506197,
+                "fin": 9146197,
+                "titulo": "Capítulo 3: Póker de embriones"
+            },
+            {
+                "inicio": 9146197,
+                "fin": 11689728,
+                "titulo": "Capítulo 4: Un aquarium en la espalda"
+            },
+            {
+                "inicio": 11689728,
+                "fin": 14477696,
+                "titulo": "Capítulo 5: After Love"
+            },
+            {
+                "inicio": 14477696,
+                "fin": 16996352,
+                "titulo": "Capítulo 6: La noche de los limones"
+            },
+            {
+                "inicio": 16996352,
+                "fin": 19962411,
+                "titulo": "Capítulo 7: La última virgen de occidente"
+            },
+            {
+                "inicio": 19962411,
+                "fin": 23606059,
+                "titulo": "Capítulo 8: Un elefante en peligro de extinción"
+            }
+        ]
     }
 ]
 }
