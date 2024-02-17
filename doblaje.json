@@ -1023,6 +1023,120 @@
         ]
     },
     {
+        "nombre": "El inocente",
+        "genero": "Thriller",
+        "anio": 2021,
+        "reparto": [
+            "Mario Casas",
+            "Aura Garrido",
+            "Alexandra Jiménez",
+            "José Coronado",
+            "Nico Conde",
+            "Juana Acosta",
+            "Josean Bengoetxea",
+            "Jordi Coll",
+            "Gonzalo de Castro",
+            "Miki Esparbé",
+            "Martina Gusman",
+            "Susi Sánchez",
+            "Ana Wagener"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español Castellano",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-inocente.m4a"        }],
+        "sinopsis": "Una noche, hace nueve años, Mateo intercedió inocentemente en una pelea y terminó convirtiéndose en un asesino. Ahora es un ex convicto que no da nada por sentado. Su mujer, Olivia, está embarazada, y los dos están a punto de conseguir la casa de sus sueños. Pero una llamada impactante e inexplicable desde el móvil de Olivia vuelve a destrozar la vida de Mateo por segunda vez.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3064405,
+                "titulo": "Capítulo 1: Episodio 1"
+            },
+            {
+                "inicio": 3064405,
+                "fin": 6056832,
+                "titulo": "Capítulo 2: Episodio 2"
+            },
+            {
+                "inicio": 6056832,
+                "fin": 9549227,
+                "titulo": "Capítulo 3: Episodio 3"
+            },
+            {
+                "inicio": 9549227,
+                "fin": 13033643,
+                "titulo": "Capítulo 4: Episodio 4"
+            },
+            {
+                "inicio": 13033643,
+                "fin": 17024043,
+                "titulo": "Capítulo 5: Episodio 5"
+            },
+            {
+                "inicio": 17024043,
+                "fin": 20478464,
+                "titulo": "Capítulo 6: Episodio 6"
+            },
+            {
+                "inicio": 20478464,
+                "fin": 23722880,
+                "titulo": "Capítulo 7: Episodio 7"
+            },
+            {
+                "inicio": 23722880,
+                "fin": 27993301,
+                "titulo": "Capítulo 8: Episodio 8"
+            }
+        ]
+    },
+    {
+        "nombre": "El silencio",
+        "genero": "Thriller",
+        "anio": 2023,
+        "reparto": [
+            "Arón Piper",
+            "Almudena Amor",
+            "Cristina Kovani",
+            "Aitor Luna",
+            "Manu Ríos"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 6,
+      "enlaces": [        {          "idioma": "Español Castellano",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-secreto-de-la-familia-greco.png",
+        "sinopsis": "Sergio Ciscar (Arón Piper) es puesto en libertad 6 años después de haber asesinado a sus padres, cuando aún era menor de edad. Durante ese tiempo, Sergio no ha dicho una sola palabra ni ha colaborado con la justicia, por lo que tanto las motivaciones del crimen como sus actuales intenciones son un misterio. Ana Dussuel (Almudena Amor), una joven psiquiatra y su equipo serán los encargados de determinar su potencial peligro para la sociedad observándolo en secreto día y noche, como a un animal.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 2864427,
+                "titulo": "Capítulo 1: Episodio 1"
+            },
+            {
+                "inicio": 2864427,
+                "fin": 5682816,
+                "titulo": "Capítulo 2: Episodio 2"
+            },
+            {
+                "inicio": 5682816,
+                "fin": 8539221,
+                "titulo": "Capítulo 3: Episodio 3"
+            },
+            {
+                "inicio": 8539221,
+                "fin": 11229610,
+                "titulo": "Capítulo 4: Episodio 4"
+            },
+            {
+                "inicio": 11229610,
+                "fin": 13986005,
+                "titulo": "Capítulo 5: Episodio 5"
+            },
+            {
+                "inicio": 13986005,
+                "fin": 16808405,
+                "titulo": "Capítulo 6: Episodio 6"
+            }
+        ]
+    },
+    {
       "nombre": "Bronca",
       "genero": "Drama",
       "anio": 2023,
