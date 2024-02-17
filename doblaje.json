@@ -847,6 +847,182 @@
         ]
     },
     {
+        "nombre": "Días de Navidad",
+        "genero": "Drama",
+        "anio": 2019,
+        "reparto": [
+            "Victoria Abril",
+            "Elena Anaya",
+            "Nerea Barros",
+            "Verónica Echegui",
+            "Verónica Forqué",
+            "Charo López",
+            "Ángela Molina",
+            "Anna Moliner",
+            "Alicia Borrachero",
+            "Susi Sánchez",
+            "Francesc Garrido",
+            "Miquel Fernández",
+            "Nausicaa Bonnín",
+            "Berta Castañé",
+            "Mar Ayala",
+            "Carla Tous",
+            "David Solans",
+            "Iván Morales",
+            "Manel Barceló",
+            "Carles Arquimbau",
+            "Julio Manrique",
+            "Antonio Dechent",
+            "Andreu Benito",
+            "Carme Sansa",
+            "Gonzalo Cunill",
+            "Ettore Colombo"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 3,
+      "enlaces": [        {          "idioma": "Español Castellano",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/dias-de-navidad.m4a"        }],
+        "sinopsis": "Miniserie de 3 episodios que presenta la celebración navideña de cuatro hermanas en su casa familiar durante tres épocas diferentes que, a su vez, representan tres etapas clave en sus vidas: la adolescencia, la vida adulta y la tercera edad. A través del paso del tiempo y distintas perspectivas se podrán ver dinámicas familiares, secretos y enfrentamientos personales.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3210368,
+                "titulo": "Capítulo 1: Episodio 1"
+            },
+            {
+                "inicio": 3210368,
+                "fin": 7218731,
+                "titulo": "Capítulo 2: Episodio 2"
+            },
+            {
+                "inicio": 7218731,
+                "fin": 10521088,
+                "titulo": "Capítulo 3: Episodio 3"
+            }
+        ]
+    },
+    {
+        "nombre": "El cuerpo en llamas",
+        "genero": "Thriller",
+        "anio": 2023,
+        "reparto": [
+            "Úrsula Corberó",
+            "Quim Gutiérrez",
+            "José Manuel Poga",
+            "Isak Férriz",
+            "Eva Llorach"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español Castellano",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-cuerpo-en-llamas.m4a"        }],
+        "sinopsis": "Mayo de 2017. El cadáver de un hombre aparece calcinado en el interior de un coche en el pantano de Foix, en Barcelona. Se trata de Pedro (José Manuel Poga), un agente policial. El suceso despierta rápidamente el interés de la opinión pública, y más a medida que la investigación va revelando una red de relaciones tóxicas, engaños, violencia y escándalos sexuales que involucran a Pedro y dos de sus compañeros policías: su pareja Rosa (Úrsula Corberó) y el exnovio de ésta, Albert (Quim Gutiérrez).",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3012907,
+                "titulo": "Capítulo 1: El pantano"
+            },
+            {
+                "inicio": 3012907,
+                "fin": 5905366,
+                "titulo": "Capítulo 2: Dos Rosas"
+            },
+            {
+                "inicio": 5905366,
+                "fin": 9045590,
+                "titulo": "Capítulo 3: La caída"
+            },
+            {
+                "inicio": 9045590,
+                "fin": 11846486,
+                "titulo": "Capítulo 4: Navidad"
+            },
+            {
+                "inicio": 11846486,
+                "fin": 14823723,
+                "titulo": "Capítulo 5: El amor"
+            },
+            {
+                "inicio": 14823723,
+                "fin": 17561259,
+                "titulo": "Capítulo 6: Lo imposible"
+            },
+            {
+                "inicio": 17561259,
+                "fin": 20576427,
+                "titulo": "Capítulo 7: Frente a frente"
+            },
+            {
+                "inicio": 20576427,
+                "fin": 23640491,
+                "titulo": "Capítulo 8: 1 de mayo, 2017"
+            }
+        ]
+    },
+    {
+        "nombre": "El desorden que dejas",
+        "genero": "Thriller",
+        "anio": 2020,
+        "reparto": [
+            "Bárbara Lennie",
+            "Inma Cuesta",
+            "Tamar Novas",
+            "Arón Piper",
+            "Roberto Enríquez",
+            "Federico Pérez",
+            "Susana Dans",
+            "Alfonso Agra",
+            "Xosé A. Touriñán",
+            "Roque Ruíz",
+            "Isabel Garrido"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+      "enlaces": [        {          "idioma": "Español Castellano",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-desorden-que-dejas.m4a"        }],
+        "sinopsis": "Con la intención de darle una segunda oportunidad a su matrimonio, Raquel, una joven profesora de literatura, acepta un trabajo en el instituto del pueblo donde creció su marido. \"Y tú, ¿cuánto vas a tardar en morir?” Así de contundente es la nota que Raquel encuentra en su bolso el primer día de trabajo. Su ilusión por impartir clases se dará de bruces con unos alumnos que la reciben con esa macabra bienvenida. Pronto descubrirá quién era la profesora a la que sustituye, y cómo ha marcado la vida de todos. Raquel iniciará su propia búsqueda para descubrir la verdad en un lugar en el que todos parecen guardar secretos.",
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3370368,
+                "titulo": "Capítulo 1: En la boca del lobo"
+            },
+            {
+                "inicio": 3370368,
+                "fin": 6240768,
+                "titulo": "Capítulo 2: Lo saben"
+            },
+            {
+                "inicio": 6240768,
+                "fin": 8717141,
+                "titulo": "Capítulo 3: Cuenta hasta tres"
+            },
+            {
+                "inicio": 8717141,
+                "fin": 11503530,
+                "titulo": "Capítulo 4: Caída en picado"
+            },
+            {
+                "inicio": 11503530,
+                "fin": 14299903,
+                "titulo": "Capítulo 5: El lugar secreto"
+            },
+            {
+                "inicio": 14299903,
+                "fin": 16434303,
+                "titulo": "Capítulo 6: Lo que no quise ver en ti"
+            },
+            {
+                "inicio": 16434303,
+                "fin": 19012692,
+                "titulo": "Capítulo 7: La tercera víctima"
+            },
+            {
+                "inicio": 19012692,
+                "fin": 22035071,
+                "titulo": "Capítulo 8: El desorden que dejas"
+            }
+        ]
+    },
+    {
       "nombre": "Bronca",
       "genero": "Drama",
       "anio": 2023,
