@@ -1089,54 +1089,6 @@
         ]
     },
     {
-        "nombre": "El silencio",
-        "genero": "Thriller",
-        "anio": 2023,
-        "reparto": [
-            "Arón Piper",
-            "Almudena Amor",
-            "Cristina Kovani",
-            "Aitor Luna",
-            "Manu Ríos"
-        ],
-        "pais_origen": "España",
-        "cantidad_episodios": 6,
-      "enlaces": [        {          "idioma": "Español Castellano",          "enlace": "https://ia601304.us.archive.org/24/items/snauapc/el-secreto-de-la-familia-greco.png",
-        "sinopsis": "Sergio Ciscar (Arón Piper) es puesto en libertad 6 años después de haber asesinado a sus padres, cuando aún era menor de edad. Durante ese tiempo, Sergio no ha dicho una sola palabra ni ha colaborado con la justicia, por lo que tanto las motivaciones del crimen como sus actuales intenciones son un misterio. Ana Dussuel (Almudena Amor), una joven psiquiatra y su equipo serán los encargados de determinar su potencial peligro para la sociedad observándolo en secreto día y noche, como a un animal.",
-        "capitulos": [
-            {
-                "inicio": 0,
-                "fin": 2864427,
-                "titulo": "Capítulo 1: Episodio 1"
-            },
-            {
-                "inicio": 2864427,
-                "fin": 5682816,
-                "titulo": "Capítulo 2: Episodio 2"
-            },
-            {
-                "inicio": 5682816,
-                "fin": 8539221,
-                "titulo": "Capítulo 3: Episodio 3"
-            },
-            {
-                "inicio": 8539221,
-                "fin": 11229610,
-                "titulo": "Capítulo 4: Episodio 4"
-            },
-            {
-                "inicio": 11229610,
-                "fin": 13986005,
-                "titulo": "Capítulo 5: Episodio 5"
-            },
-            {
-                "inicio": 13986005,
-                "fin": 16808405,
-                "titulo": "Capítulo 6: Episodio 6"
-            }
-        ]
-    },
-    {
       "nombre": "Bronca",
       "genero": "Drama",
       "anio": 2023,
