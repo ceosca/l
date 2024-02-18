@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Fanático",
+        "genero": "Drama",
+        "anio": 2022,
+        "reparto": [
+            "Lorenzo Ferro",
+            "Dollar Selmouni",
+            "Carlota Urdiales",
+            "Eva Almeida",
+            "Fernando Valdivieso"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 5,
+        "sinopsis": "El mayor ídolo musical de España se quita la vida frente a sus fans en el primer concierto de una gira mundial. Lázaro, un joven repartidor de comida y fan incondicional, ve una oportunidad de escapar de su monótona y precaria vida y se convierte de la noche a la mañana en aquello que lleva admirando mucho tiempo: su propio fanático. Adopta su imagen, su música, su vida y sus fans. Bajo la presión de una industria musical que ve la oportunidad de no perder todo lo alcanzado con la estrella, Lázaro convierte todos los aspectos de su vida en un espectáculo. Incluso si eso supone renunciar a una vida de verdad.",
+        "enlaces": [
+            {
+                "idioma": "Español España",
+                "enlace": "https://ia601304.us.archive.org/24/items/snauapc/fanatico.m4a"
+            }
+        ],
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 1284352,
+                "titulo": "Capítulo 1: Quimera"
+            },
+            {
+                "inicio": 1284352,
+                "fin": 2536704,
+                "titulo": "Capítulo 2: En carne y hueso"
+            },
+            {
+                "inicio": 2536704,
+                "fin": 3679061,
+                "titulo": "Capítulo 3: Un privilegio"
+            },
+            {
+                "inicio": 3679061,
+                "fin": 4667392,
+                "titulo": "Capítulo 4: El arte de los negocios"
+            },
+            {
+                "inicio": 4667392,
+                "fin": 5543723,
+                "titulo": "Capítulo 5: Lázaro"
+            }
+        ]
+    }
+]
