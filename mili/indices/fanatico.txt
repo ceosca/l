@@ -1,0 +1,32 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1284352
+title=Capítulo 1: Quimera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1284352
+END=2536704
+title=Capítulo 2: En carne y hueso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2536704
+END=3679061
+title=Capítulo 3: Un privilegio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3679061
+END=4667392
+title=Capítulo 4: El arte de los negocios
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4667392
+END=5543723
+title=Capítulo 5: Lázaro

@@ -1,0 +1,32 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2646699
+title=Capítulo 1: No nos buscaremos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2646699
+END=5405739
+title=Capítulo 2: ¿Qué se supone que debo hacer?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5405739
+END=7563947
+title=Capítulo 3: ¿Amigos?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7563947
+END=9979520
+title=Capítulo 4: Fecha de caducidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9979520
+END=13198507
+title=Capítulo 5: La decisión

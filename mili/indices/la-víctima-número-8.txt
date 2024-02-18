@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3068203
+title=Capítulo 1: Omar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3068203
+END=6294400
+title=Capítulo 2: Los milagros no existen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6294400
+END=9516587
+title=Capítulo 3: Empezar a creer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9516587
+END=12674774
+title=Capítulo 4: El tiro de gracia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12674774
+END=15880961
+title=Capítulo 5: Una teoría de mierda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15880961
+END=19049132
+title=Capítulo 6: Un tiburón que nos haga aún más ricos a todos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19049132
+END=22407340
+title=Capítulo 7: El síndrome del nido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22407340
+END=25711532
+title=Capítulo 8: Muy fácil o muy difícil

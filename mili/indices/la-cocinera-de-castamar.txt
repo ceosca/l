@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=4148309
+title=Capítulo 1: El ingrediente esencial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4148309
+END=7486634
+title=Capítulo 2: La noche del rey
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7486634
+END=10922965
+title=Capítulo 3: Credo ut intelligam
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10922965
+END=14133290
+title=Capítulo 4: Vuela
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14133290
+END=17303637
+title=Capítulo 5: La decisión
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17303637
+END=20655957
+title=Capítulo 6: Donde no llega la luz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20655957
+END=23756288
+title=Capítulo 7: Para que no nos borren
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23756288
+END=26948608
+title=Capítulo 8: Lo que no será
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26948608
+END=30086955
+title=Capítulo 9: La verdad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=30086955
+END=33155286
+title=Capítulo 10: Lo que de verdad importa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=33155286
+END=36371627
+title=Capítulo 11: Lub-dub
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=36371627
+END=39727958
+title=Capítulo 12: El lugar de cada uno
