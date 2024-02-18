@@ -46,5 +46,161 @@
                 "titulo": "Capítulo 5: Lázaro"
             }
         ]
+    },
+    {
+        "nombre": "Fariña",
+        "genero": "Thriller",
+        "anio": 2018,
+        "reparto": [
+            "Javier Rey",
+            "Tristán Ulloa",
+            "Miquel Fernández",
+            "Manuel Lourenzo",
+            "Antonio Durán",
+            "Carlos Blanco",
+            "Jana Pérez",
+            "Marta Larralde",
+            "Tamar Novas",
+            "Fran Lareu",
+            "Xosé A. Touriñán",
+            "Celso Bugallo",
+            "Monti Castiñeiras",
+            "Cristina Iglesias",
+            "Chechu Salgado",
+            "Iván Marcos",
+            "Alejandro Carro"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 10,
+        "sinopsis": "Años 80. Galicia. La reconversión de la pesca ha dejado a una parte de la flota gallega en tierra y cientos de armadores endeudados. No hay trabajo. En los muchos pueblos de pescadores que recorren la costa gallega, la falta de ingresos y los pagos cotidianos estrangula las economías familiares. Es el caldo de cultivo perfecto para que se produzca la gran transformación: los antiguos traficantes de tabaco dan el salto a algo más grande, más lucrativo, pero mucho más peligroso: las drogas.",
+        "enlaces": [
+            {
+                "idioma": "Español España",
+                "enlace": "https://ia601304.us.archive.org/24/items/snauapc/fari%C3%B1a.m4a"
+            }
+        ],
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 4267221,
+                "titulo": "Capítulo 1: Capítulo 1 1981"
+            },
+            {
+                "inicio": 4267221,
+                "fin": 8495872,
+                "titulo": "Capítulo 2: Capítulo 2 1982"
+            },
+            {
+                "inicio": 8495872,
+                "fin": 12494848,
+                "titulo": "Capítulo 3: Capítulo 3 1983"
+            },
+            {
+                "inicio": 12494848,
+                "fin": 16406699,
+                "titulo": "Capítulo 4: Capítulo 4 1984"
+            },
+            {
+                "inicio": 16406699,
+                "fin": 20238208,
+                "titulo": "Capítulo 5: Capítulo 5 1985"
+            },
+            {
+                "inicio": 20238208,
+                "fin": 23715968,
+                "titulo": "Capítulo 6: Capítulo 6 1986"
+            },
+            {
+                "inicio": 23715968,
+                "fin": 27204608,
+                "titulo": "Capítulo 7: Capítulo 7 1987"
+            },
+            {
+                "inicio": 27204608,
+                "fin": 30915541,
+                "titulo": "Capítulo 8: Capítulo 8 1988"
+            },
+            {
+                "inicio": 30915541,
+                "fin": 34537514,
+                "titulo": "Capítulo 9: Capítulo 9 1989"
+            },
+            {
+                "inicio": 34537514,
+                "fin": 38610005,
+                "titulo": "Capítulo 10: Capítulo 10 1990"
+            }
+        ]
+    },
+    {
+        "nombre": "Feria: La luz más oscura",
+        "genero": "Thriller",
+        "anio": 2022,
+        "reparto": [
+            "Ana Tomeno",
+            "Carla Campra",
+            "Marta Nieto",
+            "Ángela Cremonte",
+            "Patricia López",
+            "Isak Férriz",
+            "Ernest Villegas",
+            "Patricia López Arnaiz",
+            "Vicente Vergara",
+            "Sauce Ena",
+            "Salva Reina",
+            "Carlos Scholz",
+            "Kandido Uranga"
+        ],
+        "pais_origen": "España",
+        "cantidad_episodios": 8,
+        "sinopsis": "¿Y si dos hermanas adolescentes descubren que sus padres son unos monstruos? Eva (Ana Tomeno) y Sofía (Carla Campra) tendrán que enfrentarse al horrible crimen que parece que han cometido sus padres quienes, antes de desaparecer, han dejado atrás 23 víctimas. ¿Cómo van a sobrevivir estas hermanas en un pueblo que las odia? ¿Es posible que conocieran tan poco a sus padres o existe algún motivo para que estuvieran implicados en este suceso? Este es el viaje que emprenderán Eva y Sofía en Feria, un pueblo donde la realidad esconde un universo fantástico.",
+        "enlaces": [
+            {
+                "idioma": "Español España",
+                "enlace": "https://ia601304.us.archive.org/24/items/snauapc/feria.m4a"
+            }
+        ],
+        "capitulos": [
+            {
+                "inicio": 0,
+                "fin": 3404587,
+                "titulo": "Capítulo 1: The Red Lake"
+            },
+            {
+                "inicio": 3404587,
+                "fin": 6411179,
+                "titulo": "Capítulo 2: Babylon"
+            },
+            {
+                "inicio": 6411179,
+                "fin": 8887766,
+                "titulo": "Capítulo 3: Offering"
+            },
+            {
+                "inicio": 8887766,
+                "fin": 12516353,
+                "titulo": "Capítulo 4: The Temple"
+            },
+            {
+                "inicio": 12516353,
+                "fin": 15210924,
+                "titulo": "Capítulo 5: The God of Fire"
+            },
+            {
+                "inicio": 15210924,
+                "fin": 18119511,
+                "titulo": "Capítulo 6: Bloody Feria"
+            },
+            {
+                "inicio": 18119511,
+                "fin": 21102082,
+                "titulo": "Capítulo 7: The Apocalypse According to Pablo"
+            },
+            {
+                "inicio": 21102082,
+                "fin": 24168663,
+                "titulo": "Capítulo 8: The Solitary King"
+            }
+        ]
     }
 ]
