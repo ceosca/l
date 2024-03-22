@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Aquí no hay quien viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1,clásicos a3
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
 #EXTINF:-1,Telemundo internacional 2
 http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
 #EXTINF:-1,Star TVE
