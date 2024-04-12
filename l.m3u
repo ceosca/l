@@ -1,11 +1,81 @@
 #EXTM3U
+#EXTINF:-1,America TV HD
+http://168.197.196.98:9981/stream/channelid/442797857?profile=pass
+#EXTINF:-1,TV Publica HD
+http://168.197.196.98:9981/stream/channelid/1475050013?profile=pass
+#EXTINF:-1,el nueve HD
+http://168.197.196.98:9981/stream/channelid/369719429?profile=pass
+#EXTINF:-1,Telefe HD
+http://168.197.196.98:9981/stream/channelid/581244389?profile=pass
+#EXTINF:-1,Telefe internacional
+http://138.59.227.148:5151/play/a0eg
+#EXTINF:-1,el trece HD
+http://168.197.196.98:9981/stream/channelid/846765743?profile=pass
+#EXTINF:-1,El trece internacional
+http://138.59.227.148:5151/play/a04d
+#EXTINF:-1,Net tv
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1,ciudad magazine
+http://168.197.196.98:9981/stream/channelid/60336013?profile=pass
+#EXTINF:-1,Volver
+http://168.197.196.98:9981/stream/channelid/283862998?profile=pass
+#EXTINF:-1,ESPN HD
+http://168.197.196.98:9981/stream/channelid/1093734737?profile=pass
+#EXTINF:-1,ESPN 2 HD
+http://168.197.196.98:9981/stream/channelid/639969912?profile=pass
+#EXTINF:-1,ESPN 3 HD
+http://168.197.196.98:9981/stream/channelid/1345121902?profile=pass
+#EXTINF:-1,ESPN 4 HD
+http://168.197.196.98:9981/stream/channelid/336130359?profile=pass
+#EXTINF:-1,ESPN Premium HD
+http://168.197.196.98:9981/stream/channelid/382818403?profile=pass
+#EXTINF:-1,TNT Sports HD
+http://168.197.196.98:9981/stream/channelid/864124803?profile=pass
+#EXTINF:-1,Fox Sports HD
+http://168.197.196.98:9981/stream/channelid/781949579?profile=pass
+#EXTINF:-1,Fox Sports 2 HD
+http://168.197.196.98:9981/stream/channelid/2098149736?profile=pass
+#EXTINF:-1,Fox Sports 3 HD
+http://168.197.196.98:9981/stream/channelid/33594286?profile=pass
+#EXTINF:-1,TyC Sports HD
+http://168.197.196.98:9981/stream/channelid/191278502?profile=pass
+#EXTINF:-1,AXN HD
+http://168.197.196.98:9981/stream/channelid/1234256426?profile=pass
+#EXTINF:-1,TNT HD
+http://168.197.196.98:9981/stream/channelid/48157996?profile=pass
+#EXTINF:-1,TNT Novelas HD
+http://168.197.196.98:9981/stream/channelid/371852243?profile=pass
+#EXTINF:-1,TNT Series HD
+http://168.197.196.98:9981/stream/channelid/1001301187?profile=pass
+#EXTINF:-1,Universal
+http://168.197.196.98:9981/stream/channelid/208556550?profile=pass
+#EXTINF:-1,Warner Channel HD
+http://168.197.196.98:9981/stream/channelid/757968981?profile=pass
+#EXTINF:-1,Quiero Musica
+http://168.197.196.98:9981/stream/channelid/1877470564?profile=pass
+#EXTINF:-1,Telemundo Internacional
+http://138.59.227.148:5151/play/a0el
+#EXTINF:-1,TELEMUNDO
+http://181.78.105.146:8800/play/a08n
+#EXTINF:-1,Clan HD
+http://77.228.160.100:61800/play/a00x
+#EXTINF:-1,La 1 HD
+http://77.228.160.100:61800/play/a007
+#EXTINF:-1,La 2 HD
+http://77.228.160.100:61800/play/a008
+#EXTINF:-1,antena3 HD
+http://77.228.160.100:61800/play/a00a
+#EXTINF:-1,nova
+http://77.228.160.100:61800/play/a00d
+#EXTINF:-1,Telecinco HD
+http://77.228.160.100:61800/play/a00k
+#EXTINF:-1,Divinity
+http://77.228.160.100:61800/play/a00j
 #EXTINF:-1,Aquí no hay quien viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
 #EXTINF:-1,clásicos a3
 https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
-#EXTINF:-1,Telemundo internacional 2
-http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
-#EXTINF:-1,Star TVE
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main_dvr.m3u8
 #EXTINF:-1,A3Series Internacional
-https://1279247418.rsc.cdn77.org/bpk-tv/QA3SERTV/dash/manifest.mpd
+http://45.4.85.212:58001/play/a00e
+#EXTINF:-1,Star TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_360.m3u8
