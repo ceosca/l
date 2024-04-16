@@ -3,81 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>El nuevo blindflix?</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-    }
-
-    .container {
-      max-width: 800px;
-      margin: 20px auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    label {
-      display: block;
-      margin-bottom: 5px;
-    }
-
-    select,
-    button {
-      padding: 10px;
-      margin-bottom: 10px;
-      display: inline-block;
-      width: 100%;
-      box-sizing: border-box;
-    }
-
-    button {
-      background-color: #4caf50;
-      color: #fff;
-      cursor: pointer;
-    }
-
-    button:hover {
-      background-color: #45a049;
-    }
-
-    h3 {
-      margin-top: 0;
-    }
-
-    .languages-container {
-      margin-top: 20px;
-    }
-
-    .episodes-container {
-      margin-top: 20px;
-    }
-
-    .episodes-container label {
-      display: block;
-      margin-bottom: 10px;
-    }
-
-    audio {
-      width: 100%;
-      margin-top: 20px;
-    }
-
-    #serie-info {
-      margin-top: 20px;
-    }
-
-    #time-info {
-      margin-top: 10px;
-    }
-
-    #episodes-content {
-      margin-top: 10px;
-    }
-  </style>
 </head>
 <body>
 <div class="container">
@@ -88,7 +13,7 @@
 
   <div id="series-container" style="display:none;">
     <label for="serie">Seleccione una serie:</label>
-    <select id="serie" onchange="loadLanguages(); loadChapters(); updateSerieInfo();">
+    <select id="serie" onchange="loadLanguages(); resetPlaybackTime(); loadChapters(); updateSerieInfo();">
       <option value="">Seleccione una serie</option>
     </select>
   </div>
@@ -98,7 +23,8 @@
   <div>
     <h3>Reproductor</h3>
     <button onclick="togglePlayPause()" id="play-pause-button">Reproducir</button>
-  <div id="time-info"></div>
+    <div id="time-info"></div>
+    <div id="chapter-info"></div>
     <button onclick="forward()">Adelantar 15s</button>
     <button onclick="backward()">Retroceder 15s</button>
     <button onclick="increaseVolume()">Subir Volumen</button>
@@ -122,7 +48,6 @@
     </div>
   </div>
 
-
   <audio id="audio-player">
     Tu navegador no soporta la reproducción de audio.
   </audio>
@@ -130,7 +55,7 @@
 </div>
 
 <script>
-  const seriesDataUrl = 'https://raw.githubusercontent.com/ceosca/l/main/mili/doblaje.json';
+  const seriesDataUrl = 'https://github.com/ceosca/l/mili/raw/main/series.json';
   let timeInfoInterval;
   let isPlaying = false;
   let chapters = [];
@@ -212,6 +137,8 @@
     const chaptersSelect = document.getElementById('capitulo');
     chaptersSelect.innerHTML = '';
     chapters = selectedSerie.capitulos;
+    currentChapterIndex = 0;
+
     chapters.forEach((capitulo, index) => {
       const option = document.createElement('option');
       option.value = index;
@@ -219,15 +146,21 @@
       chaptersSelect.appendChild(option);
     });
 
+    updateChapterInfo();
+
     const currentTime = audioPlayer.currentTime;
     audioPlayer.src = currentEnlaces[currentLanguageIndex];
     audioPlayer.load();
-    audioPlayer.currentTime = currentTime;
+    audioPlayer.currentTime = 0;
     if (isPlaying) audioPlayer.play();
 
     clearInterval(timeInfoInterval);
     updatePlaybackTimeInfo();
     timeInfoInterval = setInterval(updatePlaybackTimeInfo, 1000);
+  }
+
+  function resetPlaybackTime() {
+    audioPlayer.currentTime = 0;
   }
 
   function updateSerieInfo() {
@@ -239,7 +172,7 @@
       <div><strong>Género:</strong> ${selectedSerie.genero}</div>
       <div><strong>Año:</strong> ${selectedSerie.anio}</div>
       <div><strong>Reparto:</strong> ${selectedSerie.reparto.join(", ")}</div>
-    <div><strong>País de origen:</strong> ${selectedSerie.pais_origen}</div>
+      <div><strong>País de origen:</strong> ${selectedSerie.pais_origen}</div>
       <div><strong>Episodios:</strong> ${selectedSerie.cantidad_episodios}</div>
       ${selectedSerie.sinopsis ? `<div><strong>Sinopsis:</strong> ${selectedSerie.sinopsis}</div>` : ''}
     `;
@@ -250,7 +183,12 @@
     currentChapterIndex = parseInt(chapterSelect.value);
     audioPlayer.currentTime = chapters[currentChapterIndex].inicio / 1000;
     audioPlayer.play();
-    document.getElementById('chapter-name').textContent = `Reproduciendo: ${chapters[currentChapterIndex].titulo}`;
+    updateChapterInfo();
+  }
+
+  function updateChapterInfo() {
+    const chapterInfo = document.getElementById('chapter-info');
+    chapterInfo.textContent = `Reproduciendo: ${chapters[currentChapterIndex].titulo}`;
   }
 
   function togglePlayPause() {
@@ -342,7 +280,11 @@
     const languageSelect = document.getElementById('language');
     currentLanguageIndex = parseInt(languageSelect.value);
 
+    const currentTime = audioPlayer.currentTime;
+
     loadChapters();
+
+    audioPlayer.currentTime = currentTime;
   }
 
   function increaseVolume() {
