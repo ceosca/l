@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1616427
+title=Capítulo 1: Piloto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1616427
+END=3256875
+title=Capítulo 2: A cargo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3256875
+END=4847275
+title=Capítulo 3: Evan y Trevin
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4847275
+END=6493696
+title=Capítulo 4: El premio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6493696
+END=8100096
+title=Capítulo 5: Apps de citas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8100096
+END=9662464
+title=Capítulo 6: Control parental
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9662464
+END=11230848
+title=Capítulo 7: Ángeles
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11230848
+END=12751147
+title=Capítulo 8: Un día especial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12751147
+END=14361558
+title=Capítulo 9: Rompecabezas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14361558
+END=16052054
+title=Capítulo 10: Tormenta de problemas

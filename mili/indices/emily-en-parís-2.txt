@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1634603
+title=Capítulo 1: Voulez-Vous Coucher Avec Moi?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1634603
+END=3351296
+title=Capítulo 2: ¿Conoces el camino a Saint-Tropez?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3351296
+END=5005909
+title=Capítulo 3: ¡Feliz cumpleaños!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5005909
+END=7133013
+title=Capítulo 4: Jules y Em
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7133013
+END=8869717
+title=Capítulo 5: Un inglés en París
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8869717
+END=10716544
+title=Capítulo 6: Al límite
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10716544
+END=12521301
+title=Capítulo 7: El cocinero, el ladrón, el fantasma y su amante
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12521301
+END=14155904
+title=Capítulo 8: Problemas en Champagne
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14155904
+END=15946667
+title=Capítulo 9: Esencia y sentimientos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15946667
+END=18304000
+title=Capítulo 10: Una revolución francesa

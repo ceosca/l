@@ -1,0 +1,26 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1173547
+title=Capítulo 1: Soy Haru, la nueva concierge
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1173547
+END=2180566
+title=Capítulo 2: ¿Pasa algo, Psyduck?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2180566
+END=3071361
+title=Capítulo 3: ¡Yo también quiero evolucionar ya!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3071361
+END=4278742
+title=Capítulo 4: ¡Bienvenida al Resort Pokémon!

@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2760021
+title=Capítulo 1: Cuenta regresiva
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2760021
+END=5520042
+title=Capítulo 2: Costa Roja
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5520042
+END=8280063
+title=Capítulo 3: Destructor de mundos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8280063
+END=10928554
+title=Capítulo 4: Su Señoría
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10928554
+END=13688575
+title=Capítulo 5: Juicio Final
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13688575
+END=16448596
+title=Capítulo 6: Estrellas Destino Nuestro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16448596
+END=19208617
+title=Capítulo 7: Un avance
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19208617
+END=21968638
+title=Capítulo 8: Proyecto Vallado

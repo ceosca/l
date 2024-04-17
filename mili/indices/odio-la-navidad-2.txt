@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1938517
+title=Capítulo 1: La reina de la Navidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1938517
+END=3871829
+title=Capítulo 2: Con cualquiera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3871829
+END=5896362
+title=Capítulo 3: Todos menos yo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5896362
+END=8030463
+title=Capítulo 4: Avanzar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8030463
+END=9772799
+title=Capítulo 5: Corazón en formol
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9772799
+END=11897983
+title=Capítulo 6: El trineo de Santa

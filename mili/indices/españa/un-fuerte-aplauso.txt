@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2267776
+title=Capítulo 1: El nacimiento
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2267776
+END=3884245
+title=Capítulo 2: En este momento
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3884245
+END=5614848
+title=Capítulo 3: La primera ruptura
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5614848
+END=7260245
+title=Capítulo 4: 66
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7260245
+END=8848341
+title=Capítulo 5: Plantas y amigos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8848341
+END=10266069
+title=Capítulo 6: De regreso

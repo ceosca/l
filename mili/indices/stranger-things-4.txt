@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=4703573
+title=Capítulo 1: Capítulo uno: El club
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4703573
+END=9381120
+title=Capítulo 2: Capítulo dos: La maldición de Vecna
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9381120
+END=13271893
+title=Capítulo 3: Capítulo tres: ¿Monstruo o superheroína?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13271893
+END=18035541
+title=Capítulo 4: Capítulo cuatro: Querido Billy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18035541
+END=22645034
+title=Capítulo 5: Capítulo cinco: Proyecto Nina
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22645034
+END=27168426
+title=Capítulo 6: Capítulo seis: En lo profundo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27168426
+END=33227349
+title=Capítulo 7: Capítulo siete: Masacre en el laboratorio Hawkins
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=33227349
+END=38475477
+title=Capítulo 8: Capítulo ocho: Papá
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=38475477
+END=47022890
+title=Capítulo 9: Capítulo nueve: El huésped

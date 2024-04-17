@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1699285
+title=Capítulo 1: El cazador intergaláctico
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1699285
+END=3324586
+title=Capítulo 2: Bucky Quanto's
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3324586
+END=4605866
+title=Capítulo 3: Parada técnica
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4605866
+END=6153173
+title=Capítulo 4: Pulga
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6153173
+END=7632469
+title=Capítulo 5: Parque temático (Parte 1)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7632469
+END=9139754
+title=Capítulo 6: Parque temático (Parte 2)
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9139754
+END=10345045
+title=Capítulo 7: Fuera de órbita
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10345045
+END=11820330
+title=Capítulo 8: Viaje extraño
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11820330
+END=13439615
+title=Capítulo 9: Enfrentamiento
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13439615
+END=14896895
+title=Capítulo 10: Los cazadores intergalácticos

@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3323947
+title=Capítulo 1: Lleva a tu hija al trabajo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3323947
+END=6097366
+title=Capítulo 2: Tira a papá del tren
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6097366
+END=9415297
+title=Capítulo 3: Como moscas a la miel
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9415297
+END=12853377
+title=Capítulo 4: El Gran Danés armado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12853377
+END=16281430
+title=Capítulo 5: Misión médula
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16281430
+END=19843627
+title=Capítulo 6: Cara de póquer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19843627
+END=22945366
+title=Capítulo 7: Oro líquido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22945366
+END=25686742
+title=Capítulo 8: Y aquí acaba todo

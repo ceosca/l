@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1763541
+title=Capítulo 1: Los bromistas se roban el sol / Espíritus gatitos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1763541
+END=3501098
+title=Capítulo 2: Lío en el río / Piedras movedizas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3501098
+END=5252650
+title=Capítulo 3: El despegue / Objetos perdidos de Lagartija
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5252650
+END=7018197
+title=Capítulo 4: El mejor jefe / Roca Buitre
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7018197
+END=8761728
+title=Capítulo 5: Espíritu travieso / ¿Qué es ese olor?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8761728
+END=10537259
+title=Capítulo 6: El lento y firme Eddy / ¿Dónde estás?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10537259
+END=12278827
+title=Capítulo 7: Aprender a decir adiós / Caos en el concierto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12278827
+END=14042368
+title=Capítulo 8: Un cuento de colas / Oler para creer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14042368
+END=15797931
+title=Capítulo 9: La trampa / Hogar dulce hogar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15797931
+END=17559467
+title=Capítulo 10: Protectores del agua

@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1416363
+title=Capítulo 1: ¡Buen día, Potato! / Chip empieza el jardín
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1416363
+END=2832726
+title=Capítulo 2: Chip se pierde / El lavadero de Chip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2832726
+END=4247083
+title=Capítulo 3: Chip anda en patines / Día de Chip y Abu
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4247083
+END=5663446
+title=Capítulo 4: El primer día de Nico / Chip deportista
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5663446
+END=7081814
+title=Capítulo 5: ¡Tobopuguigán! / La presentación de Chip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7081814
+END=8498177
+title=Capítulo 6: Chip y la osita / Chip aprende piano
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8498177
+END=9914540
+title=Capítulo 7: ¡A jugar con Nico! / Roxy, la niñera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9914540
+END=11332908
+title=Capítulo 8: La obrita de Chip / Hermamigos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11332908
+END=12749271
+title=Capítulo 9: La primera pijamada de Chip / Doctora Chip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12749271
+END=14165634
+title=Capítulo 10: Chip aprende a nadar / Los deberes de Spud

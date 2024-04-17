@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3288021
+title=Capítulo 1: Chica mala
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3288021
+END=6610090
+title=Capítulo 2: Chico malo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6610090
+END=9753983
+title=Capítulo 3: Los chicos buenos se salvan, los malos pagan
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9753983
+END=13001983
+title=Capítulo 4: No eres lo que esperaba
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13001983
+END=15991722
+title=Capítulo 5: El amor es solo un experimento, la vida es lo real
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15991722
+END=19185663
+title=Capítulo 6: Mujer fatal vs. hombre fatal
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19185663
+END=21971199
+title=Capítulo 7: Trigonometría: La edición del triángulo amoroso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21971199
+END=25359359
+title=Capítulo 8: La manera en que me cambias
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25359359
+END=28797567
+title=Capítulo 9: Me has hecho quien soy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=28797567
+END=32600106
+title=Capítulo 10: Un adiós apasionado

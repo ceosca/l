@@ -1,0 +1,92 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=677419
+title=Capítulo 1: El pastel de Bruda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=677419
+END=1344854
+title=Capítulo 2: El diente de Bobbi
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1344854
+END=1990273
+title=Capítulo 3: La casita de juegos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1990273
+END=2623702
+title=Capítulo 4: Tío Tao
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2623702
+END=3289131
+title=Capítulo 5: Almuerzo de volcán
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3289131
+END=3946539
+title=Capítulo 6: Autobús medusa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3946539
+END=4587947
+title=Capítulo 7: Wayu y el coral
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4587947
+END=5249366
+title=Capítulo 8: Roca esponjosa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5249366
+END=5912790
+title=Capítulo 9: El libro móvil de Bruda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5912790
+END=6578219
+title=Capítulo 10: La búsqueda del tesoro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6578219
+END=7231659
+title=Capítulo 11: Jugando al escondite
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7231659
+END=7891072
+title=Capítulo 12: Bobbi enfermo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7891072
+END=8534485
+title=Capítulo 13: Día de fotos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8534485
+END=9185920
+title=Capítulo 14: Baile de colores
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9185920
+END=9857323
+title=Capítulo 15: El regalo más pequeño

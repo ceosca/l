@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3146155
+title=Capítulo 1: Siempre me encantó la escuela
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3146155
+END=6020907
+title=Capítulo 2: ¡Que empiece el juego!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6020907
+END=8873259
+title=Capítulo 3: Cosechas lo que siembras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8873259
+END=11535403
+title=Capítulo 4: Cristal roto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11535403
+END=14587776
+title=Capítulo 5: Y así se volvió una extraña
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14587776
+END=17446656
+title=Capítulo 6: La calma antes de la tormenta

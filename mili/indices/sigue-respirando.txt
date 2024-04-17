@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2076800
+title=Capítulo 1: Llegadas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2076800
+END=4007424
+title=Capítulo 2: Fuego y agua
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4007424
+END=6422571
+title=Capítulo 3: Jerarquía de las necesidades humanas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6422571
+END=8393259
+title=Capítulo 4: Salidas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8393259
+END=10275840
+title=Capítulo 5: Despierta e inconsciente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10275840
+END=12578859
+title=Capítulo 6: Estás en casa

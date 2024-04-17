@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3075968
+title=Capítulo 1: Capítulo uno: ¿Me copias, Suzie?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3075968
+END=6127915
+title=Capítulo 2: Capítulo dos: Ratas de centro comercial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6127915
+END=9153835
+title=Capítulo 3: Capítulo tres: El caso de la guardavidas perdida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9153835
+END=12359936
+title=Capítulo 4: Capítulo cuatro: La prueba del sauna
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12359936
+END=15521963
+title=Capítulo 5: Capítulo cinco: Los desollados
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15521963
+END=19142443
+title=Capítulo 6: Capítulo seis: E pluribus unum
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19142443
+END=22492715
+title=Capítulo 7: Capítulo siete: La picadura
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22492715
+END=27196288
+title=Capítulo 8: Capítulo ocho: La batalla de Starcourt

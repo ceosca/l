@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1820587
+title=Capítulo 1: Perdedores
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1820587
+END=3503915
+title=Capítulo 2: Evolución
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3503915
+END=4983254
+title=Capítulo 3: Conoce a tu enemigo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4983254
+END=6280321
+title=Capítulo 4: Por toda la humanidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6280321
+END=7916033
+title=Capítulo 5: Fantasmas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7916033
+END=9138902
+title=Capítulo 6: Veritas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9138902
+END=10311382
+title=Capítulo 7: Todos para uno
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10311382
+END=11508737
+title=Capítulo 8: El puente de Einstein‑Rosen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11508737
+END=12899244
+title=Capítulo 9: Materia oscura
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12899244
+END=14408321
+title=Capítulo 10: Familia

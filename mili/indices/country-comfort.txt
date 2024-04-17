@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1251797
+title=Capítulo 1: Crazy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1251797
+END=2839936
+title=Capítulo 2: Teardrops on My Guitar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2839936
+END=4480128
+title=Capítulo 3: Sign, Sign, Everywhere a Sign
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4480128
+END=5864064
+title=Capítulo 4: My Girl
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5864064
+END=7348096
+title=Capítulo 5: Blue
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7348096
+END=8968277
+title=Capítulo 6: Summer Lovin’
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8968277
+END=10382250
+title=Capítulo 7: You’re Nobody Till Somebody Loves You
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10382250
+END=11896319
+title=Capítulo 8: Back in the Saddle Again
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11896319
+END=13364351
+title=Capítulo 9: You Matter to Me
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13364351
+END=14954495
+title=Capítulo 10: Bless the Broken Road

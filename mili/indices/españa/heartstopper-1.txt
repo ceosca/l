@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1671339
+title=Capítulo 1: El encuentro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1671339
+END=3616683
+title=Capítulo 2: La atracción
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3616683
+END=5426006
+title=Capítulo 3: El beso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5426006
+END=7205334
+title=Capítulo 4: El secreto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7205334
+END=8832683
+title=Capítulo 5: El amigo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8832683
+END=10637995
+title=Capítulo 6: Las chicas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10637995
+END=12249344
+title=Capítulo 7: El acoso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12249344
+END=14254677
+title=Capítulo 8: El novio

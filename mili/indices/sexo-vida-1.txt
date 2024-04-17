@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2765696
+title=Capítulo 1: Las esposas están en Connecticut
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2765696
+END=5437269
+title=Capítulo 2: En la estación del metro a medianoche
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5437269
+END=8581333
+title=Capítulo 3: Con el Empire State en la mente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8581333
+END=11194880
+title=Capítulo 4: Nueva York, una nueva ciudad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11194880
+END=14024619
+title=Capítulo 5: El sonido de los suburbios
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14024619
+END=16912427
+title=Capítulo 6: Un lugar que solo nosotros conocemos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16912427
+END=20038486
+title=Capítulo 7: Sábado por la noche en un pequeño pueblo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20038486
+END=23200555
+title=Capítulo 8: Este debe ser el lugar

@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3198677
+title=Capítulo 1: El inicio de la epidemia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3198677
+END=6125354
+title=Capítulo 2: Me devolvió la vida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6125354
+END=8736042
+title=Capítulo 3: La ventisca del siglo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8736042
+END=11460735
+title=Capítulo 4: Se cree que…
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11460735
+END=15169407
+title=Capítulo 5: ¡Vamos con todo!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15169407
+END=17942100
+title=Capítulo 6: ¿Qué importancia tiene un nombre?

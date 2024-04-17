@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1753557
+title=Capítulo 1: Montaña del Trueno / Sol adormilado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1753557
+END=3455104
+title=Capítulo 2: Primos / Totalmente eclipsados
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3455104
+END=5216640
+title=Capítulo 3: El campamento de orugas / El tesoro atesorado de Coyote
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5216640
+END=6962176
+title=Capítulo 4: Montaña estruendosa / Ojo de águila
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6962176
+END=8635733
+title=Capítulo 5: Problemas de truchas / Dulces sueños
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8635733
+END=10379264
+title=Capítulo 6: Las tres hermanas / El maestro del lacrosse
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10379264
+END=12122795
+title=Capítulo 7: Distraída por un gecko / Las entrañas de la bestia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12122795
+END=13852331
+title=Capítulo 8: Pobre lobo / La gran búfala mala
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13852331
+END=15587883
+title=Capítulo 9: Promesas rotas / La competencia de baile
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15587883
+END=17335424
+title=Capítulo 10: No soy tu mascota / Orgullo espinoso

@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1473536
+title=Capítulo 1: El gran autobús / Juan Paco Pedro de la Mar / Cuatro gatitos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1473536
+END=2926720
+title=Capítulo 2: Si estás feliz / Mis dientes bien voy a lavar / ABC estrellita
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2926720
+END=4400512
+title=Capítulo 3: Cabeza, hombros, rodillas y pies / ¿Qué hay ahí? / Lluvia, vete ya
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4400512
+END=5868075
+title=Capítulo 4: Estrellita, ¿dónde estás? / Una gran manzana / Cascabel, cascabel
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5868075
+END=7349718
+title=Capítulo 5: Mary tiene un corderito / ¡La comadreja! / Canción de calentamiento
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7349718
+END=8761643
+title=Capítulo 6: Cinco patitos / Itsy bitsy araña / Punchinello
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8761643
+END=10185003
+title=Capítulo 7: Hay que hornear / A la caza del león / Chootay maatey
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10185003
+END=11628374
+title=Capítulo 8: ¿Habías visto un monito? / Osito Teddy, osito Teddy / Un señor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11628374
+END=14160982
+title=Capítulo 9: Recopilación del Escenario Arcoíris 1

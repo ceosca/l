@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3154005
+title=Capítulo 1: Bienvenida a Nueva York
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3154005
+END=6253952
+title=Capítulo 2: Georgia en mi mente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6253952
+END=9171712
+title=Capítulo 3: Temporadas de amor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9171712
+END=12333696
+title=Capítulo 4: Mi debilidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12333696
+END=15353557
+title=Capítulo 5: El futuro empieza hoy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15353557
+END=18735786
+title=Capítulo 6: Día divino

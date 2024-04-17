@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1532245
+title=Capítulo 1: El estudiante más fuerte del mundo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1532245
+END=3018453
+title=Capítulo 2: Artes marciales de especies mixtas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3018453
+END=4550698
+title=Capítulo 3: Prisión e infierno
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4550698
+END=6080938
+title=Capítulo 4: Señor Segundo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6080938
+END=7579135
+title=Capítulo 5: Los terribles trillizos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7579135
+END=9103359
+title=Capítulo 6: Hombre del mar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9103359
+END=10629588
+title=Capítulo 7: Hipermacho e hipermacho
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10629588
+END=12157823
+title=Capítulo 8: Estilo Gilberto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12157823
+END=13686058
+title=Capítulo 9: Hora de decidir
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13686058
+END=15212287
+title=Capítulo 10: ¿No puedes reírte?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15212287
+END=16736511
+title=Capítulo 11: El guardia de la prisión habla sobre ello
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16736511
+END=18263978
+title=Capítulo 12: Más allá de la fuerza

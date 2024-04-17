@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3722496
+title=Capítulo 1: Bienvenidos a Nueva Raccoon City
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3722496
+END=6728277
+title=Capítulo 2: Malo conocido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6728277
+END=9786112
+title=Capítulo 3: La luz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9786112
+END=13108224
+title=Capítulo 4: El cambio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13108224
+END=16073984
+title=Capítulo 5: Nostalgia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16073984
+END=18863573
+title=Capítulo 6: La nenita de alguien
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18863573
+END=21973461
+title=Capítulo 7: Parásito
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21973461
+END=25792085
+title=Capítulo 8: Revelaciones

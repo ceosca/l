@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1468416
+title=Capítulo 1: Chip, la cachorrita de honor / El Día de Diversión de Chip y Nico
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1468416
+END=2936832
+title=Capítulo 2: Chip lo lamenta / La taquería de Abu y Gordie
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2936832
+END=4405248
+title=Capítulo 3: El show de los Flamenco / Boo-bam visita la escuela
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4405248
+END=5875669
+title=Capítulo 4: Peque y Potato / Howie tiene corazón
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5875669
+END=7342080
+title=Capítulo 5: Chip en el ensayo de boda / La gran boda perruna de Abu y Gordie
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7342080
+END=8810496
+title=Capítulo 6: El Día de Acción de Gracias de Chip

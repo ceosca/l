@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1657557
+title=Capítulo 1: Una ida y una vuelta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1657557
+END=3233109
+title=Capítulo 2: Entrenamiento intensivo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3233109
+END=4778666
+title=Capítulo 3: ¡Llámame, entrenador!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4778666
+END=6358229
+title=Capítulo 4: Mejoras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6358229
+END=8001792
+title=Capítulo 5: Espacio interior
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8001792
+END=9591339
+title=Capítulo 6: El viaje
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9591339
+END=11198891
+title=Capítulo 7: Noviobot
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11198891
+END=12774443
+title=Capítulo 8: Dale al kaiju
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12774443
+END=14256000
+title=Capítulo 9: Desafía la gravedad, hermano
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14256000
+END=15941547
+title=Capítulo 10: La mano del destino

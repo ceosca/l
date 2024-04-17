@@ -1,0 +1,116 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=998229
+title=Capítulo 1: Secretos del Parque Espíritu
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=998229
+END=2001280
+title=Capítulo 2: Mentalidad de cangrejo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2001280
+END=3016405
+title=Capítulo 3: Tiburón surfista
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3016405
+END=4032768
+title=Capítulo 4: El calzado viejo de Kodi
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4032768
+END=5047467
+title=Capítulo 5: Buscando el Norte
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5047467
+END=6057003
+title=Capítulo 6: El gran líder
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6057003
+END=7073323
+title=Capítulo 7: Hasta el fondo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7073323
+END=8077654
+title=Capítulo 8: Amor pegajoso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8077654
+END=9115222
+title=Capítulo 9: Festividad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9115222
+END=10142635
+title=Capítulo 10: Lo pequeño no quita lo valiente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10142635
+END=11155798
+title=Capítulo 11: Potlatch problemático
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11155798
+END=12183809
+title=Capítulo 12: En busca de una familia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12183809
+END=13190614
+title=Capítulo 13: Summer está a cargo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13190614
+END=14197249
+title=Capítulo 14: Barullo de barracudas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14197249
+END=15221121
+title=Capítulo 15: Flores silvestres
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15221121
+END=16221270
+title=Capítulo 16: Una enseñanza salvia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16221270
+END=17226795
+title=Capítulo 17: Enfrentar los miedos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17226795
+END=18224470
+title=Capítulo 18: Gran roble
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18224470
+END=19929089
+title=Capítulo 19: Tormentas y mantas

@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2944469
+title=Capítulo 1: Un giro inesperado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2944469
+END=5920341
+title=Capítulo 2: Conociéndonos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5920341
+END=8916181
+title=Capítulo 3: Brisa de primavera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8916181
+END=11653802
+title=Capítulo 4: Lo inesperado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11653802
+END=14515157
+title=Capítulo 5: Beso sin importancia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14515157
+END=17388117
+title=Capítulo 6: La dimensión desconocida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17388117
+END=20070954
+title=Capítulo 7: Reconciliación
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20070954
+END=22598655
+title=Capítulo 8: Común y corriente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22598655
+END=25229738
+title=Capítulo 9: ¡Doona!

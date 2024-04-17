@@ -1,0 +1,80 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1532288
+title=Capítulo 1: Una nueva historia de la humanidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1532288
+END=3078571
+title=Capítulo 2: Completamente rodeado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3078571
+END=4612864
+title=Capítulo 3: Fuerza de la naturaleza contra fuerza bruta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4612864
+END=6147157
+title=Capítulo 4: Las lágrimas de Pickle
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6147157
+END=7679445
+title=Capítulo 5: Solo quiero verte
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7679445
+END=9213738
+title=Capítulo 6: Más allá de la barrera del sonido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9213738
+END=10750037
+title=Capítulo 7: El momento álgido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10750037
+END=12284330
+title=Capítulo 8: Un alma salvaje
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12284330
+END=13804586
+title=Capítulo 9: Devorarse unos a otros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13804586
+END=15340885
+title=Capítulo 10: La reserva de comida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15340885
+END=16861141
+title=Capítulo 11: Los débiles se comen a los poderosos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16861141
+END=18383402
+title=Capítulo 12: La versión final
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18383402
+END=19913685
+title=Capítulo 13: La regla implícita de la pelea

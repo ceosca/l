@@ -1,0 +1,86 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=901376
+title=Capítulo 1: Princesas imparables e indestructibles
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=901376
+END=1746773
+title=Capítulo 2: La fiesta en el jardín de las princesas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1746773
+END=2628138
+title=Capítulo 3: El cuento de la princesa y la ballena
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2628138
+END=3529514
+title=Capítulo 4: Las estaciones de creación de las princesas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3529514
+END=4406911
+title=Capítulo 5: ¡Feliz cumpleaños de princesa!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4406911
+END=5312298
+title=Capítulo 6: Apagón de princesas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5312298
+END=6209663
+title=Capítulo 7: Estrellas fugaces para las princesas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6209663
+END=7121023
+title=Capítulo 8: El retrato real de la princesa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7121023
+END=7986388
+title=Capítulo 9: El dilema de la princesa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7986388
+END=8871764
+title=Capítulo 10: El gran festival de las princesas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8871764
+END=9779156
+title=Capítulo 11: La diversión de las princesas al sol
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9779156
+END=10694527
+title=Capítulo 12: Las princesas y las abejas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10694527
+END=11611903
+title=Capítulo 13: El partido espectacular de las princesas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11611903
+END=12525268
+title=Capítulo 14: Un príncipe entre princesas

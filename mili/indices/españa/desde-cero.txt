@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3239893
+title=Capítulo 1: Primeros sabores
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3239893
+END=6233557
+title=Capítulo 2: Carne e ossa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6233557
+END=9471445
+title=Capítulo 3: Una villa. Una escoba. Un pastel.
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9471445
+END=12491136
+title=Capítulo 4: Almendras amargas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12491136
+END=15767083
+title=Capítulo 5: Pan y salmuera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15767083
+END=18812800
+title=Capítulo 6: Reliquias
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18812800
+END=22296960
+title=Capítulo 7: Entre el fuego y la sartén
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22296960
+END=25654997
+title=Capítulo 8: Regustos

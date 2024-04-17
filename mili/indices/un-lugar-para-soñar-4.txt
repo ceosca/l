@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2691413
+title=Capítulo 1: Sé mi bebé
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2691413
+END=5480576
+title=Capítulo 2: ¿Un padre siempre tiene razón?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5480576
+END=8130773
+title=Capítulo 3: Asado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8130773
+END=10841557
+title=Capítulo 4: Tan serio como
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10841557
+END=13351850
+title=Capítulo 5: Emergencia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13351850
+END=16039509
+title=Capítulo 6: Todo vale
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16039509
+END=18501973
+title=Capítulo 7: Comprometida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18501973
+END=21226240
+title=Capítulo 8: Habla conmigo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21226240
+END=23931051
+title=Capítulo 9: Noticias explosivas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23931051
+END=26578774
+title=Capítulo 10: Fuego y lluvia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26578774
+END=29254870
+title=Capítulo 11: Otra vez
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29254870
+END=31925419
+title=Capítulo 12: El largo adiós

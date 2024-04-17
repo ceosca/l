@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3755989
+title=Capítulo 1: Impureza
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3755989
+END=6637269
+title=Capítulo 2: Un elemento inesperado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6637269
+END=9370709
+title=Capítulo 3: Un número limitado de caminos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9370709
+END=12248021
+title=Capítulo 4: Peculiaridades
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12248021
+END=15052800
+title=Capítulo 5: La historia del ronin y su esposa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15052800
+END=17168085
+title=Capítulo 6: Los sueños maléficos y enojos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17168085
+END=19925034
+title=Capítulo 7: Nada se rompe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19925034
+END=22884821
+title=Capítulo 8: El gran incendio de 1657

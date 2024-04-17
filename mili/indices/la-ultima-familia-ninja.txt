@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2760021
+title=Capítulo 1: La oferta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2760021
+END=5520042
+title=Capítulo 2: La pista
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5520042
+END=8280063
+title=Capítulo 3: La flor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8280063
+END=11040084
+title=Capítulo 4: La resurrección
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11040084
+END=13800105
+title=Capítulo 5: La confesión
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13800105
+END=16560126
+title=Capítulo 6: El extraño
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16560126
+END=19320147
+title=Capítulo 7: El acuerdo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19320147
+END=22080168
+title=Capítulo 8: El eclipse

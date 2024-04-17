@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3688875
+title=Capítulo 1: Principio del fin
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3688875
+END=7369771
+title=Capítulo 2: Cuatro marcos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7369771
+END=11416662
+title=Capítulo 3: Luna traicionera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11416662
+END=15175553
+title=Capítulo 4: Banquetes, bastardos y entierros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15175553
+END=18748417
+title=Capítulo 5: Apetitos incontenibles
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18748417
+END=22347308
+title=Capítulo 6: Especies raras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22347308
+END=25222188
+title=Capítulo 7: Antes de la caída
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25222188
+END=28825089
+title=Capítulo 8: Mucho más

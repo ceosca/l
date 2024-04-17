@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2595883
+title=Capítulo 1: Vivir es querer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2595883
+END=4982486
+title=Capítulo 2: Buenas acciones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4982486
+END=7739307
+title=Capítulo 3: Te perdiste y te encontramos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7739307
+END=10499328
+title=Capítulo 4: La alegría de dar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10499328
+END=12769195
+title=Capítulo 5: Caídos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12769195
+END=15016064
+title=Capítulo 6: Enjambre de creencias
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15016064
+END=17776085
+title=Capítulo 7: Promesas vacías
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17776085
+END=20536106
+title=Capítulo 8: Los milagros son solo para quienes creen en ellos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20536106
+END=23296127
+title=Capítulo 9: La rueda eterna

@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3121877
+title=Capítulo 1: Joe toma vacaciones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3121877
+END=5939456
+title=Capítulo 2: Retrato del artista
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5939456
+END=8558848
+title=Capítulo 3: El asesino de los ricos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8558848
+END=11810859
+title=Capítulo 4: Hampsy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11810859
+END=14731990
+title=Capítulo 5: El zorro y el perro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14731990
+END=17973974
+title=Capítulo 6: Grandes amistades
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17973974
+END=20755499
+title=Capítulo 7: Hombre bueno, mundo cruel
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20755499
+END=23795456
+title=Capítulo 8: ¿A dónde vas? ¿Dónde has estado?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23795456
+END=26576981
+title=Capítulo 9: Ella no está ahí
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26576981
+END=29800960
+title=Capítulo 10: La muerte de Jonathan Moore

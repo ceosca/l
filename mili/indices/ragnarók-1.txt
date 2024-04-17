@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2766592
+title=Capítulo 1: El chico nuevo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2766592
+END=5693184
+title=Capítulo 2: 541 metros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5693184
+END=8473771
+title=Capítulo 3: Jutulheim
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8473771
+END=11042347
+title=Capítulo 4: Ginnungagap
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11042347
+END=13828950
+title=Capítulo 5: Número atómico 48
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13828950
+END=16249558
+title=Capítulo 6: Sí, amamos este país

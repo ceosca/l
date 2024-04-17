@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1208917
+title=Capítulo 1: El restaurante tipo japonés
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1208917
+END=2353834
+title=Capítulo 2: Venice, California
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2353834
+END=3482751
+title=Capítulo 3: Leimert Park
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3482751
+END=4609663
+title=Capítulo 4: Tovaangar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4609663
+END=5734570
+title=Capítulo 5: Bob y Nancy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5734570
+END=6875477
+title=Capítulo 6: El barrio coreano

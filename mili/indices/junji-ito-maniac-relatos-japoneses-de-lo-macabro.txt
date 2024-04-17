@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1488043
+title=Capítulo 1: Los extraños hermanos Hikizuri
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1488043
+END=2994091
+title=Capítulo 2: La historia del túnel misterioso / El autobús de los helados
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2994091
+END=4496128
+title=Capítulo 3: Los globos colgantes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4496128
+END=5992149
+title=Capítulo 4: La habitación silenciosa / La guarida del arenero
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5992149
+END=7490176
+title=Capítulo 5: Intrusos / Cabello largo en el ático
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7490176
+END=8986197
+title=Capítulo 6: Moho / Biblioteca de ilusiones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8986197
+END=10486229
+title=Capítulo 7: La ciudad de las tumbas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10486229
+END=11990272
+title=Capítulo 8: Capas de terror / La cosa que apareció en la orilla
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11990272
+END=13488299
+title=Capítulo 9: La foto de Tomie
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13488299
+END=14994347
+title=Capítulo 10: El laberinto intolerable / Abuso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14994347
+END=16494379
+title=Capítulo 11: El pasillo / Esculturas sin cabeza
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16494379
+END=17990400
+title=Capítulo 12: La mujer susurrante / La querida mascota de Soichi

@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1476437
+title=Capítulo 1: Chip en la feria / Chip, ella es la señora Ballena
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1476437
+END=2946858
+title=Capítulo 2: Chip y Glenda / Chip, la animadora del pícnic
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2946858
+END=4419285
+title=Capítulo 3: El corte de pelo de Chip / La camiseta de Chip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4419285
+END=5887701
+title=Capítulo 4: La nueva cama de Peque / Chip hornea un pastel
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5887701
+END=7352106
+title=Capítulo 5: Kevin llega para quedarse / El primer cumpleaños de Peque
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7352106
+END=8782506
+title=Capítulo 6: Chip y Potato: Chip voladora

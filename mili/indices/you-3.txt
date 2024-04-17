@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3143979
+title=Capítulo 1: Y vivieron felices para siempre
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3143979
+END=6231851
+title=Capítulo 2: Me casé con una asesina
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6231851
+END=8913323
+title=Capítulo 3: Síndrome de la mujer blanca desaparecida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8913323
+END=11742934
+title=Capítulo 4: Unidos por Madre Linda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11742934
+END=14450433
+title=Capítulo 5: En el bosque
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14450433
+END=17656449
+title=Capítulo 6: Un nuevo emprendimiento
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17656449
+END=20734337
+title=Capítulo 7: Aquí todos estamos locos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20734337
+END=23814230
+title=Capítulo 8: Aventuras y desventuras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23814230
+END=26737963
+title=Capítulo 9: Señales de alerta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26737963
+END=30337579
+title=Capítulo 10: ¿Qué es el amor?

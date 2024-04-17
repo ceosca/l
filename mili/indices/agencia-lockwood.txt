@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2960768
+title=Capítulo 1: Estas seremos nosotras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2960768
+END=5789525
+title=Capítulo 2: Suéltame
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5789525
+END=8340266
+title=Capítulo 3: Doubt Thou the Stars
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8340266
+END=10989013
+title=Capítulo 4: Dulces sueños
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10989013
+END=13403776
+title=Capítulo 5: La muerte se acerca
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13403776
+END=15980544
+title=Capítulo 6: Nunca preguntaste
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15980544
+END=18231296
+title=Capítulo 7: Hipnotizado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18231296
+END=20918059
+title=Capítulo 8: No es la eternidad

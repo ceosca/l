@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3992704
+title=Capítulo 1: Dom Pérignon y un trago de soju
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3992704
+END=7218645
+title=Capítulo 2: El recuerdo de la abuela y la moda en Cheongdam
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7218645
+END=10804949
+title=Capítulo 3: Los VIP y los comunes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10804949
+END=14545408
+title=Capítulo 4: La tienda fugaz y la sastrería de siempre
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14545408
+END=18313899
+title=Capítulo 5: Seguidores y seguidos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18313899
+END=21637931
+title=Capítulo 6: La pared de fotos y la exhibición
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21637931
+END=24293291
+title=Capítulo 7: Ropa de antaño y sostenibilidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24293291
+END=27022720
+title=Capítulo 8: Moda y pasión

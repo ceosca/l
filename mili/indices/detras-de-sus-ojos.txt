@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3046571
+title=Capítulo 1: Encuentros fortuitos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3046571
+END=6049152
+title=Capítulo 2: Sueños lúcidos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6049152
+END=9075712
+title=Capítulo 3: La primera puerta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9075712
+END=12272299
+title=Capítulo 4: Rob
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12272299
+END=15070848
+title=Capítulo 5: La segunda puerta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15070848
+END=18121429
+title=Capítulo 6: Detrás de sus ojos

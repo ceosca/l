@@ -1,0 +1,44 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1492821
+title=Capítulo 1: ¡Qué nefastas noticias!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1492821
+END=2917760
+title=Capítulo 2: Domo, dulce hogar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2917760
+END=4319104
+title=Capítulo 3: Sin salida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4319104
+END=5729664
+title=Capítulo 4: Las vidas de Nine
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5729664
+END=7105323
+title=Capítulo 5: Hogar, amargo hogar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7105323
+END=8699008
+title=Capítulo 6: Las nueve colas del mal
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8699008
+END=10213973
+title=Capítulo 7: Desde el comienzo

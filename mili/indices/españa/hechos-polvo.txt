@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3321045
+title=Capítulo 1: Verdaderos héroes estadounidenses
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3321045
+END=6494464
+title=Capítulo 2: Nacido en la URSS
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6494464
+END=9150464
+title=Capítulo 3: Juego de dados
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9150464
+END=12293760
+title=Capítulo 4: Camino de la vergüenza
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12293760
+END=14998827
+title=Capítulo 5: ¡Disparos y más disparos!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14998827
+END=18185771
+title=Capítulo 6: Desde Las Vegas con amor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18185771
+END=21172139
+title=Capítulo 7: Llueve dinero
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21172139
+END=24627115
+title=Capítulo 8: La última oportunidad

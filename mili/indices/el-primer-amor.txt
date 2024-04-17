@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3166635
+title=Capítulo 1: Cuando las lilas florecen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3166635
+END=6115286
+title=Capítulo 2: Tu voz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6115286
+END=9171926
+title=Capítulo 3: Napolitan
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9171926
+END=12528555
+title=Capítulo 4: Odisea del espacio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12528555
+END=15681195
+title=Capítulo 5: Comunicarse en lenguaje de señas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15681195
+END=18663808
+title=Capítulo 6: El sexto sentido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18663808
+END=21750443
+title=Capítulo 7: El orden de los sueños
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21750443
+END=25651072
+title=Capítulo 8: El efecto proustiano de una tarde especial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25651072
+END=29461717
+title=Capítulo 9: El primer amor

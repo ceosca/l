@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3568384
+title=Capítulo 1: Y un sombrío día nació
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3568384
+END=6496128
+title=Capítulo 2: El sombrío encanto de la soledad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6496128
+END=9403861
+title=Capítulo 3: Amistad, sombrío tesoro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9403861
+END=12387669
+title=Capítulo 4: Una sombría noche de baile
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12387669
+END=15517653
+title=Capítulo 5: Cosecharás tu sombría siembra
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15517653
+END=18535509
+title=Capítulo 6: Sombríamente en deuda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18535509
+END=21381205
+title=Capítulo 7: Un sombrío dilema
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21381205
+END=24517162
+title=Capítulo 8: Fuerzas sombrías como una bandada de cuervos

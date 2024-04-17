@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2934101
+title=Capítulo 1: Bienvenida a Colorado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2934101
+END=5269632
+title=Capítulo 2: Vivir un poco
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5269632
+END=7838933
+title=Capítulo 3: El efecto Cole
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7838933
+END=10579669
+title=Capítulo 4: Diecinueve
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10579669
+END=13282218
+title=Capítulo 5: Día de Acción de Gracias
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13282218
+END=15797461
+title=Capítulo 6: Carga emocional
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15797461
+END=18571349
+title=Capítulo 7: Los rumores se esparcen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18571349
+END=21165610
+title=Capítulo 8: Descontrol
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21165610
+END=24062037
+title=Capítulo 9: Revoluciones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24062037
+END=27447381
+title=Capítulo 10: Felices por siempre

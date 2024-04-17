@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2778752
+title=Capítulo 1: Lote 36
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2778752
+END=5089493
+title=Capítulo 2: Ratas de cementerio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5089493
+END=8606250
+title=Capítulo 3: La autopsia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8606250
+END=12468991
+title=Capítulo 4: Por fuera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12468991
+END=16265727
+title=Capítulo 5: Modelo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16265727
+END=20030463
+title=Capítulo 6: Sueños en la casa de las brujas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20030463
+END=23441236
+title=Capítulo 7: La inspección
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23441236
+END=27316009
+title=Capítulo 8: El murmullo

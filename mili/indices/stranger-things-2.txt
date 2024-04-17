@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2933803
+title=Capítulo 1: Capítulo uno: MADMAX
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2933803
+END=6338091
+title=Capítulo 2: Capítulo dos: Dulce o truco, bicho raro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6338091
+END=9440086
+title=Capítulo 3: Capítulo tres: El renacuajo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9440086
+END=12255745
+title=Capítulo 4: Capítulo cuatro: Will, el Sabio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12255745
+END=15784150
+title=Capítulo 5: Capítulo cinco: Dig Dug
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15784150
+END=18938198
+title=Capítulo 6: Capítulo seis: El espía
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18938198
+END=21713835
+title=Capítulo 7: Capítulo siete: La hermana perdida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21713835
+END=24625622
+title=Capítulo 8: Capítulo ocho: El azotamentes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24625622
+END=28396289
+title=Capítulo 9: Capítulo nueve: El portal

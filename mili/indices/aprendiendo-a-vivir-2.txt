@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3124992
+title=Capítulo 1: Demente del Pájaro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3124992
+END=6037632
+title=Capítulo 2: P*tas vs. Sementales
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6037632
+END=8997589
+title=Capítulo 3: El pozo de sentimientos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8997589
+END=11980757
+title=Capítulo 4: Piernas abiertas y corazones rotos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11980757
+END=15116202
+title=Capítulo 5: El Rey Demonio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15116202
+END=18091477
+title=Capítulo 6: Éramos niños
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18091477
+END=21258112
+title=Capítulo 7: La ira de Voss
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21258112
+END=24415232
+title=Capítulo 8: Los muchachos no lloran

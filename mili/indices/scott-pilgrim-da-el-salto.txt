@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1711787
+title=Capítulo 1: Scott Pilgrim, su vida y sus cosas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1711787
+END=3361536
+title=Capítulo 2: Un equipo muy ex‑pecial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3361536
+END=4998272
+title=Capítulo 3: Ramona renta un video
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4998272
+END=6646016
+title=Capítulo 4: Qué importa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6646016
+END=8208683
+title=Capítulo 5: Luces. Cámara. ¿Amor?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8208683
+END=9874432
+title=Capítulo 6: ¿Quién fue?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9874432
+END=11537195
+title=Capítulo 7: Scott Pilgrim por partida doble
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11537195
+END=13239979
+title=Capítulo 8: El mundo vs. Scott Pilgrim

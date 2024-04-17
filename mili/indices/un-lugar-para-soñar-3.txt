@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2677376
+title=Capítulo 1: Donde hubo fuego
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2677376
+END=5235029
+title=Capítulo 2: Patas pegajosas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5235029
+END=8046805
+title=Capítulo 3: Corazones rotos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8046805
+END=10933802
+title=Capítulo 4: Me dejas sin palabras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10933802
+END=13654015
+title=Capítulo 5: Leña al fuego
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13654015
+END=16211412
+title=Capítulo 6: Jack y Jill
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16211412
+END=18880041
+title=Capítulo 7: La separación
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18880041
+END=21560404
+title=Capítulo 8: Vida y muerte
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21560404
+END=24493695
+title=Capítulo 9: El sol siempre sale
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24493695
+END=27105108
+title=Capítulo 10: Una boda, un bebé y ningún funeral

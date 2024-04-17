@@ -1,0 +1,26 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2529451
+title=Capítulo 1: El poder Kushi de Onari
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2529451
+END=5196928
+title=Capítulo 2: Los Poderosos Dioses de la Tormenta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5196928
+END=7898411
+title=Capítulo 3: La verdad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7898411
+END=10753878
+title=Capítulo 4: Sale la Luna Demonio

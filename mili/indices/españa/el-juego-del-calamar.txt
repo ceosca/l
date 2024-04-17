@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3644672
+title=Capítulo 1: Luz roja, luz verde
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3644672
+END=7459541
+title=Capítulo 2: Infierno
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7459541
+END=10763904
+title=Capítulo 3: El hombre del paraguas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10763904
+END=14126293
+title=Capítulo 4: No abandones el equipo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14126293
+END=17292501
+title=Capítulo 5: Un mundo justo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17292501
+END=21061333
+title=Capítulo 6: Gganbu
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21061333
+END=24597930
+title=Capítulo 7: Los VIP
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24597930
+END=26580949
+title=Capítulo 8: El líder
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26580949
+END=29965397
+title=Capítulo 9: Un día de suerte

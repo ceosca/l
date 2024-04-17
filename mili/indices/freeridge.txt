@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1722453
+title=Capítulo 1: La caja
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1722453
+END=3310762
+title=Capítulo 2: El pastel
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3310762
+END=4838997
+title=Capítulo 3: Canela
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4838997
+END=6601472
+title=Capítulo 4: Madre muerta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6601472
+END=8239829
+title=Capítulo 5: Edward con garras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8239829
+END=9908224
+title=Capítulo 6: Venganza
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9908224
+END=11542571
+title=Capítulo 7: Coincidencia kármica
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11542571
+END=13417174
+title=Capítulo 8: Día de Acción de Gracias

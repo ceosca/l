@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2937515
+title=Capítulo 1: Piloto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2937515
+END=5693099
+title=Capítulo 2: El último tipo agradable de Nueva York
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5693099
+END=8328278
+title=Capítulo 3: Tal vez
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8328278
+END=10909398
+title=Capítulo 4: El Capitán
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10909398
+END=16432001
+title=Capítulo 5: Viviendo con el enemigo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16432001
+END=19187286
+title=Capítulo 6: Amour fou
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19187286
+END=21758507
+title=Capítulo 7: Todalidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21758507
+END=24511787
+title=Capítulo 8: Soy tuyo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24511787
+END=27269163
+title=Capítulo 9: Candace
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27269163
+END=30300758
+title=Capítulo 10: El castillo de Barba Azul

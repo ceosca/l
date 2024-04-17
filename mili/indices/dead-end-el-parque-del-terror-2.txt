@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1597269
+title=Capítulo 1: Lleva a los ángeles al boliche
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1597269
+END=3246506
+title=Capítulo 2: Los gemelos malignos también son personas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3246506
+END=4925781
+title=Capítulo 3: Los desafíos de Barney
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4925781
+END=6589056
+title=Capítulo 4: Bienvenidos... al banquete
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6589056
+END=8116309
+title=Capítulo 5: El viaje de la vida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8116309
+END=9685546
+title=Capítulo 6: Mis superdulces 1600
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9685546
+END=11256789
+title=Capítulo 7: Un ejército de muñecas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11256789
+END=12860032
+title=Capítulo 8: El otro lado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12860032
+END=14395307
+title=Capítulo 9: ¡Vamos a subir!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14395307
+END=16146560
+title=Capítulo 10: La prueba

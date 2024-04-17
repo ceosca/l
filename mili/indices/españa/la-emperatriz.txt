@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3720704
+title=Capítulo 1: El lugar de uno en el mundo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3720704
+END=7201408
+title=Capítulo 2: La llegada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7201408
+END=10560128
+title=Capítulo 3: La boda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10560128
+END=13816832
+title=Capítulo 4: La cacería
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13816832
+END=16887552
+title=Capítulo 5: Los zapatos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16887552
+END=20556245
+title=Capítulo 6: Ese Dios llamado libertad

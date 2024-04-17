@@ -1,0 +1,44 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2694144
+title=Capítulo 1: El superpoder
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2694144
+END=5454165
+title=Capítulo 2: La carne
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5454165
+END=8214186
+title=Capítulo 3: El animal
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8214186
+END=10974207
+title=Capítulo 4: El sueño
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10974207
+END=13734228
+title=Capítulo 5: La isla
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13734228
+END=16494249
+title=Capítulo 6: La resurrección del cuerpo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16494249
+END=19038932
+title=Capítulo 7: La verga debe esperar

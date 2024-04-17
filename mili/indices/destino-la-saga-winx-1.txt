@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3242795
+title=Capítulo 1: Con un hada, de la mano
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3242795
+END=6147584
+title=Capítulo 2: Aquí no hay extraños
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6147584
+END=9286400
+title=Capítulo 3: Pesadas esperanzas mortales
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9286400
+END=12129195
+title=Capítulo 4: Ángeles caídos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12129195
+END=15168000
+title=Capítulo 5: Marchitarse en la verdad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15168000
+END=18420779
+title=Capítulo 6: Un corazón fanático

@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1828309
+title=Capítulo 1: Al César lo que es del César
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1828309
+END=3900629
+title=Capítulo 2: Como una ballena encallada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3900629
+END=5704960
+title=Capítulo 3: El faro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5704960
+END=7635285
+title=Capítulo 4: Quien denuncia primero es doblemente infame
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7635285
+END=9139626
+title=Capítulo 5: Millones de años luz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9139626
+END=10723967
+title=Capítulo 6: No hay lugar para ustedes

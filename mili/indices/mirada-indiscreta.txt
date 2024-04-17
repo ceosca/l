@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2406400
+title=Capítulo 1: El año en que viví dos vidas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2406400
+END=4558763
+title=Capítulo 2: Toda acción tiene una reacción
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4558763
+END=6701142
+title=Capítulo 3: Fragmentada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6701142
+END=9033515
+title=Capítulo 4: La mentira perfecta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9033515
+END=11275904
+title=Capítulo 5: Crimen y castigo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11275904
+END=13454293
+title=Capítulo 6: Sombras del pasado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13454293
+END=15556693
+title=Capítulo 7: Ella está entre nosotros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15556693
+END=17887061
+title=Capítulo 8: Tocar fondo es lo más ardiente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17887061
+END=20003456
+title=Capítulo 9: A la una, a las dos, ¡vendido!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20003456
+END=22961835
+title=Capítulo 10: El pasado está afuera, el futuro está aquí adentro

@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1544789
+title=Capítulo 1: Manos sucias
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1544789
+END=3083562
+title=Capítulo 2: Prisión mágica
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3083562
+END=4628351
+title=Capítulo 3: Código de Trucos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4628351
+END=6159146
+title=Capítulo 4: Bajo aguas abiertas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6159146
+END=7699925
+title=Capítulo 5: Me ganaré tu corazón
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7699925
+END=9216682
+title=Capítulo 6: Mira lo que tengo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9216682
+END=10715434
+title=Capítulo 7: Mil veces no
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10715434
+END=12288255
+title=Capítulo 8: ¿Cómo te atreves?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12288255
+END=13815039
+title=Capítulo 9: Un sándwich de maldad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13815039
+END=15371860
+title=Capítulo 10: Sujétate fuerte

@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1175381
+title=Capítulo 1: El show no debe continuar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1175381
+END=2292778
+title=Capítulo 2: Alianza
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2292778
+END=3510143
+title=Capítulo 3: Transporte escolar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3510143
+END=4705535
+title=Capítulo 4: Cambio de cuerpos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4705535
+END=5850922
+title=Capítulo 5: Clase de actuación
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5850922
+END=6942293
+title=Capítulo 6: Una cuestión de moral
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6942293
+END=8129664
+title=Capítulo 7: El alcalde Max
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8129664
+END=9339051
+title=Capítulo 8: La despedida

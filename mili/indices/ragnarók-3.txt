@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2279851
+title=Capítulo 1: La guerra terminó
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2279851
+END=5418326
+title=Capítulo 2: Hasta que la muerte nos separe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5418326
+END=7987969
+title=Capítulo 3: Sin fe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7987969
+END=10715564
+title=Capítulo 4: Mi tesoro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10715564
+END=13280044
+title=Capítulo 5: Adiós a las armas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13280044
+END=15850711
+title=Capítulo 6: Ragnarök

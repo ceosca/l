@@ -1,0 +1,20 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2732459
+title=Capítulo 1: Jochen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2732459
+END=5206912
+title=Capítulo 2: Yilmaz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5206912
+END=7943381
+title=Capítulo 3: Claudia

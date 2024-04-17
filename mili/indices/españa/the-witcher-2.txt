@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3802965
+title=Capítulo 1: La semilla de la verdad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3802965
+END=7325909
+title=Capítulo 2: Kaer Morhen
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7325909
+END=10898858
+title=Capítulo 3: Pérdidas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10898858
+END=14237823
+title=Capítulo 4: Servicio secreto de Redania
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14237823
+END=17644799
+title=Capítulo 5: Decisiones y consecuencias
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17644799
+END=21093759
+title=Capítulo 6: Querido amigo...
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21093759
+END=24376703
+title=Capítulo 7: Voleth Meir
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24376703
+END=27691647
+title=Capítulo 8: Familia

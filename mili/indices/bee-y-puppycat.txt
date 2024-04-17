@@ -1,0 +1,98 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1650901
+title=Capítulo 1: De nuevo... por primera vez
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1650901
+END=3269760
+title=Capítulo 2: ¿A quien le puede gustar algo así?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3269760
+END=4962688
+title=Capítulo 3: ¿Qué quieres ser?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4962688
+END=6511488
+title=Capítulo 4: Golpes suaves
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6511488
+END=8066304
+title=Capítulo 5: Deditos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8066304
+END=9619115
+title=Capítulo 6: Un día sin trabajar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9619115
+END=11165910
+title=Capítulo 7: Nieve y violetas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11165910
+END=12772779
+title=Capítulo 8: Mentiras divertidas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12772779
+END=14317568
+title=Capítulo 9: Favoritismo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14317568
+END=15854379
+title=Capítulo 10: ¿Te acordaste?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15854379
+END=17407190
+title=Capítulo 11: El besito del pájaro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17407190
+END=18949974
+title=Capítulo 12: Narices de payaso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18949974
+END=20502785
+title=Capítulo 13: Ojos dorados
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20502785
+END=22055596
+title=Capítulo 14: ¿Por qué no me ayudas?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22055596
+END=23610412
+title=Capítulo 15: Ahora sí estoy solo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23610412
+END=25149185
+title=Capítulo 16: No te abandonaré

@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2860203
+title=Capítulo 1: La llegada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2860203
+END=5642838
+title=Capítulo 2: ¿Milagros?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5642838
+END=7770838
+title=Capítulo 3: Despertar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7770838
+END=10416214
+title=Capítulo 4: ¿Verdad o mentira?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10416214
+END=13063382
+title=Capítulo 5: Fe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13063382
+END=15533313
+title=Capítulo 6: Revelación

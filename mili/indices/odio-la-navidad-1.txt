@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1904640
+title=Capítulo 1: La gran mentira de la Navidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1904640
+END=4067285
+title=Capítulo 2: Bicicletas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4067285
+END=5829930
+title=Capítulo 3: Eres especial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5829930
+END=7564586
+title=Capítulo 4: Puntos de vista
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7564586
+END=9275221
+title=Capítulo 5: La fiesta se acaba
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9275221
+END=11617877
+title=Capítulo 6: Como un pesebre

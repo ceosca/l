@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3002837
+title=Capítulo 1: Las llamas aún arden
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3002837
+END=5876394
+title=Capítulo 2: El discípulo n.º 13
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5876394
+END=8981845
+title=Capítulo 3: No confíes en nadie
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8981845
+END=11898282
+title=Capítulo 4: Levia borelis
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11898282
+END=15063551
+title=Capítulo 5: Una sombra aún más oscura
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15063551
+END=17805610
+title=Capítulo 6: El equilibrio

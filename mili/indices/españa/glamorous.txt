@@ -1,0 +1,56 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2478720
+title=Capítulo 1: ¡Confirma tu asistencia!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2478720
+END=5015424
+title=Capítulo 2: Ubicación secreta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5015424
+END=7724117
+title=Capítulo 3: Vuelve a la fila
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7724117
+END=10470826
+title=Capítulo 4: Solo efectivo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10470826
+END=13237546
+title=Capítulo 5: No hay más lugar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13237546
+END=16058239
+title=Capítulo 6: Capacidad máxima
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16058239
+END=18712959
+title=Capítulo 7: No me importa a quién conozcas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18712959
+END=21393663
+title=Capítulo 8: ¿Estás en la lista?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21393663
+END=24174378
+title=Capítulo 9: No olviden la propina

@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3641259
+title=Capítulo 1: Episodio 1
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3641259
+END=6200832
+title=Capítulo 2: Episodio 2
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6200832
+END=8808064
+title=Capítulo 3: Episodio 3
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8808064
+END=11964843
+title=Capítulo 4: Episodio 4
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11964843
+END=14860587
+title=Capítulo 5: Episodio 5
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14860587
+END=18005206
+title=Capítulo 6: Episodio 6

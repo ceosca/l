@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2742741
+title=Capítulo 1: Atenta al cielo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2742741
+END=5445418
+title=Capítulo 2: Capitán de bandoleros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5445418
+END=8205439
+title=Capítulo 3: La picota
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8205439
+END=10895060
+title=Capítulo 4: La primera nevada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10895060
+END=13463636
+title=Capítulo 5: Hermanos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13463636
+END=16189268
+title=Capítulo 6: El grito de primavera

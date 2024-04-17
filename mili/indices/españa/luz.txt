@@ -1,0 +1,122 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2601301
+title=Capítulo 1: La niña y la luciérnaga
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2601301
+END=4550741
+title=Capítulo 2: Una luz al final del internado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4550741
+END=6468181
+title=Capítulo 3: ¡Fuego! ¡Fuego!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6468181
+END=8447616
+title=Capítulo 4: La llama que nunca se apaga
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8447616
+END=10428501
+title=Capítulo 5: La prima indígena del profesor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10428501
+END=12446378
+title=Capítulo 6: Una alumna diferente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12446378
+END=14436607
+title=Capítulo 7: Una nueva luz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14436607
+END=16274260
+title=Capítulo 8: La número uno
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16274260
+END=18209620
+title=Capítulo 9: Una noche oscura
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18209620
+END=20625620
+title=Capítulo 10: Luz en la librería
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20625620
+END=22614697
+title=Capítulo 11: Una luz que nunca se apaga
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22614697
+END=24488916
+title=Capítulo 12: La cuentacuentos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24488916
+END=26454783
+title=Capítulo 13: Nunca estás sola
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26454783
+END=28441300
+title=Capítulo 14: Madres iluminadas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=28441300
+END=30412500
+title=Capítulo 15: El secreto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=30412500
+END=32368297
+title=Capítulo 16: Pistas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=32368297
+END=34393684
+title=Capítulo 17: El collar de la luciérnaga
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=34393684
+END=36340095
+title=Capítulo 18: El abuelo monstruo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=36340095
+END=38580010
+title=Capítulo 19: Padres e hijos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=38580010
+END=40974847
+title=Capítulo 20: La luciérnaga y las estrellas

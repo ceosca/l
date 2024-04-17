@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2760021
+title=Capítulo 1: Aang
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2760021
+END=5520042
+title=Capítulo 2: Guerreros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5520042
+END=8280063
+title=Capítulo 3: Omashu
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8280063
+END=11040084
+title=Capítulo 4: En la oscuridad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11040084
+END=13800105
+title=Capítulo 5: El viaje al Mundo de los Espíritus
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13800105
+END=16560126
+title=Capítulo 6: Máscaras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16560126
+END=19320147
+title=Capítulo 7: El norte
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19320147
+END=22080168
+title=Capítulo 8: Leyendas

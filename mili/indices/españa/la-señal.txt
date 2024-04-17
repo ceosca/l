@@ -1,0 +1,26 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2760021
+title=Capítulo 1: Desaparecer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2760021
+END=5520042
+title=Capítulo 2: Paula
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5520042
+END=8280063
+title=Capítulo 3: Caja negra
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8280063
+END=11040084
+title=Capítulo 4: Partida

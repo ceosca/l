@@ -1,0 +1,44 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3094613
+title=Capítulo 1: El principio de la mano oculta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3094613
+END=6021248
+title=Capítulo 2: El ángel de la historia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6021248
+END=9047893
+title=Capítulo 3: El desierto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9047893
+END=11854506
+title=Capítulo 4: Sin camino de vuelta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11854506
+END=15217151
+title=Capítulo 5: La condición humana
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15217151
+END=18111786
+title=Capítulo 6: Automatismo psíquico puro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18111786
+END=21352405
+title=Capítulo 7: Llamas en la nieve

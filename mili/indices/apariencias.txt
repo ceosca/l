@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1476608
+title=Capítulo 1: Cambios
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1476608
+END=2927189
+title=Capítulo 2: Nueva vida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2927189
+END=4455765
+title=Capítulo 3: Amigos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4455765
+END=5822336
+title=Capítulo 4: Mamá
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5822336
+END=7142912
+title=Capítulo 5: Solidaridad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7142912
+END=8761515
+title=Capítulo 6: Recomendación
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8761515
+END=10228096
+title=Capítulo 7: Colaboración especial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10228096
+END=12036693
+title=Capítulo 8: Muro

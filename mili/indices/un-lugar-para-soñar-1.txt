@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2899755
+title=Capítulo 1: Seguir adelante
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2899755
+END=5519574
+title=Capítulo 2: Perderse
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5519574
+END=8464854
+title=Capítulo 3: ... y encontrarse
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8464854
+END=11030401
+title=Capítulo 4: Corazón herido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11030401
+END=13705345
+title=Capítulo 5: Bajo fuego
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13705345
+END=16363948
+title=Capítulo 6: A mezclarse
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16363948
+END=18893825
+title=Capítulo 7: A decir verdad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18893825
+END=21417174
+title=Capítulo 8: Hacia la luz
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21417174
+END=23945515
+title=Capítulo 9: Todos esconden un secreto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23945515
+END=26700374
+title=Capítulo 10: Finales inesperados

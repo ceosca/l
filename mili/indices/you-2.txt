@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3001557
+title=Capítulo 1: Borrón y cuenta nueva
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3001557
+END=6042922
+title=Capítulo 2: Solo la puntita
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6042922
+END=9077845
+title=Capítulo 3: Amigos son los amigos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9077845
+END=12059392
+title=Capítulo 4: El bueno, el malo y Hendy
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12059392
+END=15087189
+title=Capítulo 5: ¡Buen findelasalud, Joe!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15087189
+END=17855530
+title=Capítulo 6: Adiós, mi conejito
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17855530
+END=20931370
+title=Capítulo 7: Crisis existencial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20931370
+END=23875967
+title=Capítulo 8: Pánico y locura en Beverly Hills
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23875967
+END=26615466
+title=Capítulo 9: Detective Joe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26615466
+END=29661269
+title=Capítulo 10: Realmente amor

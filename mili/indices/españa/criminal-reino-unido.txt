@@ -1,0 +1,20 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2608469
+title=Capítulo 1: Edgar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2608469
+END=5208960
+title=Capítulo 2: Stacey
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5208960
+END=7825451
+title=Capítulo 3: Jay

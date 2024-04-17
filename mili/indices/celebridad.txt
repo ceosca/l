@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3237973
+title=Capítulo 1: \#hazte_famosa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3237973
+END=6085589
+title=Capítulo 2: \#siguiendo, seguidor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6085589
+END=9229482
+title=Capítulo 3: \#me_gusta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9229482
+END=11904895
+title=Capítulo 4: \#conectemos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11904895
+END=14392148
+title=Capítulo 5: \#caja_de_Pandora \#el_mundo_en_el_que_viven
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14392148
+END=17009535
+title=Capítulo 6: \#lo_siento_pero_no_lo_siento \#la_vida_es_injusta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17009535
+END=19526826
+title=Capítulo 7: \#qué_caos \#dar_vuelta_el_juego
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19526826
+END=22240298
+title=Capítulo 8: \#jerarquía \#el_mundo_en_el_que_vivimos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22240298
+END=25015807
+title=Capítulo 9: \#la_verdad_gana \#haz_correr_el_rumor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25015807
+END=27446996
+title=Capítulo 10: \#preparen_las_palomitas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27446996
+END=29726036
+title=Capítulo 11: \#pero_está_muerta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29726036
+END=32363433
+title=Capítulo 12: \#en_ninguna_parte \#pero_en_todas_partes \#como_tú_y_yo

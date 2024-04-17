@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1404373
+title=Capítulo 1: Policía Chip Pug / Chip busca calabazas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1404373
+END=2810752
+title=Capítulo 2: El viaje escolar de Chip / Chip, la hermana mayor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2810752
+END=4219136
+title=Capítulo 3: La hermanita de Chip / Chip extraescolar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4219136
+END=5623509
+title=Capítulo 4: El cumpleaños de Abu Pug / ¡Puguigol!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5623509
+END=7029888
+title=Capítulo 5: Hermosa mariposa / Pica pica Chip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7029888
+END=8438272
+title=Capítulo 6: Chip vuelve a la escuela / Chip anda en superbicicleta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8438272
+END=9846656
+title=Capítulo 7: ¡Adiosito! / Reunión de padres
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9846656
+END=11253035
+title=Capítulo 8: El examen de piano de Chip / El proyecto de Chip
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11253035
+END=12657408
+title=Capítulo 9: Chip recorre el hospital / Chip sin Potato
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12657408
+END=14065792
+title=Capítulo 10: El cumple de Chip / Escuela nevada

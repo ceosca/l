@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2667733
+title=Capítulo 1: Trabajo para ella
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2667733
+END=5427754
+title=Capítulo 2: Mejor un corazón roto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5427754
+END=8187775
+title=Capítulo 3: Nunca hubiera apostado por ti
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8187775
+END=10947796
+title=Capítulo 4: La Furia es como la sarna
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10947796
+END=13305215
+title=Capítulo 5: ¿Cómo estás, mi amor?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13305215
+END=15904468
+title=Capítulo 6: La naturaleza aborrece el vacío
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15904468
+END=18500265
+title=Capítulo 7: Con el cuchillo entre los dientes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18500265
+END=21043796
+title=Capítulo 8: Namasté, idiota

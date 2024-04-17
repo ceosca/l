@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2602709
+title=Capítulo 1: Destrozado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2602709
+END=4109994
+title=Capítulo 2: La ciudad apagada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4109994
+END=5634559
+title=Capítulo 3: Escape de la ciudad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5634559
+END=7155498
+title=Capítulo 4: Bienvenidos a la jungla
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7155498
+END=8686677
+title=Capítulo 5: El árbol gigante
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8686677
+END=10242901
+title=Capítulo 6: Situación: Grave
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10242901
+END=11824597
+title=Capítulo 7: Terreno desconocido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11824597
+END=13363029
+title=Capítulo 8: Un equipo sin piratas

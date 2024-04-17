@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3349077
+title=Capítulo 1: Ya estás muerto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3349077
+END=6656042
+title=Capítulo 2: ¿Sabes quién soy?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6656042
+END=10104959
+title=Capítulo 3: Todo a su tiempo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10104959
+END=13467178
+title=Capítulo 4: Desde hace tiempo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13467178
+END=16891690
+title=Capítulo 5: Somos fantasmas uno del otro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16891690
+END=20233173
+title=Capítulo 6: El mundo es tuyo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20233173
+END=23800832
+title=Capítulo 7: Encuéntrame si puedes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23800832
+END=27511680
+title=Capítulo 8: Digno de amor

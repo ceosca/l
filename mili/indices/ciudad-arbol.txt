@@ -1,0 +1,92 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1433301
+title=Capítulo 1: Desfile de globos / Sin energía
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1433301
+END=2890581
+title=Capítulo 2: En sus marcas, listos, ¡rescate! / Inspección secreta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2890581
+END=4353877
+title=Capítulo 3: Pastel en fuga / ¡Acción!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4353877
+END=5777152
+title=Capítulo 4: Atajo al trabajo / Problemas de pizza
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5777152
+END=7246421
+title=Capítulo 5: Torpeza de mesa / La guía secreta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7246421
+END=8667690
+title=Capítulo 6: Supercerdo / Splash impresiona
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8667690
+END=10124970
+title=Capítulo 7: Flame dice que no / El nuevo Tricks
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10124970
+END=11582250
+title=Capítulo 8: Detective Pecky / Megataladro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11582250
+END=13043541
+title=Capítulo 9: Tecnología inteligente / ¡Ups!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13043541
+END=14474837
+title=Capítulo 10: El misterio de Stripes / Competencia de baile
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14474837
+END=15896106
+title=Capítulo 11: Cacatástrofe / Turno de noche
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15896106
+END=17297407
+title=Capítulo 12: Splash a tope / Un gran héroe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17297407
+END=18726698
+title=Capítulo 13: Cambio de empleo / La suerte de Prickles
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18726698
+END=20125994
+title=Capítulo 14: Kit va al espacio / Arréglalo, Flame
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20125994
+END=21543295
+title=Capítulo 15: Doble catapulta / Encerrados

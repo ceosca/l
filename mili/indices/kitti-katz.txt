@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1719381
+title=Capítulo 1: La chica nueva
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1719381
+END=3318741
+title=Capítulo 2: Gatos poseídos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3318741
+END=4802090
+title=Capítulo 3: El profesor fugitivo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4802090
+END=6291455
+title=Capítulo 4: El secreto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6291455
+END=7870804
+title=Capítulo 5: El poder de la caridad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7870804
+END=9344169
+title=Capítulo 6: La búsqueda del cetro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9344169
+END=10895529
+title=Capítulo 7: La búsqueda de la gema
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10895529
+END=12324905
+title=Capítulo 8: Caos gatuno
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12324905
+END=13892265
+title=Capítulo 9: El enigma de la pócima
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13892265
+END=15477630
+title=Capítulo 10: Locura en las vías

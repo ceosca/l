@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3536640
+title=Capítulo 1: El último capítulo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3536640
+END=6871253
+title=Capítulo 2: Las dos Danas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6871253
+END=10017877
+title=Capítulo 3: Corazón malvado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10017877
+END=13034496
+title=Capítulo 4: Dame un beso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13034496
+END=16453120
+title=Capítulo 5: Hasta luego
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16453120
+END=19841749
+title=Capítulo 6: Bruja
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19841749
+END=22886400
+title=Capítulo 7: Anya
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22886400
+END=26091051
+title=Capítulo 8: Camino a ninguna parte
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26091051
+END=29633664
+title=Capítulo 9: Enemigo eterno
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29633664
+END=33146283
+title=Capítulo 10: Medianoche

@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1830485
+title=Capítulo 1: Esto queda entre nosotros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1830485
+END=3758976
+title=Capítulo 2: La deuda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3758976
+END=5901483
+title=Capítulo 3: Rumores
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5901483
+END=7889963
+title=Capítulo 4: El plan
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7889963
+END=10172459
+title=Capítulo 5: Punto crítico
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10172459
+END=12286934
+title=Capítulo 6: El caballo de Troya
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12286934
+END=14503425
+title=Capítulo 7: La pieza de negociación
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14503425
+END=16753921
+title=Capítulo 8: El sacrificio

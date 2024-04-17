@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3367893
+title=Capítulo 1: La llamada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3367893
+END=6263338
+title=Capítulo 2: Retomar el contacto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6263338
+END=9633237
+title=Capítulo 3: La que controla todo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9633237
+END=12522666
+title=Capítulo 4: Confidencial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12522666
+END=15660330
+title=Capítulo 5: La marioneta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15660330
+END=18635861
+title=Capítulo 6: Claro como el agua
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18635861
+END=21389141
+title=Capítulo 7: Un plato que se sirve frío
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21389141
+END=24124416
+title=Capítulo 8: Otra vez
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24124416
+END=26833664
+title=Capítulo 9: Más vale malo conocido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26833664
+END=29542912
+title=Capítulo 10: Padres

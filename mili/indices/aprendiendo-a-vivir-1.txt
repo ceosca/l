@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3136469
+title=Capítulo 1: Perra del mapa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3136469
+END=6256725
+title=Capítulo 2: Tetas renacentistas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6256725
+END=9255424
+title=Capítulo 3: Genial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9255424
+END=12186453
+title=Capítulo 4: Largo de aquí
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12186453
+END=15281365
+title=Capítulo 5: Pollo de basurero
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15281365
+END=18085845
+title=Capítulo 6: Angeline
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18085845
+END=20948010
+title=Capítulo 7: La sheriff
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20948010
+END=24140970
+title=Capítulo 8: Tres de espadas

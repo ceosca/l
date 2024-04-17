@@ -1,0 +1,26 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2471552
+title=Capítulo 1: Ollie está perdido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2471552
+END=5543083
+title=Capítulo 2: La búsqueda
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5543083
+END=8142635
+title=Capítulo 3: Bali Hai
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8142635
+END=10934187
+title=Capítulo 4: En casa

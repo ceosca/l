@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=4237013
+title=Capítulo 1: Libertino, con todas las letras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4237013
+END=7469056
+title=Capítulo 2: La carrera ya va a empezar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7469056
+END=11581952
+title=Capítulo 3: Obsesiones
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11581952
+END=15082240
+title=Capítulo 4: Victoria
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15082240
+END=18618581
+title=Capítulo 5: Un destino inconcebible
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18618581
+END=22759509
+title=Capítulo 6: La decisión
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22759509
+END=26305834
+title=Capítulo 7: Armonía
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26305834
+END=30632959
+title=Capítulo 8: El vizconde que me amó

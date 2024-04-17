@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2760021
+title=Capítulo 1: Nuevos comienzos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2760021
+END=5520042
+title=Capítulo 2: Púrpura elegante
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5520042
+END=8280063
+title=Capítulo 3: Conoce a tus candidatas favoritas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8280063
+END=11040084
+title=Capítulo 4: Otro mundo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11040084
+END=13800105
+title=Capítulo 5: Uniforme sagrado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13800105
+END=16560126
+title=Capítulo 6: Si pudiera hacerlo todo otra vez

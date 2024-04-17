@@ -1,0 +1,44 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2911616
+title=Capítulo 1: Bienvenidos, amigos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2911616
+END=5913344
+title=Capítulo 2: Sacrificio de sangre
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5913344
+END=8756907
+title=Capítulo 3: Götterdämmerung
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8756907
+END=11434283
+title=Capítulo 4: Alguien vigila
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11434283
+END=14403968
+title=Capítulo 5: La navaja de Ockham
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14403968
+END=17073365
+title=Capítulo 6: El crepúsculo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17073365
+END=20211200
+title=Capítulo 7: El tormento

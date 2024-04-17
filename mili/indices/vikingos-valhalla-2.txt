@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3266005
+title=Capítulo 1: La red del destino
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3266005
+END=6231722
+title=Capítulo 2: Torres de fe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6231722
+END=8955178
+title=Capítulo 3: Partes de los dioses
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8955178
+END=11622613
+title=Capítulo 4: El deshielo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11622613
+END=14554282
+title=Capítulo 5: Nacer y volver a nacer
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14554282
+END=17696170
+title=Capítulo 6: Salto de fe
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17696170
+END=20321535
+title=Capítulo 7: Pechenegos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20321535
+END=23317290
+title=Capítulo 8: Ajuste de cuentas

@@ -1,0 +1,44 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1505365
+title=Capítulo 1: El verano de Tibucán / No se permiten peces en esta escuela / Lado salvaje
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1505365
+END=2990762
+title=Capítulo 2: Una inauguración poco grandiosa / Rápido y dudoso / La foto familiar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2990762
+END=4478122
+title=Capítulo 3: Tibucán basquetbolista / Tibucán enfermo / Tibucán en exclusiva
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4478122
+END=5965482
+title=Capítulo 4: De fiesta / Trabajo duro / Concurso de talentos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5965482
+END=7444863
+title=Capítulo 5: Frenesí de meteoritos / En las buenas y en las plagas / Dormir como un bebé
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7444863
+END=8926250
+title=Capítulo 6: Ceviche en la cena / ¡A surfear, Tibucán! / Nace una estrella
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8926250
+END=9983615
+title=Capítulo 7: El secuestro de Tibucán / Tibucán causa sensación

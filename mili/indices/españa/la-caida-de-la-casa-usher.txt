@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3403691
+title=Capítulo 1: Una lúgubre medianoche
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3403691
+END=7067520
+title=Capítulo 2: La máscara de la muerte roja
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7067520
+END=10697131
+title=Capítulo 3: Los crímenes de la calle Morgue
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10697131
+END=14456875
+title=Capítulo 4: El gato negro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14456875
+END=18125611
+title=Capítulo 5: El corazón delator
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18125611
+END=21611392
+title=Capítulo 6: Goldbug
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21611392
+END=25178027
+title=Capítulo 7: El pozo y el péndulo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25178027
+END=29796864
+title=Capítulo 8: El cuervo

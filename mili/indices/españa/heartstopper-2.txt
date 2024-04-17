@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1973333
+title=Capítulo 1: Salir del clóset
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1973333
+END=4074666
+title=Capítulo 2: La familia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4074666
+END=5983999
+title=Capítulo 3: La promesa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5983999
+END=8177322
+title=Capítulo 4: El desafío
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8177322
+END=10282069
+title=Capítulo 5: El calor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10282069
+END=12432640
+title=Capítulo 6: Verdad o reto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12432640
+END=14489216
+title=Capítulo 7: Las disculpas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14489216
+END=16924885
+title=Capítulo 8: Lo perfecto

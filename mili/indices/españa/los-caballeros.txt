@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2760021
+title=Capítulo 1: Agresión refinada
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2760021
+END=5520042
+title=Capítulo 2: Cielo Tommy pum pum
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5520042
+END=8280063
+title=Capítulo 3: ¿Dónde está mi hierba?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8280063
+END=10749567
+title=Capítulo 4: Un caballero un poco antipático
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10749567
+END=13392852
+title=Capítulo 5: Tengo cientos de primos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13392852
+END=16152873
+title=Capítulo 6: Cualquier eventualidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16152873
+END=18766206
+title=Capítulo 7: Todo tiene riesgo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18766206
+END=21360809
+title=Capítulo 8: El evangelio según Bobby Glass

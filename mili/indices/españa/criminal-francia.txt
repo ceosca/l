@@ -1,0 +1,20 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2384469
+title=Capítulo 1: Émilie
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2384469
+END=4656938
+title=Capítulo 2: Caroline
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4656938
+END=7207423
+title=Capítulo 3: Jérôme

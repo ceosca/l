@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3528149
+title=Capítulo 1: Piloto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3528149
+END=6577834
+title=Capítulo 2: Es una cara, no una máscara
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6577834
+END=9637503
+title=Capítulo 3: Mierda de gente rica de otro nivel
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9637503
+END=12747220
+title=Capítulo 4: Lydia Bennet es una feminista
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12747220
+END=16035156
+title=Capítulo 5: Bu, perra
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16035156
+END=19351081
+title=Capítulo 6: Estoy en crisis
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19351081
+END=22721065
+title=Capítulo 7: ¡Felices dulces 16!
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22721065
+END=26099028
+title=Capítulo 8: Marca una, marca otra
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26099028
+END=29533097
+title=Capítulo 9: Así son los sentimientos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29533097
+END=32861054
+title=Capítulo 10: Es la peor traición desde Jordan y Kylie

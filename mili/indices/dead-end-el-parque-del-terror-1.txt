@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1635243
+title=Capítulo 1: El trabajo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1635243
+END=3224491
+title=Capítulo 2: El túnel
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3224491
+END=4869760
+title=Capítulo 3: Confía en mí
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4869760
+END=6515029
+title=Capítulo 4: La noche de los chicos vivientes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6515029
+END=8028288
+title=Capítulo 5: La noche antes de Navidad en julio
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8028288
+END=9637547
+title=Capítulo 6: Tiempo de espera: 22 minutos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9637547
+END=11246806
+title=Capítulo 7: Norma Khan: Detective paranormal
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11246806
+END=12770049
+title=Capítulo 8: La experiencia de Pauline Phoenix
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12770049
+END=14647297
+title=Capítulo 9: El fantasma del parque temático
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14647297
+END=16348545
+title=Capítulo 10: Arde el infierno

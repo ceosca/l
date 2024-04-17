@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2869931
+title=Capítulo 1: Piloto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2869931
+END=5962240
+title=Capítulo 2: Favor por favor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5962240
+END=8942635
+title=Capítulo 3: Lo que quieras
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8942635
+END=11844566
+title=Capítulo 4: Cuadrado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11844566
+END=15101441
+title=Capítulo 5: Rolodex
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15101441
+END=18965420
+title=Capítulo 6: Un chico de campo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18965420
+END=23132673
+title=Capítulo 7: Gymkata
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23132673
+END=26417196
+title=Capítulo 8: Proteger a la familia

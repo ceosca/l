@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1193429
+title=Capítulo 1: La crianza
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1193429
+END=2330837
+title=Capítulo 2: Teléfono descompuesto
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2330837
+END=3458261
+title=Capítulo 3: Buscados
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3458261
+END=4589696
+title=Capítulo 4: La espera... desespera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4589696
+END=5813120
+title=Capítulo 5: El niño con dos cerebros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5813120
+END=7028523
+title=Capítulo 6: El antitranspirante emotivo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7028523
+END=8073942
+title=Capítulo 7: Tras las líneas amienemigas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8073942
+END=9323350
+title=Capítulo 8: El club de la pelea de almohadas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9323350
+END=10384769
+title=Capítulo 9: El nene de la abuela
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10384769
+END=11560193
+title=Capítulo 10: Excusa de sangre
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11560193
+END=12711596
+title=Capítulo 11: Mi pobre angelito... y compañía
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12711596
+END=13846999
+title=Capítulo 12: Clonación de dinosaurios

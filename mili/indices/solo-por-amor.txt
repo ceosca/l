@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3691947
+title=Capítulo 1: No hubo adiós. No hubo despedida.
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3691947
+END=7057579
+title=Capítulo 2: Dueña de mí misma
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7057579
+END=10883670
+title=Capítulo 3: Te amé, pero tú no me amabas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10883670
+END=15102123
+title=Capítulo 4: Exclusividad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15102123
+END=18928214
+title=Capítulo 5: Fingir que lo superamos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18928214
+END=23062614
+title=Capítulo 6: Los accidentes suceden

@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3494272
+title=Capítulo 1: Diamante de primera
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3494272
+END=7210795
+title=Capítulo 2: Sorprende y encanta
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7210795
+END=10649046
+title=Capítulo 3: El arte del desmayo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10649046
+END=14335531
+title=Capítulo 4: Un asunto de honor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14335531
+END=18030038
+title=Capítulo 5: El duque y yo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18030038
+END=21480278
+title=Capítulo 6: Frufrú
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21480278
+END=25148758
+title=Capítulo 7: Un abismo entre los dos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=25148758
+END=29525931
+title=Capítulo 8: Después de la tormenta

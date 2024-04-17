@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2730112
+title=Capítulo 1: Nuevos comienzos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2730112
+END=5427840
+title=Capítulo 2: Tomada por sorpresa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5427840
+END=8114816
+title=Capítulo 3: La mañana siguiente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8114816
+END=10758741
+title=Capítulo 4: Rumores
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10758741
+END=13678250
+title=Capítulo 5: No puedo dejarlo ir
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13678250
+END=16414079
+title=Capítulo 6: Cosas del pasado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16414079
+END=18873002
+title=Capítulo 7: Momento crucial
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=18873002
+END=21389183
+title=Capítulo 8: Puntos ciegos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=21389183
+END=24054612
+title=Capítulo 9: Peligros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24054612
+END=26792489
+title=Capítulo 10: Más allá de lo que imaginaba

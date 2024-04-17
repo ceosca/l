@@ -1,0 +1,32 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2704811
+title=Capítulo 1: Guepardo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2704811
+END=5422123
+title=Capítulo 2: León
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5422123
+END=8129408
+title=Capítulo 3: Puma
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8129408
+END=10820693
+title=Capítulo 4: Oso polar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10820693
+END=13505962
+title=Capítulo 5: Perro salvaje

@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3780181
+title=Capítulo 1: Shaerrawedd
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3780181
+END=7257088
+title=Capítulo 2: Rumbos separados
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7257088
+END=10954709
+title=Capítulo 3: Reencuentros
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10954709
+END=14290346
+title=Capítulo 4: La invitación
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14290346
+END=17335295
+title=Capítulo 5: El arte de la ilusión
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17335295
+END=20251690
+title=Capítulo 6: Todos tienen un plan hasta que les rompen la cara
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20251690
+END=23423658
+title=Capítulo 7: Huir del fuego para caer en las brasas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23423658
+END=27350613
+title=Capítulo 8: El costo del Caos

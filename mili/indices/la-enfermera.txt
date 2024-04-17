@@ -1,0 +1,26 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3248683
+title=Capítulo 1: Sobreviviré
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3248683
+END=6201344
+title=Capítulo 2: Dream Team
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6201344
+END=8872021
+title=Capítulo 3: Mi corazón entre tus manos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8872021
+END=11468714
+title=Capítulo 4: El turno nocturno

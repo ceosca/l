@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1668480
+title=Capítulo 1: Una perra vida... y encima te mueres
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1668480
+END=3284907
+title=Capítulo 2: Perra que ladra...
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3284907
+END=4853291
+title=Capítulo 3: Cría perras y te sacarán los ojos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4853291
+END=6389632
+title=Capítulo 4: Como perra y gata
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6389632
+END=7703723
+title=Capítulo 5: A otra perra con ese hueso
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7703723
+END=9159979
+title=Capítulo 6: Who Dat perra?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9159979
+END=10528128
+title=Capítulo 7: P.E.R.R.A.
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10528128
+END=12110507
+title=Capítulo 8: Hasta la vista, perra

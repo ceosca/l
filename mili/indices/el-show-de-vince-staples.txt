@@ -1,0 +1,32 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1579605
+title=Capítulo 1: La casa rosa
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1579605
+END=3164373
+title=Capítulo 2: Negocio negro
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3164373
+END=4306261
+title=Capítulo 3: Familia Brown
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4306261
+END=5563861
+title=Capítulo 4: Puerta roja
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5563861
+END=6855424
+title=Capítulo 5: Niño blanco

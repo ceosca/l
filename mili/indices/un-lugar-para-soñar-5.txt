@@ -1,0 +1,74 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2777856
+title=Capítulo 1: Una segunda oportunidad
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2777856
+END=5621291
+title=Capítulo 2: Songbird
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5621291
+END=8530774
+title=Capítulo 3: Riesgo calculado
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8530774
+END=11354198
+title=Capítulo 4: Tal vez nunca sea como antes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11354198
+END=13999446
+title=Capítulo 5: Juicio de fuego
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=13999446
+END=16520534
+title=Capítulo 6: Surgen los héroes
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=16520534
+END=19398017
+title=Capítulo 7: De las cenizas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19398017
+END=22033238
+title=Capítulo 8: Luna llena
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=22033238
+END=24690475
+title=Capítulo 9: Angel's Peak
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=24690475
+END=27541931
+title=Capítulo 10: Día del Trabajo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=27541931
+END=30190720
+title=Capítulo 11: Cuantos más, mejor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=30190720
+END=33346261
+title=Capítulo 12: Navidad con mi padre

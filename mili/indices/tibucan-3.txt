@@ -1,0 +1,44 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1493333
+title=Capítulo 1: Tiburones, canes y tibucanes / Día de Tibucán / El monstruo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1493333
+END=2972672
+title=Capítulo 2: Concurso de gnomos / Cazadores de noticias / Tibucán vs. Tibucán
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2972672
+END=4445995
+title=Capítulo 3: El mapa de la isla / Tibucán sobre hielo / Cómo Barb recuperó la marcha
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4445995
+END=5915350
+title=Capítulo 4: La isla secreta / La magnífica aventura de Tibucán y Mia / Sin salida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5915350
+END=7396694
+title=Capítulo 5: Escuela de tibucachorros / Cómo entrenar a tus tibucachorros / La venta de repostería
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7396694
+END=8870017
+title=Capítulo 6: Excursión en la ciudad / El globo / Tiburones a bordo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8870017
+END=9917356
+title=Capítulo 7: Regreso a la isla

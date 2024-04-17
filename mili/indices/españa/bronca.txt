@@ -1,0 +1,62 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=2345045
+title=Capítulo 1: Los pájaros no cantan, sino que gritan de dolor
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2345045
+END=4353749
+title=Capítulo 2: La alegría de estar vivos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4353749
+END=6464554
+title=Capítulo 3: Estoy habitada por un grito
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6464554
+END=8629418
+title=Capítulo 4: Pero no todo al mismo tiempo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8629418
+END=10698197
+title=Capítulo 5: Tales criaturas secretas e introvertidas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10698197
+END=12899114
+title=Capítulo 6: Dibujamos un círculo mágico
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=12899114
+END=15130069
+title=Capítulo 7: Soy una jaula
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=15130069
+END=17284949
+title=Capítulo 8: El drama de la elección original
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17284949
+END=19125504
+title=Capítulo 9: El gran fabricante
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=19125504
+END=21158229
+title=Capítulo 10: Figuras de luz

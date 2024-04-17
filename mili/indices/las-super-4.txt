@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1613525
+title=Capítulo 1: Hay equipo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1613525
+END=3235029
+title=Capítulo 2: El manejo del hambre
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3235029
+END=4876544
+title=Capítulo 3: Zee
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4876544
+END=6508032
+title=Capítulo 4: El desafío de Monde
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=6508032
+END=8141525
+title=Capítulo 5: Arte inteligente
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8141525
+END=9765034
+title=Capítulo 6: Perdido
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=9765034
+END=11382527
+title=Capítulo 7: Su historia
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11382527
+END=13004031
+title=Capítulo 8: El poder de la mente (Parte 1)

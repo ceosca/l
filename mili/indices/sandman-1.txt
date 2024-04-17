@@ -1,0 +1,68 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3250091
+title=Capítulo 1: El sueño de los justos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3250091
+END=5525206
+title=Capítulo 2: Anfitriones imperfectos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5525206
+END=8274774
+title=Capítulo 3: Sueña conmigo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8274774
+END=10998315
+title=Capítulo 4: Una esperanza en el Infierno
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10998315
+END=14262400
+title=Capítulo 5: 24 horas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14262400
+END=17460437
+title=Capítulo 6: El son de sus alas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=17460437
+END=20376192
+title=Capítulo 7: La casa de muñecas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=20376192
+END=23392043
+title=Capítulo 8: Jugar a papás y mamás
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=23392043
+END=26323798
+title=Capítulo 9: Coleccionistas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=26323798
+END=29107414
+title=Capítulo 10: Corazones perdidos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=29107414
+END=32956118
+title=Capítulo 11: Un sueño de mil gatosCalíope

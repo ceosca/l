@@ -1,0 +1,38 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=3030571
+title=Capítulo 1: Compañeros de armas
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=3030571
+END=5895168
+title=Capítulo 2: ¿Qué pasó con la dulce señora?
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5895168
+END=8783744
+title=Capítulo 3: La voz del pueblo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8783744
+END=11692331
+title=Capítulo 4: Dios y la muerte
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=11692331
+END=14656939
+title=Capítulo 5: Conócete a ti mismo
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=14656939
+END=17963520
+title=Capítulo 6: Lo único que importa es el amor

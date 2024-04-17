@@ -1,0 +1,50 @@
+;FFMETADATA1
+title=Índice de Capítulos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=1460693
+title=Capítulo 1: Evita ese lugar
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=1460693
+END=2967850
+title=Capítulo 2: Batalla en el laberinto Boscage
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=2967850
+END=4432383
+title=Capítulo 3: Segundo viento
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=4432383
+END=5945812
+title=Capítulo 4: Sin salida
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=5945812
+END=7387860
+title=Capítulo 5: Hay locura en sus métodos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=7387860
+END=8820777
+title=Capítulo 6: Problema doble
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=8820777
+END=10198526
+title=Capítulo 7: El Consejo del Caos
+
+[CHAPTER]
+TIMEBASE=1/1000
+START=10198526
+END=11611859
+title=Capítulo 8: Pocas chances
